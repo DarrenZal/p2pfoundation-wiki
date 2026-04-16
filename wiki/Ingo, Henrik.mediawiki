@@ -1,1 +1,18 @@
 #REDIRECT [[Henrik Ingo]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.064401Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-cc24ff946d134062b8e7d385bf30dd723f171a8420158aa39e37cc8feaf408ab -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+= Author of "[[Open Life]]: The Philosophy of Open Source
+
+=Bio=
+
+Henrik Ingo, henrik.ingo@avoinelama.fi, Telecom Sales Engineer Sun
+Microsystems. Author of "Open Life: The Philosophy of Open Source".
+Author of several articles and speaker in conferences on Open Source
+technical issues as well as business models.
+
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

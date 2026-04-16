@@ -1,1 +1,25 @@
 #REDIRECT [[Clay Shirky on Self-Organized Online Cause Groups]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.820034Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-674b1455dcd6365d406f5e3e232255c66caacf4d8c883660d44054196c88e332 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+Video via  http://video.yahoo.com/watch/10577112/10577112
+
+
+=Description=
+
+"For more on the rise of self-organized, online cause groups, see this video clip (below) of Clay Shirky addressing the recent Pop!Tech 2008 conference. Social media, Shirky says, are encouraging people to “design [new groups] for generosity” and are—in the process—“reversing everything we’re used to” about traditional philanthropy."
+(http://causeglobal.blogspot.com/2009/01/flash-causes.html)
+
+
+[[Category:Webcasts]]
+
+[[Category:Movements]]
+
+[[Category:Media]]
+
+[[Category:Politics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

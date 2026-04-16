@@ -1,1 +1,5 @@
 #REDIRECT [[Product-Centered Local Economy vs People-Centered Local Economy]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.298447Z -->
+<!-- resolution-status: cycle_detected -->
+<!-- resolution-notes: cycle: Product-Centered Local Economy vs People-Centered Local Economy → Product-Centered Local Economy vs People-Centered Local Economy -->

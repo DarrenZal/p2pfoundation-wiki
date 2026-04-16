@@ -1,1 +1,25 @@
 #REDIRECT [[Michael Anti on How Blogging Has Changed China]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.170865Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-4ad7057803ea7552c130b857d20c69919068e6a7397178a23e8167eac370047c -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Podcast at http://media-cyber.law.harvard.edu/AudioBerkman/Michael_Anti_2007_11_27.mp3
+
+=Description=
+
+"Michael Anti, New York Times Beijing bureau reporter and fellow at Harvard University’s Nieman Foundation, was the guest speaker this week at the Berkman Center’s Luncheon Series.
+
+Anti discussed how the recent surge in blogging has changed the state-run media landscape of China and altered the centralized control the ruling party holds over free expression in the world’s most populace nation.
+
+Michael Anti (Zhao Jing), a Nieman Follow at Harvard, is a journalism researcher with the Beijing Bureau of New York Times. He runs several political columns on Chinese top newspapers and magazines. He was a war reporter for a Chinese newspaper in Baghdad in March 2003. His well-known Chinese political blog was shutdown by Microsoft in December 2005. In the wake of this case, he turned to run a collaborative online weekly magazine on International politics. He is an international jury member of Deutsche Welle’s Best of Blogs competition in 2005, 2006 and 2007."
+(http://blogs.law.harvard.edu/mediaberkman/2007/11/29/new-york-times-michael-anti-on-blogging-in-china-podcast/)
+
+
+[[Category:Politics]]
+
+[[Category:Podcasts]]
+
+[[Category:China]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

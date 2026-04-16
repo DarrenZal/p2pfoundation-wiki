@@ -1,1 +1,18 @@
 #REDIRECT [[Doug Schuler]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.350053Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-fd12fa3606929e2be85e1c15f8e1ec173c05e550584961bccf44e897c1c574cd -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+==Bio==
+
+"Douglas Schuler is a member of the faculty at The Evergreen State College, former Chair of [http://cpsr.org/ Computer Professionals for Social Responsibility] (CPSR), and a founding member of the [http://www.scn.org/ Seattle Community Network] (SCN). He is coeditor of several books, including Shaping the Network Society: The New Role of Civic Society in Cyberspace (MIT Press, 2004) and the author of [[New Community Networks]]: Wired for Change, as well as [[Liberating Voices]] (2008)."
+
+==More Information==
+* [[Civic Intelligence]]
+* [[Liberating Voices]]
+* [[New Community Networks]]
+
+[[Category:Bios]]
+[[Category:Politics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

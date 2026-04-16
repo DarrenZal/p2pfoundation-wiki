@@ -1,1 +1,13 @@
 #REDIRECT [[Petros Polonos]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.262683Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-5ebe933b6aa7ae1a9fe8101053b886d3a5b8b5ade97b6289ac951811a00bdbd0 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Also known as Petros Polonos. An ex-ecommerce entrepreneur, currently jobless, homeless and broke. Due to the lack of any chances for employment, he decided to start saving the world instead. Anarcho-positivist, freshly converted into P2P and the Commons. 
+* Co founder of the Warsaw Hackerspace. 
+* Co founder of [[User:FreeLab_Org_PL|FreeLab Poland]]
+* Independent writer ans activist.
+
+Born 1963. Free human being.
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

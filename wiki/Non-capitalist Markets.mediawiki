@@ -1,1 +1,10 @@
 #REDIRECT [[Non-Capitalist Markets]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.201599Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-350cdb197d0dc62ce288b42bfed061b29e33432678d6dd9c32071aa945739f47 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+The content of this entry has been moved to [[Markets without Capitalism]]
+
+[[Category:P2P Market Approaches]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,5 @@
 #REDIRECT [[Open Source Appropriate Technology]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.205438Z -->
+<!-- resolution-status: cycle_detected -->
+<!-- resolution-notes: cycle: Open Source Appropriate Technology → Open Source Appropriate Technology -->

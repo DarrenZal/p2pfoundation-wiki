@@ -1,1 +1,33 @@
 #REDIRECT [[Leaderless Revolution]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.406124Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-1c581128e8ecc9ae314117cfcd767a998255082c2cece8e305811798451a0820 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''* Book: The Leaderless Revolution: How Ordinary People Will Take Power and Change Politics in the 21st Century. Carne Ross. Blue Rider Press. 2012.'''
+
+URL = http://theleaderlessrevolution.com/
+
+
+=Description=
+
+"The Leaderless Revolution explains why our government institutions are inadequate to the task of solving major problems and offers a set of steps we can take to create lasting and workable solutions ourselves. In taking these steps, we can not only reclaim the control we have lost, but also a sense of meaning and community so elusive in the current circumstance. In a day and age when things feel bleak and beyond our control, this powerful and personal book will revive one's sense of hope that a better, more just and equitable order lies within our reach-if only we are willing to grasp it."
+
+
+=Author bio=
+
+'Carne Ross was a British diplomat for 15 years before leaving the foreign service to found Independent Diplomat, a nonprofit consulting firm that offers diplomatic advice to poor, politically marginalized governments and political groups, including Kosovo, Somaliland, and other NGOs and institutions. He’s written two books: Independent Diplomat: Dispatches From an Unaccountable Elite and Leaderless Revolution."
+(http://billmoyers.com/content/live-chat-carne-ross/)
+
+
+=More Information=
+
+* Video: [[Carne Ross on the Leaderless Revolution]] [http://player.vimeo.com/video/39482332]
+
+
+[[Category:Books]]
+
+[[Category:P2P Hierarchy Theory]]
+
+[[Category:Peergovernance]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

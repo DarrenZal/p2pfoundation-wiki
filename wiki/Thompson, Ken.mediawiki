@@ -1,1 +1,20 @@
 #REDIRECT [[Ken Thompson]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.418188Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-dfc3404e77c1468a216fb9214bf95d48f154e6c9236cf4e745bbe84cf1d07eb5 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+"Ken is the founder of www.bioteams.com – a research blog dedicated to how organizational teams can learn from nature’s best teams.
+
+Ken also helps distributed business teams in medium and large-sized organizations become successful through a unique approach to team design and working practices."
+
+
+See the entries on [[Bioteaming]] and [[Mass Collaboration]]
+
+
+[[Category:Bios]]
+
+[[Category:Research]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

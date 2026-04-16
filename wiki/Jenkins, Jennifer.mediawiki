@@ -1,1 +1,18 @@
 #REDIRECT [[Jennifer Jenkins]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.082653Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-cb76caa69ef596cf61927960b8dd4a9180267a54633d7cc99c210658e4d26e34 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= director of Duke University's Center for the Study of the [[Public Domain]]'''
+
+=Bio=
+
+"Jennifer Jenkins is director of Duke's Center for the Study of the Public Domain, where she heads its "Arts Project" — a project analyzing the effects of intellectual property on cultural production. She is a co-author of Bound By Law, a "graphic novel" about the effects of copyright on documentary film, and of "Nuestra Hernandez," a fictional documentary addressing copyright and appropriation."
+(http://creativecommons.org.tw/static/conference2007/speakers/english)
+
+
+[[Category:Policy]]
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,24 @@
 #REDIRECT [[Pal Steigan]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.249519Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-b5779c9592e6df6748b11df47751f35265f861c0e2328fd821130c816c368d6d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Bio=
+
+"currently lives in Tolfa, Italy, where 95 % of the land is owned as a commons. He has some very interesting visions for making Tolfa a model for the commons, and should be supported. 
+
+Although he's living in Tolfa he's frequently travelling to Scandinavia for having lectures, publishing books etc. But I think he's more "popular" in Sweden than in Norway for some reason."
+
+=More Information=
+
+* blog at http://steigan.no/
+
+[[Category:Bios]]
+
+[[Category:Commons]]
+
+[[Category:Norway]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

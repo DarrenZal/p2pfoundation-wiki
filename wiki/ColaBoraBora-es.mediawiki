@@ -1,1 +1,28 @@
 #REDIRECT [[ColaBoraBora]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.824577Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-cb0779202f07658e5be95445ae36636b4297c71fef14e24772fd692b932f99c9 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''=Isla en proceso de exploración en torno al procomún'''
+
+URL = http://www.colaborabora.org
+
+==Detalles==
+ColaBoraBora es una Cooperativa Pequeña de Iniciativa Social (tiene su origen y es la continuación de AMASTÉ), que trabaja alrededor del procomún, el conocimiento y la cultura libre, el código abierto, las redes distribuidas y dinámicas P2P, las prácticas colaborativas, la innovación y el emprendizaje social, la economía alternativa y solidaria, o los i-cosistemas creativos. Desde la consultoría y la participación en la conceptualización y gest(ac)ión de proyectos con una visión estratégica y comprometida; hasta el diseño de sistemas, procesos y servicios de modo colaborativo; o su implementación a partir de prototipos en continua redefinición. 	
+Desarrollamos iniciativas como: #HONDARTZAN, una comunidad de práctica alrededor del procomún; GoteoEuskadi, una red social de financiación colectiva y colaboración distribuida; CopyLove una investigación sobre afectos, cuidados y procomunes invisibles; o Opentzaileak, una caja de herramientas para nuevos modelos empresariales alrededor de la gestión y producción de bienes comunes.
+
+==More Information==
+* Date of information: 2013
+* Contact e-mail: info@colaborabora.org
+* Number of participants: +/-50
+* Start date: 2010/01/01
+* Related projects: goteo, copylove, empresas_procomun, medialabprado, thinkcommons, meetcommons, bat, REAS, transductores
+* City: Bilbao
+* Location: 43.1235037, -3.1301284999999552
+* Topics: Art, Economics, P2P Education, Intelligence, Licensing, Politics, Relational, Peergovernance, Peerproperty, Relational
+* Tags: procomun, P2P, practicas_colaborativas, emprendizaje_social
+
+[[Category:Spain]]
+[[Category:Spanish]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

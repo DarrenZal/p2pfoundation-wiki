@@ -1,1 +1,20 @@
 #REDIRECT [[Peter Semmelhack]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.356544Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-7185c90a59236ac2e209c18c0df4c2c25927c38b7fa6930447d06cf2a4624d66 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Bio=
+
+"Peter Semmelhack, Founder and CEO, [[Bug Labs]], the company behind BUG, a programmable, open source and modular consumer electronics and web services platform. Previously, Peter was the founder and CTO of Antenna Software. Following a 20 year career in software, Peter founded Bug Labs on the belief that users and communities should have the power to create and share devices in the same way they create and share digital content."
+
+
+Report on one of his lectures: http://www.worldchanging.com/archives/009340.html
+
+
+[[Category:Bios]]
+
+[[Category:Manufacturing]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

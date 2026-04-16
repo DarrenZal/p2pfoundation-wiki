@@ -1,1 +1,22 @@
 #REDIRECT [[Labor-Controlled Venture Capital Funds]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.099139Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-28b82d77f5a477e3ea440a926714be0d10d49e80f6e2442b7233cc8b71724eec -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Detailed discussion, by Eric Olin Wright, on this existing form of [[Social Capitalism]] related funding mechanism, at
+http://www.ssc.wisc.edu/~wright/ERU_files/ERU-CHAPTER-7-final.pdf
+
+See also the related proposed mechanism: the [[Share-levy Wage-earner Funds]]
+
+
+[[Category:Peerproperty]]
+
+[[Category:Business]]
+
+[[Category:Governance]]
+
+[[Category:Labor]]
+
+[[Category:Peerfunding]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

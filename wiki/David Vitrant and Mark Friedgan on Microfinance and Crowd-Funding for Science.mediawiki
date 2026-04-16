@@ -1,1 +1,14 @@
 #REDIRECT [[David Vitrant and Mark Friedgan on Microfinance and Crowdfunding for Science]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.901626Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-be5d934d39486393d0cb791f354ecfb9f60d4f6855f90bd12dce79072d85d348 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Video presentation from the 2010 Open Science Summit at http://fora.tv/2010/07/30/Microfinance__Crowd-Funding_for_Science
+
+[[Category:Science]]
+
+[[Category:Webcasts]]
+
+[[Category:Peerfunding]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

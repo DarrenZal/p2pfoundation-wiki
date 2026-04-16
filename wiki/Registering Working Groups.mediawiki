@@ -1,1 +1,43 @@
 #REDIRECT [[OWS Registering Working Groups]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.324665Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-1ddd80c75dd5ddc6988c4028bc2164232dce0ea9e93169fe13d04ae171746121 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Devin's Recommendation for Group Transparency Workflow
+
+*Submit Registration Form to Information WG
+**Group Name
+**Contact People
+***Name
+***Email
+***Phone
+**Group Description
+*Information WG alerts GA facilitators about registration and they put the group on the agenda to announce.
+*Group announces it's proposed creation to GA.
+*Group attends Introductory Workshop
+**Discussion to clarify group purpose
+**Internal Systems
+***Wordpress
+***Email list
+***SMS Alerts
+***Feeds (minutes, calendar, announcements)
+***How to conduct an effective meeting
+***How to take and format minutes
+*Internet Group activates group page
+*To remain in 'good standing', Working Groups must meet and publish minutes at least once/week.
+*Groups email their minutes to an email address that generates a an RSS published on the GA website.
+
+Next Steps
+*Reconcile Internet and Information 'profile' requirements
+*Collect registration from all existing WGs
+*Develop workshop
+**Systems
+**Facilitation
+**Documentation
+*Internet point people
+**Activating groups
+**Publishing group alerts, minutes, etc
+
+[[Category: OccupyWallStreet]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,12 @@
 #REDIRECT [[File:Social Media And Collaborative Consumption.png]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.958508Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-cff1f4e6a06d1a5dc3fea6ff662d29e766bd49704ceda972fbf897899e04ed61 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+* Source: Latitude Research - The Sharing Economy
+
+[[Category:Graphics]]
+[[Category:Sharing]]
+[[Category:Media]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

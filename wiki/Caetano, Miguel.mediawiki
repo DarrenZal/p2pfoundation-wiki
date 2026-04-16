@@ -1,1 +1,25 @@
 #REDIRECT [[Miguel Caetano]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.796365Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-43b42dd06babd5e4a779b4505bc164380502cc23b46794994ee9bd7107dd66ef -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''Miguel Afonso Caetano''' is a young researcher on ''''tactical media'''':
+
+Photo link: http://www.gsd.inesc-id.pt/people/photos/artur_caetano.jpg
+
+Here's his bio:
+
+"a Portugueses M.A. student in Communication, Culture and
+Information Technologies at the Higher Studies Institute of Business
+and Labour Studies (ISCTE) - www.iscte.pt -, in Lisbon, Portugal who
+is writing a thesis about the possibility of existence of an
+alternative model of tactical media that goes beyond the adversary
+stance, the military and guerrilla language, that doesn't have no
+enemies and doesn't depends of that other. He graduated in Social
+Communication at the Portuguese Catholic University. Until recently, he
+also was a technology journalist, writing for online and offline
+Portuguese news outlets."
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

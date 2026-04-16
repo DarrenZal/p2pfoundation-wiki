@@ -1,1 +1,29 @@
 #REDIRECT [[Community Supported Forestry]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.871582Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-f3a13ce486bf1faa02e6f2c6a75c4d42dd56691d566141c74ec03e0dfa73a497 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Forestry model at http://www.familyforests.org/pdf/com-forest-model.pdf
+
+
+=Description=
+
+"VFF’s Community Supported Forestry Model is circular, beginning with and returning to the forest and its surrounding community. A fully monitored timber harvest removes carefully selected trees from the forest; the wood passes through a series of local value adders-loggers, truckers, mill and kiln-drier operators; the landowner is compensated at rates significantly higher than traditional stumpage rates; and loggers receive substantially more for their excellent work. These economic incentives, in turn, encourage perpetuation of the ecological management that promotes forest health."
+(http://www.familyforests.org/ecoforestry/forestry-model.shtml)
+
+
+=More Information=
+
+* http://www.itreetools.org/
+
+
+[[Category:Governance]]
+
+[[Category:Ecology]]
+
+[[Category:Geography]]
+
+[[Category:Agrifood]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

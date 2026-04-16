@@ -1,2 +1,90 @@
 #REDIRECT [[Help:Contents]]
-(this page was very clearly out of date and misleading)
+
+<!-- resolved-at: 2026-04-16T03:53:28.237433Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-755156e8b7e3c77980432bdba797eb2f09eb06ca5d1eb7e77236757a5f62bf11 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+__NOTOC__
+For a short version with formatting recommendations, see our entry on the [[Rules of the P2P Foundation Wiki]]
+
+Please note that this wiki insists on sourcing, when it comes from an existing external source, or signing if it is a personal contribution.
+
+==Welcome!==
+Welcome to the P2P Foundation's wiki!
+
+Here on the P2P Foundation Wiki we are working on original approaches to complex problems.  You will find peers from all over the world collaborating here on the wiki.  We use the wiki to write original works, and to collect references to important  trends and solutions. 
+
+Here you will find some basic instructions to help orient you on how we would like the wiki to evolve. Taking the time to get acquainted with these guidelines and on how to use MediaWiki tools in general will make your work easier, so please do explore the wiki before jumping in with both feet!
+
+==Style guidance==
+Doing things in a similar way to everyone else here really helps: 
+it helps people learn how this wiki works; 
+it helps readers to know what to expect and to be able to find the information that they are interested in.
+
+But it isn't exactly the same as Wikipedia, so please note the local conventions.
+
+'''Please read [[Help:Differences Between This Wiki and Wikipedia]]'''
+if you have experience of editing Wikipedia or another wiki with similar standards.
+
+==Your development as a contributor==
+
+; [[Special:UserLogin | Please register and create an account]] : Once you confirm your email address you may edit pages on the wiki.
+
+; Create [[Help:Your User Page and Bio | your user page and/or bio page]] : This is useful experience as well as being helpful to others.
+
+; Start using your UserPage or the [[Sandbox]] for practice. 
+: Gain familiarity with [[Help:How to Make Links and New Pages | making links and new pages]].  Your user page is linked from your username in the top right of any page.
+
+; Understand [[Help:Using Categories | how to use categories on this wiki]].
+: Putting in good category tags may help readers. Having lots of small categories is very unlikely to help.
+
+; Become familiar with [[Help:References | references]] along with the [[P2P Foundation:Copyright | P2P Foundation's copyright policy]].
+
+; Gain more skills at editing : If you aren't sure how to format something, visit the [[Help:Editing | Editing Help page]] for more information.
+
+; Deeper technical questions? : If you want to know everything about editing and [http://mediawiki.org Mediawiki] (the software for this site) try the [https://www.mediawiki.org/wiki/Help:Contents Mediawiki Help Contents].
+
+==Checking Your Work==
+;Do make a habit of finding related articles : See additional help with [[Help:Search for Duplicates and Related Articles | searching for duplicates and related articles]].
+
+;Do visit find answers to your editing questions : See the [[Help:Editing | Help:Editing page]] for information about additional conventions for your articles.
+
+;Do proofread your articles : Do what you can to write with good spelling and grammar.
+
+;Do follow the site's article naming convention : Page names should be full titles, so instead of "IntroToBlogs" use "Introduction to Blogs". They should also follow the Dr. Grammar rules regarding capitalization thus:
+:'''"In titles, capitalize the first word, the last word, and all words in between except articles (a, an, and the), prepositions under five letters (in, of, to), and coordinating conjunctions (and, but). These rules apply to titles of long, short, and partial works as well as your own papers"''' ''(Anson, Schwegler, and Muth. The Longman Writer's Companion 240)''
+
+;Do discuss articles! : Do you see something that is perhaps incorrect, or needs clarification? The best way to make mention of any issues is to use the DISCUSSION function. Please refrain from adding your comments directly onto the ARTICLE page. Every page has a '''''DISCUSSION tab''''' on it.  This is the place to make your comments, suggestions, and to engage authors in discourse.  
+: Please do create a horizontal rule between comments on the discussion page by using four dashes <nowiki>----</nowiki> between entries.
+: Please do add four ~s to add your "signature" with a time-stamp -- useful for discussion pages OR just click on the signature icon at the top of the edit window...it's the second one from the right. 
+
+;''' Do have fun. :)'''
+
+==Things to Look Out For==
+;Do avoid creating empty pages : Please do NOT create blank pages simply as placeholders. Once the pages are created, they are live, and any links to them will then work. When a user clicks their way to an empty page, they have just wasted some of their time. PLEASE - only create pages when you have some content to put into them. You need not have a complete page, but there should be something of value there for users. '''''Thank you!'''''
+
+;'''Do avoid sub-pages''' : Our standard is to '''NOT''' create any sub-pages, EXCEPT for personal pages of Wiki Users and for the Template Tags.  These are pages with a "/" in the title.  If there is a "User:GoodRollin" page, then a sub-page is "User:GoodRollin/My Sub Page". You can use these pages for your sandbox when you create subpages from your User but they are not appropriate for the rest of the site at this time.  '''''Thank you!'''''
+
+;Do avoid CamelCase for page titles: : For example, if you want to create a page named "About Emakina", you can type <code><nowiki>http://research.emakina.net/About_Emakina</nowiki></code> into your address bar, and the new page will automatically be created. When you wish to link to a created page, create the link with the Wiki format of: <code><nowiki>[[About Emakina]]</nowiki></code> and not the CamelCase <code><nowiki>[[AboutUs]]</nowiki></code>.  '''''Thank you!'''''
+
+Duplicate pages...
+
+{| cellspacing=3 width="100%"
+|-
+|colspan="2" style="border: 1px dashed black;padding-left:1em;padding-right:0.5em; background: #FFC9D0;"|
+
+===What Not To Do ===
+Wikis are really great for working collaboratively with a large group of people.  Many wikis, like [http://wikipedia.org Wikipedia] have millions of editors.  This is not Wikipedia.  We have only a few administrators, perhaps a hundred editors, and a lot of visitors looking for what would often be considered very specific information.  Because of this it is very important that we are clear that spamming is not tolerated, and that your account will be blocked if you are caught in the act of any of the following activities.
+
+;Do not post malicious code : It's not nice; you and your IP will be blocked.
+
+;Do not link to commercial products : Commercial links have no place on this wiki.  You will be warned and your articles will be deleted.  A second offense and you and your IP will be blocked.
+
+|-
+|colspan="2" style="border: 1px dashed black;padding-left:1em;padding-right:0.5em; background: #9EFF91;"|
+===Following Up===
+If you have any questions that you can't find the answers to you can visit the [[Help talk:Contents | discussion tab above]] and leave a note.  Be sure to sign your note with four dashes '~' which will put your name in and a link to your User page.  You can also use the button that has a squiggle of cursive writing on it to sign your note.
+|}
+
+[[Category:P2P Foundation Wiki How-To]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

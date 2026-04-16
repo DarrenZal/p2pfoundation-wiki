@@ -1,1 +1,13 @@
 #REDIRECT [[Lawrence Taub on the Spiritual Imperative and the Last Caste]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.101044Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-47e3ae44a832ce52a08d905569b5a91c10e7eec4fefbd5a3d3e8abc9572027bf -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+30-minute interview on Internet TV Japan,  on Lawrence Taub's book, the [[Spiritual Imperative]], an interpretation of macro-historical trends.
+
+URL = http://www.itvjapan.com/mgmt_lead.asp?ID=1 (link dead as at 2019-01)
+
+[[Category:Webcasts]]
+[[Category:Integral Theory]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

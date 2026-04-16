@@ -1,1 +1,14 @@
 #REDIRECT [[:Category:P2P Foundation Knowledge Commons]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.238991Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-4f6ef3292ecbe0b029d7608260590941e8732b47a13d6b723bc696745f948561 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+The P2P Knowledge Commons is a driving force for the P2P Foundation.
+
+In short the Commons is the sum total of the resources that the Foundation has on offer for the world.  These are the tools, insights and connections that people can use to discover how P2P alternatives are applicable ore relevant in their own situation.  
+
+In this category you will find an index of the various approaches the Foundation and partners are taking towards this P2P Commons, as well as a number of the ongoing projects and knowledge areas that are stewarded here.
+
+[[Category:P2P Foundation]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

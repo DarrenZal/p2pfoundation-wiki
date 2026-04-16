@@ -1,1 +1,15 @@
 #REDIRECT [[Jennifer Davison on the (E)Valuation of Scientists]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.082860Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-86501eb4c0b92097de623a03b04ac2eaabd1a565edcd7f4a78778bed143bd25b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= Jennifer Davison on how we need to change the way we value scientists'''
+
+URL = Podcast interview via https://soundcloud.com/hackyourphd/hyphdus-jennifer-davison-college-environment
+
+
+[[Category:Podcasts]]
+
+[[Category:Science]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

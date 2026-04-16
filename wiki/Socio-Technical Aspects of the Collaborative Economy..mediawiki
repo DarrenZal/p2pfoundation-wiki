@@ -1,1 +1,28 @@
 #REDIRECT [[Socio-Technical Aspects of the Collaborative Economy]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.371071Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-c4e6dbe38e1e46301bb438ae7def84544faf176bfe1716fc16a6c76ec4e468ee -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= European research project in the COST programme: "From Sharing to Caring: Examining Socio-Technical Aspects of the Collaborative Economy".'''
+
+URL = http://sharingandcaring.eu/
+
+
+=Description=
+
+"The main objective of this action is to develop a European network of actors focusing on the development of collaborative economy models and platforms and on social and technological implications of the collaborative economy through a practice focused approach."
+
+
+
+[[Category:Collaborative Economy]]
+
+[[Category:P2P Solidarity]]
+
+[[Category:Europe]]
+
+[[Category:Sharing]]
+
+[[Category:Research]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

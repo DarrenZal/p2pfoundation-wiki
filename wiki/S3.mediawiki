@@ -1,1 +1,22 @@
 #REDIRECT [[Sociocracy 3.0]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.343045Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-f57d5aa87fffd64ad86a1e369a8dd28fdbdd074b4f727319c1921b2b9cc34f08 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= A development of Sociocracy, often abbreviated to "S3"'''
+
+== Description ==
+
+"A free social technology for growing agile and resilient organizations"
+
+== More Information ==
+* [[James Priest]]
+* [[Sociocracy]]
+
+* [https://www.sociocracy30.org/ Sociocracy 3.0 main site]
+* [https://community.sociocracy30.org/ Sociocracy 3.0 Online Learning Community]
+* YouTube videos at https://www.youtube.com/channel/UCvFNTXU0g3xYKj2TnJv9Gnw
+
+[[Category:Social Technology]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

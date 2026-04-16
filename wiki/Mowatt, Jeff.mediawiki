@@ -1,1 +1,19 @@
 #REDIRECT [[Jeff Mowatt]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.183968Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-bf327bf0997d4fcd37352d1035e56dcc4041c18daa90941922f9cabd8c581130 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+=Bio=
+
+Director of [[People-Centered Economic Development]] UK a profit-for-social-purpose business funding advocacy and activism for poverty eradication and childcare reform in Eastern Europe.
+
+
+=More Information=
+
+Website: http://www.p-ced.com, http://people-centered.net 
+
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

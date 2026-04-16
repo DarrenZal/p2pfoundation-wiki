@@ -1,1 +1,21 @@
 #REDIRECT [[Instituto Pares - BR]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.066004Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-0769af3a45233b15310fe75cabeb6195f404c9a35468b271a5c6ea13b51972f3 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+URL = http://www.pares.org.br/
+
+=Description=
+
+"O Instituto PARES é uma organização sem fins lucrativos que visa gerar e compartilhar conhecimento e soluções intersetoriais para o desenvolvimento sustentável, construindo soluções com organizações dos três setores."
+
+
+[[Category:Movements]]
+
+[[Category:Brazil]]
+
+[[Category:Portuguese]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

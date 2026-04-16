@@ -1,1 +1,24 @@
 #REDIRECT [[Michael Linton]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.116644Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-a713ab863227e5457eace7f7d0af9cb3948c94706d58fab78aea6a39b78c2b2b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= [[Open Money]] advocate and developer'''
+
+==Bio==
+
+From the Wikipedia:
+
+"Michael Linton is the designer of a Local Exchange Trading System  (LETS) known as LETSystem, an open form of money, or personal and practical arrangement of community currency. The first of very many instances of this design was originated in Comox Valley, BC, Canada, in 1982.
+
+Many if not most of the hundreds of LETS within the UK, Canada and Australia and probably thousands of similar systems elsewhere, involve a members' agreement identical to or based closely on Michael Linton's original LETSystem design.
+
+Linton is the director of Landsman Community Services, Ltd., a company whose focus is the development of "appropriate tools for community support."
+
+(This was taken from a Wikipedia entry that was deleted, on the grounds that Michael himself is not "notable".)
+
+[[Category:Bios]]
+
+[[Category:Money]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

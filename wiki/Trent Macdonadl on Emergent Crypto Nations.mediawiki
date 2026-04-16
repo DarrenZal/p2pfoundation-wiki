@@ -1,1 +1,22 @@
 #REDIRECT [[Trent Macdonald on Emergent Crypto Nations]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.428410Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-36afbf516390e72e032e4088456ea3a2173a66501b7e70c5ce93de31d4523f9a -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Podcast via https://soundcloud.com/cryptogoss/episode-16-bitnation-blockchains-not-borders
+
+=Description=
+
+"I was a guest on the latest episode of the CryptoGoss podcast, talking all things bitcoin and blockchain, with a focus on emergent nations and emergent firms. Most of the discussion is centred on BITNATION—a collaborative platform for do-it-yourself governance, powered by Bitcoin 2.0 blockchain technology. But we also managed to cover my PhD thesis, RMIT’s brand of economics, the MELB CRYPTO social science research network, and Austro-evolutionary economics."
+(http://mesosoup.com/2016/01/08/cryptogoss-podcast-on-emergent-nations-and-emergent-firms/)
+
+[[Category:Cryptoledger Applications]]
+
+[[Category:Podcasts]]
+
+[[Category:Global Governance]]
+
+[[Category:Governance]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

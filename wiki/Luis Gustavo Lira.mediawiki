@@ -1,1 +1,21 @@
 #REDIRECT [[Lira, Luis Gustavo]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.123687Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-9b1c2506c0bdf102089d2b08476dc916737d6056733b119f6bfcfe8bab75d2a5 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+name=Luis Gustavo Lira 
+
+location=Lima, Peru
+
+program= Physics, CCNA
+
+email= lira.lg at pucp.edu.pe
+
+website= http://blog.pucp.edu.pe/culturalibre
+
+school= http://www.pucp.edu.pe
+
+
+Welcome Luis,  I may have made an error in formatting your name page, please either fix, or let me know what it would be within this wiki's style.  Best, [[MarkDilley]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

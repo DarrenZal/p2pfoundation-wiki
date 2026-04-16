@@ -1,1 +1,15 @@
 #REDIRECT [[Foundational Criteria of Commons Economics]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.968838Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-4edc23391e72deea762957a84ee2d6cac16dbb94f738fa702a3a542444348206 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+See the important entry on [[Omni Win-Win Dynamics]] by Daniel Schmachtenberger and our short commentary on [[Abundance Engineering vs Scarcity Engineering]]
+
+[[Category:Commons Economics]]
+
+[[Category:P2P Hierarchy Theory]]
+
+[[Category:P2P Theory]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

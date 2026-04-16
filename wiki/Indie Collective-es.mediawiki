@@ -1,1 +1,14 @@
 #REDIRECT [[Indie Collective]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.062944Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-2431408445daadde788ef3174ff5bcb3236b531941aeb5ccd3ffb26894df3eb9 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+= Indie Collective te permitira conocer las propuestas nuevas y apreciar las ya conocidas de la música independiente en El Salvador y el Resto de Latinoamérica; agrupando bandas de diversos generos en un mismo escenario.
+
+URL = https://www.facebook.com/indiecollectivepollution?
+
+La unica intención del colectivo es la de promover las propuestas creativas en busqueda de potenciar la calidad musical y de los shows nacionales, la tolerancia y una nueva cultura de buenos conciertos en los que las bandas y el público se eduquen mutuamente y cuenten y disfruten, de las mejores condiciones en cuanto al audio y localidades posibles.
+
+[[Category:El Salvador]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

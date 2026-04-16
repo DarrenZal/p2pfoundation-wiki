@@ -1,1 +1,19 @@
 #REDIRECT [[Film Forge]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.964406Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-bcf834f697a6089e1787f1ccecc004bdf1baa20e1499f693d028fbab0bc8aa85 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+URL = http://filmforge.koumbit.net/
+
+
+=Description=
+
+"FilmForge is a version of the content management system Drupal, tailored to the needs of videomaking communities. FilmForge makes it simple to install and run your own video sharing site."
+
+
+[[Category:Media]]
+
+[[Category:Audiovisual]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

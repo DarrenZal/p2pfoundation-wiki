@@ -1,1 +1,39 @@
 #REDIRECT [[Algorithmically Adaptive Standard Unit Value Based on Empirical Data Reflecting the Primary Productive Capacity]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.754174Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-84c216822ae410094b402b2ed131673303c9188c4329d961d8ce0ba2f9faff24 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= current updates on [[Commodity-Anchored Currencies]]  such as the ancient Chinese 'ever-normal granary'in Confucian economics'''
+
+URL = https://xalgorithms.org
+
+
+=Discussion=
+
+Via Joseph Potvin:
+
+* the ancient Chinese 'ever-normal granary', i.e. commodity-anchored currency:
+
+In: The economic principles of Confucius and his school [Doctoral dissertation, Harvard]. https://archive.org/details/economicprincipl00huan/page/n3
+
+For updates on this kind of approach, see the work of Joseph Potvin at the Xalgorithms Foundation
+https://xalgorithms.org
+
+Joseph explains:
+
+"in the article I'm writing presently, I contrast what I refer to as 
+
+* the ancient & pre-modern 3-function cowrie currency archetype (decentralized market-negotiated or central policy-managed [e.g. Taylor Rule] unit value based on scarcity), 
+
+* versus the ancient 4-function barley:silver currency archetype (algorithmically adaptive standard unit value based on empirical data reflecting the primary productive capacity in the currency zone). The 3-function archetype ignores stability, favoring 'financial athletes' (speculators) over supply chain realists."
+
+[[Category:Mutual Coordination]]
+
+[[Category:Neotraditional]]
+
+[[Category:Commons Economics]]
+
+[[Category:Money]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

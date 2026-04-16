@@ -1,1 +1,17 @@
 #REDIRECT [[Findhorn Ecovillage]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.960902Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-a7cf03a9a083762b236a4687eb1c513d05e3ae186aa82ffb59c811f8bba2a570 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''The Findhorn Ecovillage - a model for sustainable living'''
+
+Within the Findhorn Ecovillage at The Park, sustainable values are expressed in the built environment with ecological houses, innovative use of building materials such as local stone and straw bales, beauty in the architecture and gardens, and applied technology
+in the Living Machine sewage treatment facility and electricity-generating wind turbines. Sustainable values are also expressed in the community's social, economic and educational initiatives.<ref>http://www.findhorn.org/whatwedo/ecovillage/ecovillage.php</ref>
+
+==References==
+<references/>
+
+
+[[Category:Villages]] [[Category:Ecology]] [[Category:Spirituality]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

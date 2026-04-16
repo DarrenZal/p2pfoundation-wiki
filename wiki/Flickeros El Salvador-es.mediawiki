@@ -1,1 +1,15 @@
 #REDIRECT [[Flickeros El Salvador]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.964084Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-597d145fab2cf2fecc94e4353fb03dcd23efafd86dd4528e1ef7e44637393799 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+= Comunidad más grande de fotografía de El Salvador
+
+URL = https://secure.flickr.com/groups/flickrsv/
+
+Basada en la plataforma Flickr, agrupa a entusiastas de la fotografía en la exposición de fotografías y la capacitación en temas de fotografía digital entre todos sus miembros, por medio de eventos digitales y presenciales.
+
+[[Category:El Salvador]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

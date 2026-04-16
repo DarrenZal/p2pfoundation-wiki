@@ -1,1 +1,18 @@
 #REDIRECT [[Idealist]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.755426Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-80b7c594e30a56dd9414b2dd20205d38636e09b2bd0bfe85f1b41029037212e4 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+URL: http://idealist.org/
+
+
+Idealist is a project of Action Without Borders, a nonprofit organization founded in 1995 with offices in the United States and Argentina. Idealist is an interactive site where people and organizations can exchange resources and ideas, locate opportunities and supporters, and take steps toward building a world where all people can lead free and dignified lives.
+
+==See Also==
+*[[Imagine, Connect, Act]]
+*[[NetSquared]]
+*[[UnltdWorld]]
+
+[[Category:Movements]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

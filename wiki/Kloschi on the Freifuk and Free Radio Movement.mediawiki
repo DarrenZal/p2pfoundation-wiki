@@ -1,1 +1,23 @@
 #REDIRECT [[Kloschi on the Freifunk and Free Radio Movement]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.093217Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-16f7a8d2e9a0a2e829ca47474674936715f0864be846cec2f5efe7a2edd67ca6 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+interview (by Geert Lovink) with Kloschi from Weimar, Germany '''about the ‘Freifunk’ movement and the difference between (free) radio and the wireless movement'''.
+
+
+URL = http://www.networkcultures.org/geert/2006/06/30/test-podcast-on-freifunk-interview-with-kloschi-2/
+
+
+=More Information=
+
+#[[Freifunk]]
+#[[Wireless Commons]]
+
+
+[[Category:Podcasts]]
+
+[[Category:Media]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

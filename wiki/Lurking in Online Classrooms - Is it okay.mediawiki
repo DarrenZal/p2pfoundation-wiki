@@ -1,1 +1,16 @@
 #REDIRECT [[Lurking in Online Classrooms]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.124095Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-a4f84a4ef4207a1a3353140fd41b4fa55c9a5a62e026605d76aceb38d1b4d107 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Is it okay in online classrooms to allow learners to “lurk”. What is lurking? How do you define it and do you accept it in your online courses?
+
+URL = http://www.ltgreenroom.org/episodes/18
+
+
+[[Category:Podcasts]]
+
+[[Category:Education]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

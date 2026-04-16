@@ -1,1 +1,279 @@
 #REDIRECT [[User:JonAwbrey]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.065557Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-d4ae11b4d0e5dcccb383725b15779551419980264394126b792841f0ed594f43 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+<br>
+<p><font face="lucida calligraphy" size="7">Jon Awbrey</font></p>
+<br>
+__NOTOC__
+==Presently &hellip;==
+
+<center>
+
+[https://oeis.org/wiki/Riffs_and_Rotes Riffs and Rotes]
+
+[http://intersci.ss.uci.edu/wiki/index.php/Cactus_Language Cactus Language]
+
+[http://intersci.ss.uci.edu/wiki/index.php/Theme_One_Program Theme One Program]
+
+[http://intersci.ss.uci.edu/wiki/index.php/Propositions_As_Types Propositions As Types]
+
+[http://intersci.ss.uci.edu/wiki/index.php/Inquiry_Driven_Systems Inquiry Driven Systems]
+
+[http://intersci.ss.uci.edu/wiki/index.php/Peirce%27s_1870_Logic_Of_Relatives Peirce's Logic Of Relatives]
+
+Logical Graphs : [http://inquiryintoinquiry.com/2008/07/29/logical-graphs-1/ One] [http://inquiryintoinquiry.com/2008/09/19/logical-graphs-2/ Two]
+
+[http://intersci.ss.uci.edu/wiki/index.php/Differential_Logic_:_Introduction Differential Logic : Introduction]
+
+[http://intersci.ss.uci.edu/wiki/index.php/Differential_Propositional_Calculus Differential Propositional Calculus]
+
+[http://intersci.ss.uci.edu/wiki/index.php/Differential_Analytic_Turing_Automata Differential Analytic Turing Automata]
+
+[http://intersci.ss.uci.edu/wiki/index.php/Prospects_for_Inquiry_Driven_Systems Prospects for Inquiry Driven Systems]
+
+[http://intersci.ss.uci.edu/wiki/index.php/Introduction_to_Inquiry_Driven_Systems Introduction to Inquiry Driven Systems]
+
+[http://intersci.ss.uci.edu/wiki/index.php/Differential_Logic_and_Dynamic_Systems_2.0 Differential Logic and Dynamic Systems]
+
+[http://intersci.ss.uci.edu/wiki/index.php/Information_%3D_Comprehension_%C3%97_Extension Information = Comprehension &times; Extension]
+
+[http://intersci.ss.uci.edu/wiki/index.php/Propositional_Equation_Reasoning_Systems Propositional Equation Reasoning Systems]
+
+</center>
+
+==Recent Sightings==
+
+{| align="center" style="text-align:center" width="100%"
+|-
+| [http://intersci.ss.uci.edu/wiki/index.php/Inquiry_Live Inquiry Live]
+| [http://intersci.ss.uci.edu/wiki/index.php/Logic_Live Logic Live]
+|-
+| [http://stderr.org/cgi-bin/mailman/listinfo/inquiry Inquiry Project]
+| [http://stderr.org/pipermail/inquiry/ Inquiry Archive]
+|-
+| [http://inquiryintoinquiry.com/ Inquiry Into Inquiry]
+| [http://jonawbrey.wordpress.com/ Jon Awbrey • Blog]
+|-
+| [http://intersci.ss.uci.edu/wiki/index.php/User:Jon_Awbrey InterSciWiki User Page]
+| [http://intersci.ss.uci.edu/wiki/index.php/User_talk:Jon_Awbrey InterSciWiki Talk Page]
+|-
+| [http://mywikibiz.com/Directory:Jon_Awbrey MyWikiBiz Directory]
+| [http://mywikibiz.com/Directory_talk:Jon_Awbrey MyWikiBiz Discussion]
+|-
+| [http://mywikibiz.com/User:Jon_Awbrey MyWikiBiz User Page]
+| [http://mywikibiz.com/User_talk:Jon_Awbrey MyWikiBiz Talk Page]
+|-
+| [http://planetmath.org/ PlanetMath Project]
+| [http://planetmath.org/users/Jon-Awbrey PlanetMath Profile]
+|-
+| [http://forum.wolframscience.com/ NKS Forum]
+| [http://forum.wolframscience.com/member.php?s=&action=getinfo&userid=336 NKS Profile]
+|-
+| [https://oeis.org/wiki/Welcome OEIS Land]
+| [https://oeis.org/search?q=Awbrey Bolgia Mia]
+|-
+| [https://oeis.org/wiki/User:Jon_Awbrey OEIS Wiki Page]
+| [https://oeis.org/wiki/User_talk:Jon_Awbrey OEIS Wiki Talk]
+|-
+| [http://list.seqfan.eu/cgi-bin/mailman/listinfo/seqfan Fantasia Sequentia]
+| [http://list.seqfan.eu/pipermail/seqfan/ SeqFan Archive]
+|-
+| [http://mathforum.org/kb/ Math Forum Project]
+| [http://mathforum.org/kb/accountView.jspa?userID=99854 Math Forum Profile]
+|-
+| [http://www.mathweb.org/wiki/User:Jon_Awbrey MathWeb Page]
+| [http://www.mathweb.org/wiki/User_talk:Jon_Awbrey MathWeb Talk]
+|-
+| [http://www.proofwiki.org/wiki/User:Jon_Awbrey ProofWiki Page]
+| [http://www.proofwiki.org/wiki/User_talk:Jon_Awbrey ProofWiki Talk]
+|-
+| [http://mathoverflow.net/ MathOverFlow]
+| [http://mathoverflow.net/users/1636/jon-awbrey MOFler Profile]
+|-
+| [http://p2pfoundation.net/User:JonAwbrey P2P Wiki Page]
+| [http://p2pfoundation.net/User_talk:JonAwbrey P2P Wiki Talk]
+|-
+| [http://vectors.usc.edu/ Vectors Project]
+| [http://vectors.usc.edu/thoughtmesh/ ThoughtMesh]
+|-
+| [http://ontolog.cim3.net/ OntoLog Project]
+| [http://ontolog.cim3.net/cgi-bin/wiki.pl?JonAwbrey OntoLog Profile]
+|-
+| [http://web.archive.org/web/20150127223035/http://semanticweb.org/wiki/User:Jon_Awbrey SemanticWeb Page]
+| [http://web.archive.org/web/20100716202618/http://semanticweb.org/wiki/User_talk:Jon_Awbrey SemanticWeb Talk]
+|}
+
+==Contributions==
+
+===Articles===
+
+[http://mywikibiz.com/Ampheck Ampheck]
+[http://mywikibiz.com/Boolean_domain Boolean domain]
+[http://mywikibiz.com/Boolean_function Boolean function]
+[http://mywikibiz.com/Boolean-valued_function Boolean-valued function]
+[http://mywikibiz.com/Charles_Sanders_Peirce Charles Sanders Peirce]
+[http://mywikibiz.com/Charles_Sanders_Peirce_(Bibliography) Charles Sanders Peirce (Bibliography)]
+[http://mywikibiz.com/Comprehension_(logic) Comprehension (logic)]
+[http://mywikibiz.com/Continuous_predicate Continuous predicate]
+[http://mywikibiz.com/Correspondence_theory_of_truth Correspondence theory of truth]
+[http://mywikibiz.com/Cybernetics Cybernetics]
+[http://mywikibiz.com/Descriptive_science Descriptive science]
+[http://mywikibiz.com/Differential_logic Differential logic]
+[http://mywikibiz.com/Dynamics_of_inquiry Dynamics of inquiry]
+[http://mywikibiz.com/Entitative_graph Entitative graph]
+[http://mywikibiz.com/Exclusive_disjunction Exclusive disjunction]
+[http://mywikibiz.com/Formal_science Formal science]
+[http://mywikibiz.com/Graph_(mathematics) Graph (mathematics)]
+[http://mywikibiz.com/Graph_theory Graph theory]
+[http://mywikibiz.com/Grounded_relation Grounded relation]
+[http://mywikibiz.com/Inquiry Inquiry]
+[http://mywikibiz.com/Inquiry_driven_system Inquiry driven system]
+[http://mywikibiz.com/Integer_sequence Integer sequence]
+[http://mywikibiz.com/Hypostatic_abstraction Hypostatic abstraction]
+[http://mywikibiz.com/Hypostatic_object Hypostatic object]
+[http://mywikibiz.com/Kaina_Stoicheia Kaina Stoicheia]
+[http://mywikibiz.com/Logic Logic]
+[http://mywikibiz.com/Logic_of_information Logic of information]
+[http://mywikibiz.com/Logic_of_relatives Logic of relatives]
+[http://mywikibiz.com/Logic_of_Relatives_(1870) Logic of Relatives (1870)]
+[http://mywikibiz.com/Logic_of_Relatives_(1883) Logic of Relatives (1883)]
+[http://mywikibiz.com/Logical_conjunction Logical conjunction]
+[http://mywikibiz.com/Logical_disjunction Logical disjunction]
+[http://mywikibiz.com/Logical_equality Logical equality]
+[http://mywikibiz.com/Logical_graph Logical graph]
+[http://mywikibiz.com/Logical_implication Logical implication]
+[http://mywikibiz.com/Logical_matrix Logical matrix]
+[http://mywikibiz.com/Logical_NAND Logical NAND]
+[http://mywikibiz.com/Logical_negation Logical negation]
+[http://mywikibiz.com/Logical_NNOR Logical NNOR]
+[http://mywikibiz.com/Minimal_negation_operator Minimal negation operator]
+[http://mywikibiz.com/Multigrade_operator Multigrade operator]
+[http://mywikibiz.com/Normative_science Normative science]
+[http://mywikibiz.com/Null_graph Null graph]
+[http://mywikibiz.com/On_a_New_List_of_Categories On a New List of Categories]
+[http://mywikibiz.com/Parametric_operator Parametric operator]
+[http://mywikibiz.com/Peirce%27s_law Peirce's law]
+[http://mywikibiz.com/Philosophy_of_mathematics Philosophy of mathematics]
+[http://mywikibiz.com/Pragmatic_information Pragmatic information]
+[http://mywikibiz.com/Pragmatic_maxim Pragmatic maxim]
+[http://mywikibiz.com/Pragmatic_theory_of_truth Pragmatic theory of truth]
+[http://mywikibiz.com/Pragmaticism Pragmaticism]
+[http://mywikibiz.com/Pragmatism Pragmatism]
+[http://mywikibiz.com/Prescisive_abstraction Prescisive abstraction]
+[http://mywikibiz.com/Propositional_calculus Propositional calculus]
+[http://mywikibiz.com/Relation_(mathematics) Relation (mathematics)]
+[http://mywikibiz.com/Relation_composition Relation composition]
+[http://mywikibiz.com/Relation_construction Relation construction]
+[http://mywikibiz.com/Relation_reduction Relation reduction]
+[http://mywikibiz.com/Relation_theory Relation theory]
+[http://mywikibiz.com/Relation_type Relation type]
+[http://mywikibiz.com/Relative_term Relative term]
+[http://mywikibiz.com/Semeiotic Semeiotic]
+[http://mywikibiz.com/Semiotic_information Semiotic information]
+[http://mywikibiz.com/Semiotics Semiotics]
+[http://mywikibiz.com/Sign_relation Sign relation]
+[http://mywikibiz.com/Sign_relational_complex Sign relational complex]
+[http://mywikibiz.com/Sole_sufficient_operator Sole sufficient operator]
+[http://mywikibiz.com/Tacit_extension Tacit extension]
+[http://mywikibiz.com/The_Simplest_Mathematics The Simplest Mathematics]
+[http://mywikibiz.com/Triadic_relation Triadic relation]
+[http://mywikibiz.com/Truth_table Truth table]
+[http://mywikibiz.com/Truth_theory Truth theory]
+[http://mywikibiz.com/Universe_of_discourse Universe of discourse]
+[http://mywikibiz.com/What_we%27ve_got_here_is_(a)_failure_to_communicate What we've got here is (a) failure to communicate]
+[http://mywikibiz.com/Zeroth_order_logic Zeroth order logic]
+
+===Notes===
+
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Notes/Factorization_Issues Factorization Issues]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Notes/Factorization_And_Reification Factorization and Reification]
+
+===Papers===
+
+====Functional Logic====
+
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Papers/Functional_Logic_:_Inquiry_and_Analogy Functional Logic : Inquiry and Analogy]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Papers/Functional_Logic_:_Higher_Order_Propositions Functional Logic : Higher Order Propositions]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Papers/Functional_Logic_:_Quantification_Theory Functional Logic : Quantification Theory]
+
+====Differential Logic====
+
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Papers/Differential_Logic_:_Introduction Differential Logic : Introduction]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Papers/Differential_Propositional_Calculus Differential Propositional Calculus]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Papers/Differential_Logic_and_Dynamic_Systems Differential Logic and Dynamic Systems 1.0]
+* [http://intersci.ss.uci.edu/wiki/index.php/Differential_Logic_and_Dynamic_Systems_2.0 Differential Logic and Dynamic Systems 2.0]
+
+====Logic and Semiotics====
+
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Papers/Futures_Of_Logical_Graphs Futures Of Logical Graphs]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Papers/Peirce%27s_1870_Logic_Of_Relatives Peirce's 1870 Logic Of Relatives]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Papers/Peirce%27s_Logic_Of_Information Peirce's Logic Of Information]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Papers/Propositional_Equation_Reasoning_Systems Propositional Equation Reasoning Systems]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Papers/Semiotic_Information Semiotic Information]
+
+====Inquiry Driven Systems====
+
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Essays/Prospects_For_Inquiry_Driven_Systems Prospects for Inquiry Driven Systems]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Papers/Introduction_to_Inquiry_Driven_Systems Introduction to Inquiry Driven Systems]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Essays/Inquiry_Driven_Systems_:_Fields_Of_Inquiry Inquiry Driven Systems : Fields Of Inquiry]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Papers/Inquiry_Driven_Systems Inquiry Driven Systems : Inquiry Into Inquiry]
+
+===Projects===
+
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Projects/Cactus_Language Cactus Language]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Projects/Differential_Logic Differential Logic]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Projects/Theme_One_Program Theme One Program]
+
+===Poetry===
+
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Poetry/Past_All_Reckoning Past All Reckoning]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Poetry/Poems_Of_Emediate_Moment Poems Of Emediate Moment]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Poetry/Questionable_Verses Questionable Verses]
+* [http://mywikibiz.com/Directory:Jon_Awbrey/Poetry/Iconoclast Iconoclast]
+
+===User Pages===
+
+* [http://mywikibiz.com/Directory:Jon_Awbrey/EXCERPTS Collection Of Source Materials]
+* [http://mywikibiz.com/User:Jon_Awbrey/Examples_Of_Inquiry Examples Of Inquiry]
+* [http://mywikibiz.com/User:Jon_Awbrey/Mathematical_Notes Mathematical Notes]
+* [http://mywikibiz.com/User:Jon_Awbrey/Philosophical_Notes Philosophical Notes]
+
+* [http://mywikibiz.com/index.php?title=Special%3APrefixIndex&prefix=Jon+Awbrey&namespace=2 MyWikiBiz User Pages]
+* [http://intersci.ss.uci.edu/wiki/index.php?title=Special%3APrefixIndex&prefix=Jon+Awbrey&namespace=2 InterSciWiki User Pages]
+* [http://mywikibiz.com/index.php?title=Special%3APrefixIndex&prefix=Jon+Awbrey&namespace=110 MyWikiBiz Directory Pages]
+
+==Presentations and Publications==
+
+* Awbrey, S.M., and Awbrey, J.L. (May 2001), &ldquo;Conceptual Barriers to Creating Integrative Universities&rdquo;, ''Organization : The Interdisciplinary Journal of Organization, Theory, and Society'' 8(2), Sage Publications, London, UK, pp. 269&ndash;284.  [http://org.sagepub.com/content/8/2/269.abstract Abstract].
+
+* Awbrey, S.M., and Awbrey, J.L. (September 1999), &ldquo;Organizations of Learning or Learning Organizations : The Challenge of Creating Integrative Universities for the Next Century&rdquo;, ''Second International Conference of the Journal &lsquo;Organization&rsquo;'', ''Re-Organizing Knowledge, Trans-Forming Institutions : Knowing, Knowledge, and the University in the 21st Century'', University of Massachusetts, Amherst, MA.  [http://cspeirce.com/menu/library/aboutcsp/awbrey/integrat.htm Online].
+
+* Awbrey, J.L., and Awbrey, S.M. (Autumn 1995), &ldquo;Interpretation as Action : The Risk of Inquiry&rdquo;, ''Inquiry : Critical Thinking Across the Disciplines'' 15(1), pp. 40&ndash;52.  [https://web.archive.org/web/19970626071826/http://chss.montclair.edu/inquiry/fall95/awbrey.html Archive].  [https://www.pdcnet.org/inquiryct/content/inquiryct_1995_0015_0001_0040_0052 Journal].  [https://www.academia.edu/1266493/Interpretation_as_Action_The_Risk_of_Inquiry Online].
+
+* Awbrey, J.L., and Awbrey, S.M. (June 1992), &ldquo;Interpretation as Action : The Risk of Inquiry&rdquo;, ''The Eleventh International Human Science Research Conference'', Oakland University, Rochester, Michigan.
+
+* Awbrey, S.M., and Awbrey, J.L. (May 1991), &ldquo;An Architecture for Inquiry : Building Computer Platforms for Discovery&rdquo;, ''Proceedings of the Eighth International Conference on Technology and Education'', Toronto, Canada, pp. 874&ndash;875.  [http://www.academia.edu/1270327/An_Architecture_for_Inquiry_Building_Computer_Platforms_for_Discovery Online].
+
+* Awbrey, J.L., and Awbrey, S.M. (January 1991), &ldquo;Exploring Research Data Interactively : Developing a Computer Architecture for Inquiry&rdquo;, Poster presented at the ''Annual Sigma Xi Research Forum'', University of Texas Medical Branch, Galveston, TX.
+
+* Awbrey, J.L., and Awbrey, S.M. (August 1990), &ldquo;Exploring Research Data Interactively. Theme One : A Program of Inquiry&rdquo;, ''Proceedings of the Sixth Annual Conference on Applications of  Artificial Intelligence and CD-ROM in Education and Training'', Society for Applied Learning Technology, Washington, DC, pp. 9&ndash;15.  [http://academia.edu/1272839/Exploring_Research_Data_Interactively._Theme_One_A_Program_of_Inquiry Online].
+
+==Education==
+
+* 1993&ndash;2003.  [http://web.archive.org/web/20120202222443/http://www2.oakland.edu/secs/dispprofile.asp?Fname=Fatma&Lname=Mili Graduate Study], [http://web.archive.org/web/20120203004703/http://www2.oakland.edu/secs/dispprofile.asp?Fname=Mohamed&Lname=Zohdy Systems Engineering], [http://meadowbrookhall.org/explore/history/meadowbrookhall Oakland University].
+
+* '''1989.  [http://web.archive.org/web/20001206101800/http://www.msu.edu/dig/msumap/psychology.html M.A. Psychology]''', [http://web.archive.org/web/20000902103838/http://www.msu.edu/dig/msumap/beaumont.html Michigan State University].
+
+* 1985&ndash;1986. [http://quod.lib.umich.edu/cgi/i/image/image-idx?id=S-BHL-X-BL001808%5DBL001808 Graduate Study, Mathematics], [http://www.umich.edu/ University of Michigan].
+
+* 1985.  [http://web.archive.org/web/20061230174652/http://www.uiuc.edu/navigation/buildings/altgeld.top.html Graduate Study, Mathematics], [http://www.uiuc.edu/ University of Illinois at Urbana&ndash;Champaign].
+
+* 1984.  [http://www.psych.uiuc.edu/graduate/ Graduate Study, Psychology], [http://www.uiuc.edu/ University of Illinois at Champaign&ndash;Urbana].
+
+* '''1980.  [http://www.mth.msu.edu/images/wells_medium.jpg M.A. Mathematics]''', [http://www.msu.edu/~hvac/survey/BeaumontTower.html Michigan State University].
+
+* '''1976.  [http://web.archive.org/web/20001206050600/http://www.msu.edu/dig/msumap/phillips.html B.A. Mathematical and Philosophical Method]''', <br> [http://www.enolagaia.com/JMC.html Justin Morrill College], [http://www.msu.edu/ Michigan State University].
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

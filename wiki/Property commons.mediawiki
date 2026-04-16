@@ -1,1 +1,16 @@
 #REDIRECT [[Property Commons]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.307405Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-a025ec7a5fa0f8bd090e56fba929ab0fdeb095f3abfe2a4eb125ffb3780289c4 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+= Overview =
+
+
+The property commons is a network of [[Propertytrust]]s, governed democratically. The precise form of governance is agreed upon by the trustees of the networked republic of trusts and commons, but must honor the [[principles of organization]].
+
+The economic arrangement the property commons creates, in conjunction with the other [[Vested Commons]], establishes the economic model of [[Utilicontributism]]. 
+
+
+[[Category:peertrust]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

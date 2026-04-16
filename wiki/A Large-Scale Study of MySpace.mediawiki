@@ -1,1 +1,19 @@
 #REDIRECT [[Large-Scale Study of MySpace]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.744930Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-d05aa5e7e8e8684d866506f53ae398a10a20a2de31df884e191c5990f94bd917 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+A Large-Scale Study of MySpace: Observations and Implications of Online Social Networks: Here you’ll learn about spam, online deception and MySpace.
+
+Webcast via http://videolectures.net/icwsm08_caverlee_lssm/
+
+
+[[Category:Webcasts]]
+
+[[Category:Media]]
+
+[[Category:Research]]
+
+[[Category:Culture]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

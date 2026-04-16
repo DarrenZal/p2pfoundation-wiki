@@ -1,1 +1,16 @@
 #REDIRECT [[Frederick Burks on Guiding Personal Transformation Online]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.971198Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-7cd5b6042763b5e54d04c5bf3a1529d7278520acb4c684aa6362bcd8ddf65810 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video lecture via http://www.ustream.tv/recorded/4601065
+
+
+[[Category:Webcasts]]
+
+[[Category:Facilitation]]
+
+[[Category:Spirituality]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

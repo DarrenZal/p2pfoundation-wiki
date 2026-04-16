@@ -1,1 +1,8 @@
 #REDIRECT [[FreeMind]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.977292Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-811a78d3667bffa002a0bf88eccbad69dcd7bd1897397438f860b34a3818fbd6 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''FreeMind''' is a premier free mind-mapping (http://en.wikipedia.org/wiki/Mind_map) software written in Java. The recent development has hopefully turned it into high productivity tool.
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

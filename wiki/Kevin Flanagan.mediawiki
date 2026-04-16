@@ -1,1 +1,52 @@
 #REDIRECT [[User:KevinF]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.092104Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-44e2c41eb6a4126715a15491b34fe1c557decadf8f5cb837531f0585b839f39c -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+<big>[[User:KevinF|Kevin Flanagan's Wiki Page]]</big>
+
+[[File:Picture-31-1382561053.jpg]]
+
+==Bio==
+Kevin Flanagan is an Irish activist and artist whose work focuses on the commons and P2P practices as paradigms for social change.
+
+After working as a volunteer for many years, Kevin now works full time with the P2P Foundation as a community development and projects coordinator, he is also a regular contributer to P2P Foundation Blog and Wiki.
+
+In 2014 Kevin was part of the communications team for P2Pvalue.eu a multi-disciplinary research project investigating the production of value in commons based peer production.
+
+He also spent 4 months in Ecuador working closely as a volunteer with researchers on the FLOK Society project.
+
+Kevin has lectured and taken part in panel discussions on P2P, the commons and digital culture. Most recently at the Open Here Festival http://openhere.data.ie and at FSCONS https://fscons.org/2014/
+
+In collaboration with Cultivate and WeCreate in Ireland he co-organised http://openeverything.ie a convergence on the collaborative economy.
+
+In 2011 in response to Ireland’s economic crisis he co-organized Reset Ireland, a public forum for citizen dialogue on issues of Government Transparency, Employment, Environment and Health.
+
+Active in the Irish hackerspace community in May 2011 he organized the Mindfield Hackerspace with a 3 day program of workshops, lectures and panel discussions as part of the Mindfield Festival of Ideas in Dublin.
+
+Kevin holds a Masters Degree in Fine Art from the University of Ulster in Belfast, Northern Ireland where he specialized in photography and film. As an independent artist he has exhibited in Ireland and internationally, having his first solo exhibition at the Galway Arts Center in 2010. His work has received the support of the Arts Council of Ireland.
+
+kevin@p2pfoundation.net
+
+https://twitter.com/flgnk
+
+https://KevFlanagan.wordpress.com
+
+==Short Bio==
+
+Kevin Flanagan is an Irish artist and activist. He is an advocate for the Commons and Peer to Peer as paradigms for social change and transition to a post-capitalist society.
+As Community Coordinator of the P2P Foundation Kevin works closely researchers and activists from around the world. He has collaborated on a number of projects including P2Pvalue, FLOKsociety and Commons Transition.
+His arts practice includes drawing, photography, video and performance works. He has exhibited in Ireland and internationally. His work explores social and ecological themes.
+Kevin holds a Master Degree in Fine Art from the Univesity of Ulster, Belfast.
+
+https://twitter.com/flgnk
+
+
+[[Kevin Flanagan Wiki To Do List| This is my wiki to do list]]
+
+
+[[Category:Ireland]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

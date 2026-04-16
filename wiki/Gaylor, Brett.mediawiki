@@ -1,1 +1,25 @@
 #REDIRECT [[Brett Gaylor]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.012975Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-facb1e825c01f91d5f007eb46c593c1ba47b8b1bda7b95c43f3d4a42c4915937 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= Canadian open source film maker'''
+
+=Bio=
+
+"Brett Gaylor is a documentary filmmaker and new media director.  He is the creator of opensourcecinema.org, a video remix community which supports the production of his feature documentary [[RiP]]: A remix manifesto.
+
+He is also the web producer of the Homeless Nation.org, a web project dedicated to bridging the digital divide - allowing everyone to participate in online culture.
+
+Brett is one of Canada’s first videobloggers and has been working with youth and media for over 10 years, and is a founding instructor of the Gulf Islands Film and Television School."
+(http://nfb.ca/webextension/rip-a-remix-manifesto/?ec=en20081015)
+
+
+[[Category:Bios]]
+
+[[Category:IP]]
+
+[[Category:Webcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

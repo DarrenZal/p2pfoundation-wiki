@@ -1,1 +1,18 @@
 #REDIRECT [[Ellen Miller]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.177379Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-36ff8deeed49a241f9fe63d9d45d913988734446a5c9597170e7321f01ffc952 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Bio=
+
+"Ellen S. Miller is the co-founder and Executive Director of the Sunlight Foundation, a Washington-based, nonprofit catalyst that is using new technology to open up Congress. In just two years, Sunlight has created more than two dozen Web sites, databases, distributed research projects, tools and widgets to make information about Congress’ activities more accessible through the Internet."
+(http://netsquared.libsyn.com/index.php?post_id=330050)
+
+
+[[Category:Bios]]
+
+[[Category:Politics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

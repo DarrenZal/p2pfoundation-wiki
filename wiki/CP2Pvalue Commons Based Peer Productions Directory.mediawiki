@@ -1,1 +1,24 @@
 #REDIRECT [[P2Pvalue Commons Based Peer Productions Directory]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.795203Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-ccb1211ceabab17c256d572e50ba82b493a6e09ff8d69d1e37d7801f2ba184ac -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= project under development'''
+
+URL = http://directory.p2pvalue.eu/
+
+=Description=
+
+"The mission of this directory is to collect and typify digital platforms or projects that are Commons Based Peer Productions (CBPP). In short, CBPP means to produce collaboratively and provide access to resources under community governance.
+
+Currently, in this directory there are a hundred of cases that are based on collaborative forms of production. Projects that produce open sets of software, texts, images, videos, music or sounds, collaborative research projects that give access to all the data, projects that produce resources for public use and that also offer open methodologies, etc."
+
+
+[[Category:Resources]]
+
+[[Category:Peerproduction]]
+
+[[Category:P2P Accounting]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

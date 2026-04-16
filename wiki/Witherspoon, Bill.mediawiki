@@ -1,1 +1,25 @@
 #REDIRECT [[Bill Witherspoon]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.497788Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-8ead1f6a623ce22011594ec0e6f71bc2f69c7a2244d73814d0d7d1b781ec1e07 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+= practitioner and advocate of [[Open Book Management]]
+
+=Bio=
+
+"Bill Witherspoon is founder and CEO of The Skyfactory, located in Fairfield. The company has instituted a transparent management model called Open Book Management, which makes all financil information within the company (with the exception of individual salaries) completely open to all employees.
+
+Bill Witherspoon is an artist and entrepreneur. He has founded six companies, and served as President and CEO of Genetic ID. His artistic endeavors have included large-scale land-art projects in Oregon and Iowa. On this week's episode of Open Views we'll be discussing what Open Book Management is, what its challenges and benefits have been for The Skyfactory, and whether or not this is just the latest management fad." (http://kruufm.com/34-open-views-bill-witherspoon-ceo-skyfactory) 
+
+
+=More Information=
+
+Listen to [[Bill Witherspoon on Open Book Management]]
+
+
+[[Category:Bios]]
+
+[[Category:Business]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

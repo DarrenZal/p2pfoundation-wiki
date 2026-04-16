@@ -1,1 +1,21 @@
 #REDIRECT [[George Papanikolaou]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.016749Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-13262b0563f7a97a9e44b236329523d8a979e3485f16f567cb5d7d6c822a8998 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+= participant to the [[Europe Commons Deep Dive]] workshop
+
+=Bio=
+
+George Papanikolaou was born in 1966 and lives in Athens (Greece). He has studied medicine , specialized in internal medicine and performed his research in medical genetics. In the past he has worked as a physician and for several years in the pharmaceutical industry. He is now teaching molecular genetics and pathophysiology at the school of Dietetics and Nutritional science (Harokopion University of Athens). He is actively contributing to the Greek p2pfoundation blog/wiki and groups supporting digital rights in Greece. Over the last years he is regularly giving talks on the Commons and peer production in meetings and conferences all around Greece. He has translated several articles on the aforementioned topics in Greek.
+
+See [[Greece]].
+
+[[Category:Commons]]
+
+[[Category:Greece]]
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

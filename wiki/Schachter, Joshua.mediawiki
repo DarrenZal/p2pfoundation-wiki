@@ -1,1 +1,13 @@
 #REDIRECT [[Joshua Schachter]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.347388Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-402ee3509de50211b086980b416a6f7e2a27e6d352200c13d3b7a089b94e82bf -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''Joshua Schachter is the founder of Delicious'''
+
+Profile, with lots of information on the history of [[Delicious]] at
+http://www.technologyreview.com/tr35/Profile.aspx?Cand=T&TRID=432
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

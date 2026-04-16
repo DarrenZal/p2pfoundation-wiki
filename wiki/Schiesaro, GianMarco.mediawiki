@@ -1,1 +1,26 @@
 #REDIRECT [[GianMarco Schiesaro]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.348617Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-ee0412b0d5014f41c96386e43303c5337f6b266b487daefe7f1f27089fc5514f -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= Italian author of [[Free Software and Human Rights]], active in development issues'''
+
+
+=Bio=
+
+"GianMarco Schiesaro (Italy, 1969) with a degree in Electronic Engineering and subsequently
+specializing in topics on Development Cooperation and Computer Mediated Communication.
+He has worked for a number of years in the world of international cooperation, with VIS
+(International Volunteers for Development) projects of e-learning in developing countries. He is also
+director of the Training Center for Human Development in Rome and lectures in the Master in
+Education for Peace (Roma Tre University).
+
+Publications: La sindrome del computer arrugginito (Nuove tecnologie nel Sud del mondo tra sviluppo
+umano e globalizzazione, SEI, Torino, 2003) e Tecnologie per la didattica (ed. Davide Parmigiani, Franco
+Angeli Editore, Milano, 2004)."
+
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

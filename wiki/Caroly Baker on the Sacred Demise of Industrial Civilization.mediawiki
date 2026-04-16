@@ -1,1 +1,24 @@
 #REDIRECT [[Carolyn Baker on the Sacred Demise of Industrial Civilization]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.798480Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-58d7d3fae6526167322463855dd9f3c28d1c9c6be88ce42391fce32f6a34f03c -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Video via http://www.wordpress.peakmoment.tv/conversations/?p=374
+
+
+=Description=
+
+"As a historian, Carolyn Baker has a keen eye for current events that are indicators of the collapse we’re seeing all around us. But she’s also a psychologist concerned about how we personally navigate the turbulence and find meaning within it. The author of Sacred Demise: Walking the Spiritual Path of Industrial Civilization’s Collapse, she describes the old story that isn’t working anymore (humans are separate from nature), and the new story we must live by for real sustainability."
+(http://www.wordpress.peakmoment.tv/conversations/?p=374)
+
+[[Category:Ecology]]
+[[Category:Spirituality]]
+[[Category:Webcasts]]
+[[Category:Collapse]]
+
+[[Category:Ecology]]
+[[Category:Spirituality]]
+[[Category:Webcasts]]
+[[Category:Collapse]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

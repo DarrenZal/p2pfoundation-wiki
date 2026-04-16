@@ -1,1 +1,10 @@
 #REDIRECT [[Open Source 3D Printers]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.230762Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-65147b039ab96a84b025d571447aeb01a68407d8b08021028927c040a6b995f1 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+See: [[Open Source 3D Printer]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

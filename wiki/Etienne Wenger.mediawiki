@@ -1,4 +1,16 @@
 #REDIRECT [[Étienne Wenger]]
 
+<!-- resolved-at: 2026-04-16T03:53:27.943595Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-df3dad4b3a0a525295044207973779a3b5d3cce146c277e68a859a0198d70f52 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= Theorist of [[Communities of Practice]]'''
+
+== More Information ==
+* [[Communities of Practice]]
+* [[Promoting and Assessing Value Creation in Networks]] ← [[Etienne Wenger's Framework for Assessing Value in Communities of Practice]]
+* [[Wikipedia: Étienne Wenger]]
+
 [[Category:Bios]]
 [[Category:Community]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

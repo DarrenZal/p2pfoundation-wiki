@@ -1,1 +1,22 @@
 #REDIRECT [[Opus]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.233664Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-b2f411731413e045caa9e5ec67419a2768abd5c1551f50a5b87c73f5ea3e302d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+URL = http://www.foreignpolicy.com/story/cms.php?story_id=3787
+
+=Description=
+
+Self - description: Opus seeks to build a creative commons with a community of media practitioners, artists, authors and the public from all over the world. Here people can present their own work and make it open for transformation, besides intervening and transforming the work of others by bringing in new materials, practices and insights. The Discussion forums are there to open out the works to comments and reflections. Opus follows the same rules as those that operate in all free software communities - i.e. the freedom to view, to download, to modify and to redistribute. The source(code), in this case the video, image, sound or text, is free to use, to edit and to redistribute.
+
+http://www.opuscommons.net/templates/doc/index.html
+
+
+=P2P Foundation Evaluation=
+
+FranzN 6/2007: Opaque and complicated interface. Mixed with lots of theory stuff.
+
+[[Category:Design]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

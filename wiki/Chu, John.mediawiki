@@ -1,1 +1,24 @@
 #REDIRECT [[John Chu]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.814592Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-31ceaa516e04cf419d7cce374da08a32b0c319237c5819079e367263de7725e5 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= researcher in [[Open Entreprise]] and corporate governance'''
+
+
+=Bio=
+
+"Mr. Chu is a PhD candidate with a research focus on corporate governance at a major public university in Switzerland.
+
+John has over 15 years of experience spanning across the areas of strategy development, project management, financial analysis, investment evaluation, project finance, business process reengineering, acquisition due diligence, alliance creation, commercial negotiation as well as systems specification, selection, design and development. He has worked in industries such as management consulting, IT, manufacturing, telecommunications, education and energy for a number of major organizations.
+John is a CPA and CMC. His academic qualifications include bachelor of business systems, bachelor of business (banking and finance) and MBA (specialising in marketing and management).
+
+He also has an extensive track record in speaking engagements, conference chairmanship and publications."
+
+
+[[Category:Research]]
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

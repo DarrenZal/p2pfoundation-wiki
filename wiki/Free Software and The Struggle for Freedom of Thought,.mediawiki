@@ -1,1 +1,19 @@
 #REDIRECT [[Free Software and The Struggle for Freedom of Thought]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.973751Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-c55a8127a75c589d6213745975d8cf9171f106d2de2bdea3a8ea6ed11372f1e4 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+Lecture by Eben Moglen at the Wizards of Os 2004.
+
+URL = http://www.archive.org/download/3_do_t1_11h_3-Moglen_a/3_do_t1_11h_3-Moglen.ogg
+
+Full title: '''Die Gedanken Sind Frei: The Free Software Movement and The Struggle for Freedom of Thought'''
+
+
+[[Category:Podcasts]]
+
+[[Category:Policy]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

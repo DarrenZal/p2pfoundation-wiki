@@ -1,1 +1,19 @@
 #REDIRECT [[Tim Westergren]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.486238Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-f044f450b2d3b8b590692e29bf16fc30e96333d2cc594f34f5742eba283be1fd -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= founder of [[Pandora]]'''
+
+=Bio=
+
+"kicked off personal radio´s breakthrough. Being an expert in music recommendation, Westergren desided to automate his expertise with the aid of digitalisation, which entailed the starting shot for the Music Genome Project - a mammoth undertaking to test hundreds of thousands of songs for their musical relations. Through the personal radio Pandora, Westergren makes that knowledge available to everyone on the internet, suggesting songs based on the music people like."
+(http://thinnerism.cc/2007/10/28/music20-overview-–-part-4-tim-westergren-the-music-genome-project-and-pandora/)
+
+
+[[Category:Bios]]
+
+[[Category:Music]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

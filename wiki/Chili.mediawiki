@@ -1,1 +1,16 @@
 #REDIRECT [[Chile]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.812933Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-7f9c213f96505a39c51f83c21fe6e7970d5a6287b422eb1b13b23e59ef5c9bb7 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+For a list of pages see [[:Category:Chile]].
+
+There is an excellent, at least five part long series, on internet activism in Chile, done by the Democracy blog, at http://internationaldemoblog.blogspot.com/2006/07/internet-activism-in-chile-part-1.html
+
+Also accessible via the [http://del.icio.us/mbauwens/P2P-Chili P2P-Chili] Delicious tag.
+
+[[Category:South America]]
+[[Category:Chile]]
+[[Category:Country]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

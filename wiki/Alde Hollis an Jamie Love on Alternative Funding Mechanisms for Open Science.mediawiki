@@ -1,1 +1,18 @@
 #REDIRECT [[Alden Hollis an Jamie Love on Alternative Funding Mechanisms for Open Science]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.753272Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-f7a3dfabe11af4445d2716cb3b0b3416a8651716a5a50076da3c9ee8c73d53af -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+2010 Open Science Summit presentation via http://fora.tv/2010/07/31/Alternative_Funding_Mechanisms_for_Science_RDfor_
+
+
+[[Category:Science]]
+
+[[Category:Webcasts]]
+
+[[Category:Peerfunding]]
+
+[[Category:Open Science]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

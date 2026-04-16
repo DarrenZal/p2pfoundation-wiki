@@ -1,1 +1,27 @@
 #REDIRECT [[Mikel Maron]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.154114Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-98d349268e4d83c0d9ddb72f77cdc01fb4df35822b39bb21360ab0f636f1b1fc -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+'''= open mapping activist'''
+
+
+=Bio=
+
+Mikel Maron is a freelance web developer, specializing in Open
+Geospatial and Wiki tech. He's been active in the standardization of
+GeoRSS and in the OpenStreetMap collaborative mapping project, and
+co-founder of the geodata aggregator, Mapufacture. He's developed two
+of the first Wikis in use at the UN. Previously, Mikel worked as
+senior developer of My Yahoo! and researched evolutionary models of
+ecosystems for an MSc at the University of Sussex.
+(http://wiki.freemap.in/moin.cgi/FreeMapIndia2008)
+
+
+[[Category:Bios]]
+
+[[Category:Geography]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,16 @@
 #REDIRECT [[Hunnapuh]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.053914Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-65242c510d19744d27dc774e48b4c980f79e49db747035d476002839c1e8d03e -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+= Hunnapuh es uno de los blogs colectivos políticos más antiguos de El Salvador
+
+URL = http://hunna.org/
+
+Revista de opinión comunitaria en la que se exponen puntos de vista políticos y sociales de El Salvador.
+
+[[Category:El Salvador]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

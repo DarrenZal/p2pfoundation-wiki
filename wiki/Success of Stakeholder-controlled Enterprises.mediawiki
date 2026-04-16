@@ -1,1 +1,16 @@
 #REDIRECT [[Success of Stakeholder-Controlled Enterprises]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.386710Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-902faa75e1e40bd3dfb237e66b9b247e0f674dd16c2e1f22941919b459e57abd -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''Over 80% of investor owned firms typically fail in their first five years compared with less than 1% of the Mondragon firms.'''
+
+Source: A New Way to Govern: Organisations and society after Enron. check http://www.thecorporatelibrary.com/special/turnbull/turnbull11.html
+
+
+[[Category:Statistics]]
+
+[[Category:Open Company Formats]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

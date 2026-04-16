@@ -1,1 +1,17 @@
 #REDIRECT [[Beginner's Guide to Joining Anomymous]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.774642Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-d01f62574c03893523c2634a210302d6cc52edcc4c4a8a17fc72fe917265eb71 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video via http://www.youtube.com/watch?feature=player_embedded&v=ohLDHdeXoOU
+
+
+
+[[Category:Webcasts]]
+
+[[Category:Movements]]
+
+[[Category:Peergovernance]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

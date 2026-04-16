@@ -1,1 +1,20 @@
 #REDIRECT [[Applications Economy]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.761185Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-1b7277cd9c15b1c5be2f8438f52fefc83545a9a7498dd9e547ee606068806091 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Detailed treatment at: the [[App Economy]]
+
+'''Report: WHERE THE JOBS ARE: The [[App Economy]]. Michael Mandel. TechNet, 2012'''
+
+URL = http://www.technet.org/wp-content/uploads/2012/02/TechNet-App-Economy-Jobs-Study.pdf
+
+
+
+[[Category:Collaborative Economy]]
+
+[[Category:Business Models]]
+
+[[Category:Statistics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

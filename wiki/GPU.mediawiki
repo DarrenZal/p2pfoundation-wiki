@@ -1,1 +1,10 @@
 #REDIRECT [[GPU (disambiguation)]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.010790Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-19efe5e19139ec9047cda5143e2b0e4c42dc5ed01236a39a1efbdb42792f9950 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+== Software ==
+* [[Gnutella Processing Unit]], a distributed computing client
+* [[GPU Grid]], a volunteer distributed supercomputing infrastructure for biomedicine
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

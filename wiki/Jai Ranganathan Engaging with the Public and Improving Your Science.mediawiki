@@ -1,1 +1,14 @@
 #REDIRECT [[Jai Ranganathan on Engaging with the Public and Improving Your Science]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.078500Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-1d5d6bc0eb49a58d641f99bd273a551c798ab8de3c40b3b742ef073f0cdefa99 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= Jai Ranganathan on Engaging with the Public and Improving Your Science'''
+
+URL = Podcast interview via https://soundcloud.com/hackyourphd/hyphdus-jai-ranganathan-scifundchallenge
+
+[[Category:Podcasts]]
+
+[[Category:Science]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

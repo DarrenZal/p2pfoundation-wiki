@@ -1,1 +1,28 @@
 #REDIRECT [[Steven Clift on E-Activism]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.381797Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-d3c27e8f0424795db47d705ccf0e11cb9dfcf9bc4468ab9ae91aac3eaee42aaa -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''E-Citizens, Advocacy, and Activism''', by Steven Clift of E-Democracy.
+
+20 MB powerpoint presentation on the political uses of the internet, with examples from the U.S. and the UK. 
+
+Downloadable through http://www.dowire.org/notes/?p=122
+
+
+There is also a podcast of a lecture by Steven Clift in Estonia:
+
+URL = http://akamai.kolhoos.ee/tehnokratt/podcast/kaasamine2006/08_StevenClift.mp3
+
+(it starts with a small Estonian intro)
+
+[[Category:Graphics]]
+
+[[Category:Podcasts]]
+
+[[Category:Democracy]]
+
+[[Category:Politics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

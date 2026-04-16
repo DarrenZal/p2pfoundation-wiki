@@ -1,1 +1,20 @@
 #REDIRECT [[Daniel Solove]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.372600Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-0b12193900648329f2356453eaf67fe9e92b173df540fc2e4528d0ac1977ab70 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= [[Privacy]] expert, author of [[Understanding Privacy]]'''
+
+
+=Bio=
+
+"Daniel J. Solove is a professor of law at the George Washington University Law School. In addition to Understanding Privacy (Harvard University Press 2008), he is the author of The Future of Reputation: Gossip, Rumor, and Privacy on the Internet (Yale University Press 2007), The Digital Person: Technology and Privacy in the Information Age (NYU Press 2004) and Information Privacy Law (Aspen Publishing, 2d ed. 2006), among other titles. His book, The Future of Reputation, won the 2007 McGannon Award.
+
+An internationally known expert in privacy law, Solove has been interviewed and quoted by the media in over 100 articles and broadcasts, including the New York Times, Washington Post, Wall Street Journal, USA Today, Chicago Tribune, the Associated Press, ABC, CBS, NBC, CNN, and NPR. He has consulted in high-profile privacy law cases, contributed to amicus briefs before the U.S. Supreme Court, and testified before Congress. He serves on the advisory board of the Electronic Privacy Information Center and is on the board of the Law and Humanities Institute."
+(http://itc.conversationsnetwork.org/shows/detail3805.html)
+
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,17 @@
 #REDIRECT [[Joshua Levy]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.108910Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-48db94ef82ac41bf8fa83274eec5f868629236dbe2b74c628acb705b9526ae25 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Bio=
+
+"Joshua Levy is a writer and web strategist whose work explores the intersections of technology, politics, and activism. He is Associate Editor of techPresident and Personal Democracy Forum, and his analysis and work at techPresident.com has been featured in the New York Times, the Washington Post, the Huffington Post, Salon, NPR, ABC News, AOL Politics, the CBC, Sky News, and XM Radio, among others."
+(http://rebooting.personaldemocracy.com/node/44)
+
+[[Category:Bios]]
+
+[[Category:Politics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,25 @@
 #REDIRECT [[Craig Newmark]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.198550Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-a0897ae91b2a9d401b326c78080b191fb8a82e0011b5750c0517962e832ec2ba -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= founder of the San Francisco-based website Craigslist'''
+
+=Description=
+
+From the Wikipedia:
+
+"Craig Alexander Newmark (born 6 December 1952 in Morristown, New Jersey) is an Internet entrepreneur best known for being the founder of the San Francisco-based website Craigslist.
+
+Newmark attended Morristown High School. Upon graduation he attended college at Case Western Reserve University for a Bachelor of Science in Computer Science.
+
+Newmark is a vocal advocate of keeping the Internet free."
+(http://en.wikipedia.org/wiki/Craig_Newmark)
+
+
+[[Category:Bios]]
+
+[[Category:Business]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

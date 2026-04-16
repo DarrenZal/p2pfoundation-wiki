@@ -1,3 +1,11 @@
 #REDIRECT [[File:P2PUrbanism definition.pdf]]
 
+<!-- resolved-at: 2026-04-16T03:53:27.744216Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-1e6c66f75a92599a6e61a4c28b601a5ef8faac74d0c11945e127beb87b98294d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+P2P Urbanism Definition prepared by the “Peer‐to‐peer Urbanism Task Force”	
+consisting of Antonio Caperna, [[Michael Mehaffy]], Geeta Mehta, [[Federico Mena Quintero]], [[Agatino Rizzo]], [[Nikos Salingaros]], [[Stefano Serafini]], and Emanuele Strano.
+
 [[Category:Urbanism]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

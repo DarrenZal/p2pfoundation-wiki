@@ -1,1 +1,10 @@
 #REDIRECT [[Tim O'Reilly]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.205028Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-624e2ed9cae2b5a6d51c399638d951a4b7da8bc1ffe9507d2d1ff1d02290d54b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Tim O'Reilly [http://en.wikipedia.org/wiki/Tim_O%27Reilly]is an important publisher, promoter of the P2P and Web 2.0. meme's with a keen understanding of technosocial developments.
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

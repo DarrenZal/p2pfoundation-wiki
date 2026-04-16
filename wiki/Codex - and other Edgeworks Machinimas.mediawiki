@@ -1,1 +1,19 @@
 #REDIRECT [[Codex - and Other Edgeworks Machinimas]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.823809Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-ba8920567769b160ab06037e679ea0b07c6a3173143b83e5c4517a00f1ac933f -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+'''The Codex'''
+
+
+URL = http://www.thecodexseries.com/ew/index.php?page=videos
+
+
+This Machinima, i.e. animation movie based on the use of material from within videogames, is historically significant as one of the first series in the genre. Made by students just before entering college, in a garage.
+
+
+[[Category:Webcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

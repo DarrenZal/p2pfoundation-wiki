@@ -1,1 +1,44 @@
 #REDIRECT [[Help:Using Categories]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.239800Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-2518a408902453f2c14944e0885df31d0f6c54703627cad4b5ff702546b2dd05 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+==What are Categories?==
+Categories form the topic or subject tagging system in use on the P2P Foundation Wiki.  
+At the bottom of most pages on this wiki you will see a shaded box that looks like this:
+{| cellspacing=3 width="100%"
+|-
+|style="border: 1px solid #666;padding-left:0.5em;padding-right:0.5em; background: #eeeeee;"| Category: Peer Production <nowiki>|</nowiki> Peer Governance
+|}  
+Peer Production and Peer Governance are two of the categories applied to articles on the site.  
+The category name at the bottom of the page links to the category page, where you can see a list of all articles in that category.
+
+==How to Use Categories==
+You can place your article in a category the same way by adding one or more Category tags to your article.
+Below are two category tags. 
+Put category tags (anywhere) on a page, and the page will show the category at the bottom,
+and is listed on the relevant Category page.
+
+For more than one category, simply repeat the same pattern.
+
+<pre>[[Category:Peer Production]]
+[[Category:Peer Governance]]</pre>
+
+==Which Category to Choose==
+* Each page should have at least one category, and as many as are useful.
+* Do not create new categories unless there is a very good reason for this. Consult other contributors first!  
+* For in depth information visit the [[P2P Foundation Wiki Taxonomy]] page
+* All pages should be placed into one of the listed subcategories below.  You can use more than one!
+
+If you find other categories later, you can add those, too. 
+<categorytree mode=categories>P2P Domains</categorytree>
+<categorytree mode=categories>P2P Infrastructures</categorytree>
+<categorytree mode=categories>P2P Paradigms</categorytree>
+
+====Are you adding media?====
+You can also choose a "Multimedia" Category from the list below:
+<categorytree mode=categories>P2P Multimedia Directory</categorytree>
+
+[[Category:P2P Foundation Wiki How-To]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

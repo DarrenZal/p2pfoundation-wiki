@@ -1,1 +1,18 @@
 #REDIRECT [[Jon Phillips]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.263961Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-b2e07eac0d806336728965036bf39d9b2215747b2cdf63984012f9914f14bf04 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+= founder of the [[Open Clip Art Library]]
+
+=Bio=
+
+"Jon Phillips is an open source developer, artist and scholar with 12+ years of experience building communities and working within computing culture. He is currently developing the open source project the Open Clip Art Library, works for Creative Commons and teaches at the San Francisco Art Institute in the Design+Technology department."
+(http://creativecommons.org.tw/static/conference2007/speakers/english)
+
+[[Category:Bios]]
+
+[[Category:Design]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,8 @@
 #REDIRECT [[Collaborative Principles]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.826565Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-404e665bf26f0ba4d580957794ef3b176de73de426ab59dbd7f2cb977ba6d478 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+[http://en.wikipedia.org/wiki/Collaboration_Oriented_Architecture  Wikipedia Entry for Collaboration Oriented Architecture]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

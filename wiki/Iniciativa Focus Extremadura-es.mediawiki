@@ -1,1 +1,27 @@
 #REDIRECT [[Iniciativa Focus Extremadura]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.064793Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-b510529cfca2e7833baf26d1a9f78d10a516704d34e23c15e4037ce4c9e82f42 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= Asociación Formación, Cultura y Solidaridad'''
+
+URL = http://www.iniciativafocus.org
+
+==Detalles==
+Asociación para promover y difundir el uso del Conocimiento Libre a través del Software Libre en Extremadura
+
+==More Information==
+* Date of information: 2013
+* http://es.wikipedia.org/wiki/Iniciativa_Focus
+* Contact e-mail: jaleon@iniciativafocus.org
+* Number of participants=20
+* City: Badajoz
+* Location: 38.881191369747064, -6.971447467803955
+* Topics: Collaboration Software
+* Tags: focus, extremadura, conocimiento libre, software libre
+
+
+[[Category:Spain]]
+[[Category:Spanish]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

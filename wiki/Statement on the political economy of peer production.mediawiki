@@ -1,1 +1,18 @@
 #REDIRECT [[Statement on the Political Economy of Peer Production]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.380253Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-d3d3e2be6052a68055e1dd2f2218cc57e30c7b27d98e64d14b54ffa960f2f86a -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+This essay by Meike Reichle focuses on the role of gender in peer production. It's title was chosen because it was a reaction to the essay by Michel Bauwens in CTheory, entitled The Political Economy of Peer Production.
+
+Meike Reichle's essay is at http://www.alphascorpii.net/peer-to-peer.html
+
+Michel Bauwens essay is at http://www.ctheory.net/articles.aspx?id=499
+
+[[Category:Articles]]
+
+[[Category:Peerproduction]]
+
+[[Category:Economics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

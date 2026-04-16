@@ -1,1 +1,25 @@
 #REDIRECT [[Measuring Community Energy Impacts]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.165250Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-ae76266f5882fdb2a417561a685b0f4a1956874b313744f9d0f3c865356c4a15 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''* Article: Measuring Community Energy Impacts: How do we decide what really counts?'''
+
+URL = ?
+
+The CISE (Community Innovation for Sustainable Energy) team reviews how community energy projects measure their performance, and works out what really counts. (May 2011)
+
+
+
+
+=Abstract=
+
+The CISE (Community Innovation for Sustainable Energy) team reviews how community energy projects measure their performance, and works out what really counts. (May 2011)
+
+
+[[Category:Energy]]
+
+[[Category:P2P Accounting]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

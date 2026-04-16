@@ -1,1 +1,5 @@
 #REDIRECT [[Ethics for Officials of Citizens Movements]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.942914Z -->
+<!-- resolution-status: cycle_detected -->
+<!-- resolution-notes: cycle: Ethics for Officials of Citizens Movements → Ethics for Officials of Citizens Movements -->

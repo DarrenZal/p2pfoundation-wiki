@@ -1,1 +1,23 @@
-#redirect [[Hitchwiki]]
+#REDIRECT [[Hitchwiki]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.044336Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-e25542870bda3db290ca22db29a1d848dc061ec518cd50a04f5baaa2fa18f419 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= a collaborative website for gathering information about hitchhiking and other ways of extremely cheap ways of transport'''
+
+URL = http://hitchwiki.org
+
+=Description=
+
+The [http://hitchwiki.org Hitchwiki] is a collaborative website for gathering information about hitchhiking and other ways of extremely cheap ways of transport. It was inspired by Wikipedia and by Adams' Hitchhiker's Guide to the Galaxy. At some point it was left abandoned by its founder, and adopted by Guaka. As a hitchhiker you're encouraged to not only read the guide, but also to contribute by adding your knowledge, improving existing articles and starting new ones!  Anyone is allowed to edit.  You don't even need to log in.
+
+The Hitchwiki is collecting all sort of relevant information about good hitchhiking spots, knowledge about hitchhiking possibilites in different countries, general know-how about what to pack and when to go, what to eat, and how to stay safe.
+
+[[Category:Transportation]]
+
+[[Category:Resources]]
+
+[[Category:Sharing]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

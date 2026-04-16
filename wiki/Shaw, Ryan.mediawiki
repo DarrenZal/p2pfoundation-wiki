@@ -1,1 +1,28 @@
 #REDIRECT [[Ryan Shaw]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.358934Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-d78967ad88860db1e4abd3b7b1296276212f5b7048bd6ad617e323daf63454d5 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+= researcher in [[Peer Production]] and [[Peer Governance]]
+
+=Bio=
+
+" a Ph.D. student at UC Berkeley’s School of Information and a researcher at Yahoo! Research Berkeley. My research interests include:
+
+    
+* How models and methods of commons-based peer production can be applied to audiovisual media production and organization
+    
+* Systems of mediation between traditional hierarchical forms of media production and newer networked forms of media production
+    
+* How the development of standards for enabling the automated processing of media shapes and is shaped by these networked forms of media production."
+(http://dream.berkeley.edu/~ryanshaw/wordpress/bio/)
+
+
+[[Category:Bios]]
+
+[[Category:Research]]
+
+[[Category:Governance]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

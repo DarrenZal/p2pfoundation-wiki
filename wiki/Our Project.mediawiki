@@ -1,1 +1,15 @@
 #REDIRECT [[OurProject]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.235186Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-a95a60f6fbf39966bbf1121f300d83255c6e5543883572531554d3686149ece5 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= The idea behind the ourproject.org initiative is for it to be a tool which encourages the cooperative work effort of all types of people from every part of the world, promoting the coming together of people and the exchange of ideas and solutions to problems, with the condition that the results of the projects will remain freely accessible to whoever may find them useful, within this tool.''' It is a project from the [[Comunes]] organization.
+
+URL = http://ourproject.org/
+
+
+[[Category:Sharing]]
+[[Category:P2P Infrastructure]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

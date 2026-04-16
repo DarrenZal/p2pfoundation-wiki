@@ -1,1 +1,16 @@
 #REDIRECT [[Leslie Shade]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.357521Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-a74a2db44581d7304534fff351da7fbe251c802c80c9e98469fe88774559df52 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+ = writes on gender and the internet
+
+=Bio=
+
+"Leslie Regan Shade is an Assistant Professor in the Dept. of Communication, University of Ottawa, where her research and teaching focuses on the social, ethical, and policy aspects of information and communication technologies. She is '''the author of Gender, Community, and the Social Construction of the Internet''' (Peter Lang 2002) and is working on a book about Internet policy and the public interest."
+(http://www.leftcurve.org/LC27WebPages/CyberspaceRev.html)
+
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,21 @@
 #REDIRECT [[From the First Enlightenment of Reason To the Second Enlightenment of Beauty]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.002925Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-f6e4490ce886f412ee4cbfc1c9835ac7fa368fe82d127a504ab38a56c5a42b58 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+=More information=
+
+'''* Article: The Second Enlightenment as an Aesthetic Enlightenment and its Relevance. Fan Meijun & Wang Zhihe. Balkan Journal of Philosophy 7 (2):159-168 (2015)''' 
+
+URL = https://philpapers.org/rec/MEITSE
+  
+"The Second Enlightenment is a deep reflection and an immanent transcendence of the first Enlightenment. Although the great achievements of the first Enlightenment cannot be denied, its limits are increasingly being exposed. Among the many limitations of the Enlightenment, the suppression of beauty in general and natural beauty in particular is one of its main drawbacks, caused by its blind worship of reason and the domination of a modern mechanistic worldview. The suppression of beauty and natural beauty has produced destructive consequences which are responsible for the ecological, social, and spiritual crisis facing us today. In order to prevent ecological catastrophes and create an ecological civilization, a second Enlightenment whose core concept is beauty is needed."
+
+[[Category:P2P Technology Theory]]
+[[Category:Articles]]
+[[Category:Civilizational Analysis]]
+[[Category:Ecology]]
+[[Category:Art]]
+[[Category:China]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

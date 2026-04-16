@@ -1,1 +1,23 @@
 #REDIRECT [[Sea as Public Domain versus Private Commodity]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.352483Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-93daa42f20ec3945fc6d5ce96a387e62380f74fccf0cfb6be38815ccd366c560 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+See: [[International Law of the Sea as Public Domain versus Private Commodity]] for details on the paper:
+
+
+'''* Article: International Law of the Sea/Seed: Public Domain versus Private Commodity. Carol B. Thompson.'''
+
+URL = http://lawlibrary.unm.edu/nrj/44/3/08_thompson_sea.pdf
+
+
+[[Category:Articles]]
+
+[[Category:Commons]]
+
+[[Category:Peerproperty]]
+
+[[Category:P2P State Approaches]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

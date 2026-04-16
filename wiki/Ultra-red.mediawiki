@@ -1,1 +1,17 @@
 #REDIRECT [[Ultra-Red]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.462041Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-f3592546500a2c8c941709fd7585e3f6ebc2918539bdf178e6c2ac28c3beee42 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+URL = http://www.ultrared.org/
+
+
+=Description=
+
+"In the worlds of sound art and modern electronic music, Ultra-red pursue a fragile but dynamic exchange between art and political organizing. Founded in 1994 by two AIDS activists, Ultra-red have over the years expanded to include artists, researchers and organisers from different social movements including the struggles of migration, anti-racism, participatory community development, and the politics of HIV/AIDS."
+(http://www.ultrared.org/mission.html)
+
+
+[[Category:Art]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

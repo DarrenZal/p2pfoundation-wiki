@@ -1,1 +1,14 @@
 #REDIRECT [[2.2 TIC et 'Piratage' (en bref)]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.739214Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-d48604199d0b53a552590849eee9a98c848bc552624b1f2aa01e06fab3fd180a -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+{{Navigate-Nutshell-fr|2.1 Copyright et médias de masse (en bref)|2.3 Economie de la production d'Information (en bref)|2.2 TIC et 'Piratage'}}
+
+{{Body-Left-Nutshell-fr|[[Image:Ipod.jpg|200px]]|De nos jours, tout le monde peut grâce à un ordinateur de bureau connecté à Internet aisément manipuler, mixer et réarranger ses propres créations ou celles d'autres et partager le résultat créatif avec le monde entier. De nouveaux mécanismes distribution comme les réseaux de partage de fichiers en peer-to-peer rendent l'industrie du disque et son business model actuel obsolètes. Les majors réagissent conséquemment en poursuivant en justice les particuliers et utilisent de nouvelles technologies nommées DRM (ou menottes numériques) pour mieux contrôler leurs clients, les empêchant dans le même temps de réutiliser la culture passée.}}
+
+[[Category:Introduction]]
+[[Category:En bref]]
+[[Category:French]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

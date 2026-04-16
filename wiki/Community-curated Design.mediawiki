@@ -1,1 +1,19 @@
 #REDIRECT [[Community-Curated Design]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.872201Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-ed1588b1d176fc2710b6cecc6b5de43b18b56ec1c05f1eea1b3e21508575e7b2 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+URL = http://www.behance.net/
+
+=Description=
+
+"Described by its founder Scott Belsky as “community-curated design,” Behance Network allows designers to upload their portfolios, along with vote and comment on each others’ work. The underlying premise is that designers, especially those who work in the same medium, are necessarily qualified to rate each others’ work, and that in turn, being highly rated in the Behance Network bears significance in the world beyond, e.g. to prospective employers and academic institutions."
+(http://www.smartmobs.com/2009/10/13/the-online-reshuffling-real-estate/)
+
+
+[[Category:Design]]
+
+[[Category:Companies]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

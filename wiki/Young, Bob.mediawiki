@@ -1,1 +1,23 @@
 #REDIRECT [[Bob Young]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.506198Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-7b112e4a78121bb0e0278c4151a1642d29d0160a39723b26d04155b94bb6f3c7 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+= founder of Red Hat
+
+
+=Bio=
+
+"Bob Young created Red Hat, one of the most successful free software companies. Under young’s leadership, Red Hat established itself as the leading GNU/Linux distribution in the server space. Red Hat’s contributions to the Linux kernel and free software in general are immense."
+(http://www.freesoftwaremagazine.com/columns/free_software_heroes_stallman_google_list_inspiring_individuals_who_made_everything_)
+
+
+See also: [[Szulik, Matthew]]
+
+
+[[Category:Bios]]
+
+[[Category:Technology]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,19 @@
 #REDIRECT [[Richard Pithouse]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.266172Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-255872663ad3ccdd0b87786c3a64b67ccec10d7ef53f3654f57655a7e14576dc -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= South African [[Urban Commons]] activist'''
+
+
+=Bio=
+
+"Richard Pithouse, Port Elisabeth, South Africa, is an activist, academic and journalist from South Africa. He is currently focussing his energies on popular struggles for the right to the cities and is interested in exploring the idea of the urban commons. He teaches political philosophy at Rhodes University."
+(http://gemeingut.wikidot.com/future-of-the-commons)
+
+[[Category:Commons]]
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,8 @@
 #REDIRECT [[Mission Critical Functionality]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.177805Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-26e5082c9cf221030cdf1b8fc9342739ef0239369a39358c2c3336e1815eb256 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+[http://en.wikipedia.org/wiki/Mission-critical Wikipedia Entry]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

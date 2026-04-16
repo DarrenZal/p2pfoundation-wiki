@@ -1,1 +1,21 @@
 #REDIRECT [[Blake Ross]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.341563Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-29f10f5309dea83c9867ce0bbdb9ae2522ebce46e941b0c8ab37d5535cf4fbbe -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+'''= creator of Firefox'''
+
+
+=Bio=
+
+"He’s the man who, as a teen-ager (in 2003), realised that the free software movement was losing the web browser world because there wasn’t a lean, free web browser available. So, he forked Mozilla and created another piece of software you might have already heard of: Firefox. The rest is history. In fact, it’s a history with a 25% market share, which is impressive if you consider that each copy of Firefox needs to be downloaded and installed, as opposed to using what comes with Windows directly."
+(http://www.freesoftwaremagazine.com/columns/free_software_heroes_stallman_google_list_inspiring_individuals_who_made_everything_)
+
+
+[[Category:Bios]]
+
+[[Category:Technology]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

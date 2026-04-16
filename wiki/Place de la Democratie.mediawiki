@@ -1,1 +1,22 @@
 #REDIRECT [[Place de la démocratie]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.266655Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-135b38edb73325dce68e64a49d1dad2890ba1d5a5b1374826e3e46dfc543da87 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''Place de la Democratie'''
+
+URL = http://www.placedelademocratie.net/site/
+
+
+=Description=
+
+"Suivez l'actualité du e-vote, des campagnes, de la politique et des mobilisations sur Internet sur le blog de Place de la Démocratie."
+
+(http://www.placedelademocratie.net/site/)
+
+
+[[Category:Movements]]
+[[Category:French]]
+[[Category:Mouvements français‎]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

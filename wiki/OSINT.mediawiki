@@ -1,1 +1,28 @@
 #REDIRECT [[Open Source Intelligence]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.206841Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-581e0eab4122ad6e831f10c951ad9a46c35fa7b85c4071ceea3e3b42bfb5a9dc -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+==Description==
+
+Open Source Intelligence (OSINT) is the outcome of the combination of the proven process of intelligence that is also known as [[decision-support]], with all legally and ethically available information in all languages.
+
+OSINT is above all about harnessing the distributed intelligence of the Whole Earth, and includes the concepts of Smart Nation, Smart City, and other forms of "smart" anything.  It is not, as the US Government now treats it, a "technical discipline" in which the only focus is machine processing of automated streams of digital content.
+
+Because at least 90% of the relevant information is not digital, not in English, and often not known beyond a local circumstance or circle, OSINT should be both an intensely human activity, and a deeply-informed multi-cultural engagement process.
+
+==More Information==
+* [[Robert Steele]]
+* [http://www.phibetaiota.net Phi Beta Iota the Public Intelligence Blog]
+* [http://duckduckgo.com/?q=Open+Source+Intelligence Duck Duck Go Structured Web Hits on Open Source Intelligence]
+
+
+
+[[Category:Intelligence]]
+
+[[Category:Security]]
+
+[[Category:Open]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

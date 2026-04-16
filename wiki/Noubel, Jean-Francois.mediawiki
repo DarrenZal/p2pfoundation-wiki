@@ -1,1 +1,18 @@
 #REDIRECT [[Jean-Francois Noubel]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.204405Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-09bd32d54ae4afa4180324f950541a79aecf9e0d7844d45b7b45eb1a4436990a -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Mr. Noubel, once co-founder of AOL France, is the author of a very illuminating book-in-progress which is published as a Wiki on the Web. 
+
+Short profile at [1] 
+
+Collective Intelligence Wiki, at [2] 
+
+Email: jf@thetransitioner.org 
+
+[[Category:Bios]]
+[[Category:French]]
+[[Category:Individus français]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

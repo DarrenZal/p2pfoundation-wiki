@@ -1,1 +1,9 @@
 #REDIRECT [[Community Land Trust]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.401293Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-5e50f80df49fa0a2c003051062ce320025cc9332f107a60f21daa5ccf50097e6 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+see: [[Community Land Trusts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,8 @@
 #REDIRECT [[Social Publishing]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.368482Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-82529394640815be1767ec829774fd7d6efe90d12cf5eac3a0dc0f9d0dede0f9 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Publishing a journal as a social effort.   Includes the use of 'social technologies' of the web like status update services and commenting on posts.
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

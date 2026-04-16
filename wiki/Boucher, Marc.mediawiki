@@ -1,1 +1,19 @@
 #REDIRECT [[Marc Boucher]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.787303Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-245d71ab690d56c96a9c4fa67f52658a32cb853bf03c0dcd5c30c9c45609e0f3 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''Marc Boucher''' is a French [[Open Money]] and [[Global Villages]] activist.
+
+French bio at http://www.village-planetaire.org/tiki-index.php?page=BicTouBi
+
+Amongst his projects is [[Open Xchange]]
+
+
+
+[[Category:Bios]]
+
+[[Category:Money]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

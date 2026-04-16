@@ -1,1 +1,20 @@
 #REDIRECT [[Thai language]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.399245Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-34ef1c59c7e2cb235a677f723f79df10ec822c2919a9f918b0e5b075a212b60c -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''Thai-Language Material'''
+
+
+
+Draft version of a translation by Jim Puntasen of Rasmi.org
+
+URL = http://www.rasmi-trrm.org/index.php?lay=show&ac=article&Id=252522
+
+Status: page no longer available
+
+
+
+[[Category:Languages]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,38 @@
 #REDIRECT [[Open Discussion About Liquid Unions]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.230118Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-8b8f053a8e4ce4743aa73fcf4e37bb1c39b475504cc1f0914f9b1909dd2f2af5 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+=Discussion=
+
+Proposed by Comcomist:
+
+'''Introduction:''' This page is used for discussion about the idea named [http://comcomist.wdfiles.com/local--files/comcom%3Aist/Hello%20Humans.pdf liquid union] specified [http://liquid-unions.wikidot.com/ here] and being part of a wider concept specified [http://comcomist.wikidot.com/ here]. It is attributed to [http://namzezam.wikidot.com/ namzezam (me)] publishing code under the [http://namzezam.wikidot.com/humanitarian-agpl-license Humanitarian AGPL License]. In short, it is claimed there, that ''equality in group and mobility of individuals between such groups'' could heal our societies, when developed as legal structures made in recursion for serving people from small to bigger groups to reach stable and large scale communities across nations with much higher participation.
+
+We can no longer be only technical or artistic when money can buy and use our production against us and against our values, our world have no more place for such neutrality. This is a call for healing us all from highly corrupted ruling always made by some elected actor being a winner taking all, while polarizing issues, just for keeping her/his positioning. 
+
+In, from and by this page we hope to tune, wake, flourish and distribute this idea while finding other and better ways for realizing such direction. 
+
+=More Information=
+
+Search:
+* #Artists4SocialImprovement 
+* #StopEuroPain
+
+See also
+
+* [[Opening Borders Project]]
+* [[Common Company]]
+
+[[Category:P2P Transition]]  
+[[Category:Business Models]]
+[[Category:P2P Law]] 
+[[Category:P2P Solidarity]] 
+[[Category:Peergovernance]]
+[[Category:Business]] 
+[[Category:Governance]] 
+[[Category:Commons]] 
+[[Category:Peerproperty]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

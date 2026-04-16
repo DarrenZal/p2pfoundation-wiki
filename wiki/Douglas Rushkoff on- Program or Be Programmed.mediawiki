@@ -1,1 +1,33 @@
 #REDIRECT [[Douglas Rushkoff on Program or Be Programmed]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.918105Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-e9de6e39a6049aa4787d80c112f9564f54fada2e6c5f925c8bfcbf661692230e -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+=Video 1=
+
+
+Video via http://dotsub.com/view/d201662c-2ef8-4d9a-a355-015052ed121a
+
+The author on the thme of his latest book: [[Program or Be Programmed]]
+
+
+=Video 2=
+
+At   SXSW 2010, http://www.youtube.com/watch?v=imV3pPIUy1k&feature=player_embedded
+
+"if you are not programming, you are being programmed"
+
+
+=Podcast=
+
+Podcast interview via http://audio.edtechlive.com/foe/rushkoff2011.mp3
+
+
+[[Category:Podcasts]]
+
+[[Category:Webcasts]]
+
+[[Category:Books]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

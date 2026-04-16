@@ -1,1 +1,17 @@
 #REDIRECT [[Alex Munslow on Running Open Space]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.753901Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-353b20413fd0296454f14af2ea74891e7e3df51e29f14d412000cc5788a2d33a -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+URL = http://www.youtube.com/watch?v=Ux_LFjFeCvg
+
+=Description=
+
+"Alex Munslow, an independent film-maker has produced a great short film about running Open Space, based around the Open Space workshops we ran at the Inaugural Transition Network meeting at Ruskin Mill in Nailsworth. It features Naresh Giangrande of TTT, a clip of my mobile phone going off rather embarrasingly in the middle of my talk, and captures the whole dynamic buzz that Open Space unleashes."
+
+[[Category:Webcasts]]
+
+[[Category:Facilitation]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

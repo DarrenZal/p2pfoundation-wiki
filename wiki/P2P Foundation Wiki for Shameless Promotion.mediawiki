@@ -1,1 +1,34 @@
 #REDIRECT [[Help:Your User Page and Bio]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.240434Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-18639d5bd6ccbfe39e6b1b64e3d92891ec4d646717a3577f62beb593e11b7f7d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+==User Pages and Biography pages on the P2P Foundation Wiki==
+If you plan to do some editing on this wiki it's useful to add some information about yourself.  This can aid others in understanding your perspective, and help collaboration.  You can use your User and Biography page to write a bit about yourself, your interests, and also give folks a chance to contact you.  Your user page also has a "Talk" or "Discussion" section, which may be used for messages to the person whose page it is.
+
+==User Page==
+Every user account has a user page, and you can see your own by clicking on your username link, at the very top of each page, towards the right. 
+
+You can see other users through the [[Special:ListUsers | User List]], which is quite long; shorter and more useful is [[Special:ActiveUsers | the list of active users]].
+On these lists, if the user has created their user page, it will show up as a blue link.
+
+==Bio Page==
+Some users are content with just a user page, but if you want to say more about yourself as a "commoner" or P2P person, then you can create your own Bio page, using your real name,
+just as you would for any other person's biographical entry. See [[Help:Creating a Biographical Entry]].
+
+==Redirecting your User or Bio page==
+If you would like to keep all your information in one place you can easily keep a biography page and a user page up to date by redirecting your biography page to your user page or vice versa.
+If you want people to be able to find you by your name, you can have a Bio page that is empty apart from this code (substitute your own user name instead of "Username"):
+<pre><nowiki>
+#REDIRECT [[User:Username]]
+</nowiki></pre>
+
+Alternatively, you can redirect your user page to your Bio page.
+
+==Adjust your preferences==
+Something else to consider early on are your preferences &ndash; linked from the top right, near your user name.
+
+[[Category:P2P Foundation Wiki How-To]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

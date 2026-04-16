@@ -1,1 +1,29 @@
 #REDIRECT [[Rishab Aiyer Ghosh]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.018967Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-1d835463ef40dae120fc8ac2c20cc21b91e25e32f7c31cd561f520f32ddc64a0 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+"Rishab Aiyer Ghosh is Founding International and Managing Editor of [http://firstmonday.org/ First Monday], the most widely read peer-reviewed on-line journal of the Internet. He is Programme Leader, FLOSS, at MERIT/Infonomics at the University of Maastricht, Netherlands. He speaks frequently at conferences around the world on the socio-economics of the Internet and free/open source software. He coordinated the European Union -funded FLOSS project, the most comprehensive study of free/libre/open source users and developers. He is actively involved in initiatives related to government policy on open source, and is involved in research projects on related topics funded by the EC, the Dutch government and the US National Science Foundation."
+(http://wizards-of-os.org/index.php?id=1057&L=3)
+
+Picture at http://flickr.com/photos/joi/694499437/
+
+=More Information=
+
+[http://en.wikipedia.org/wiki/Rishab_Aiyer_Ghosh On Wikipedia]
+
+Listen or hear:
+
+
+[[Rishab Aiyer Ghosh on Challenging Intellectual Property Rights]]
+
+[[Rishab Ghosh on 200 Years of Collaborative Ownership]]
+
+[[Free Software and the Local Economy]]
+
+
+[[Category:Bios]]
+
+[[Category:Netherlands]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

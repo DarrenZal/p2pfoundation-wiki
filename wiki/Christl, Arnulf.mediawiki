@@ -1,1 +1,18 @@
 #REDIRECT [[Arnulf Christl]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.813801Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-7f0291aec313fa90200061b55041da3fa40d91cb8ad1a283036c67885946e9d2 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Find more information about Arnulf Christl at http://arnulf.us/Arnulf
+
+= Bio =
+* [http://wiki.osgeo.org/ Open Source Geospatial Foundation] president.
+* [http://www.mapbender.org Mapbender] contributor.
+* [http://www.opengeospatial.org/projects/groups/oab OGC Architecture Board] member.
+
+Arnulf contributes under the nick [[User:Seven]].
+
+[[Category:Bios]]
+[[Category:Geography]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

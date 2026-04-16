@@ -1,1 +1,17 @@
 #REDIRECT [[Disassortative Network]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.910704Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-4bfa59d372a6845ef28af31bc20bfb8413b0d278eb237734ce40340d8d0f5be1 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+"In Disassortative networks, well-connected nodes join to a much larger number of less-well-connected nodes. This is typical of biological networks." 
+
+by contrast:
+
+In [[Assortative Network]]s, well-connected nodes tend to join to other well-connected nodes, as in many social networks (i.e. friendship links in a school in the United States).
+(from http://www.nature.com/nature/journal/v453/n7191/fig_tab/453047a_F1.html) 
+
+
+[[Category:Relational]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

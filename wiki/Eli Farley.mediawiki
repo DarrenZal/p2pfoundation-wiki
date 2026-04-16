@@ -1,1 +1,8 @@
 #REDIRECT [[User:Elifarley]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.930890Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-14fdd3cde331d0e05858081666a14ed563a29ca00b1ee6153338db5893739859 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+[[:Category:Health]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

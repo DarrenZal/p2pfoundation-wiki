@@ -1,1 +1,26 @@
 #REDIRECT [[Open Source Weather Monitoring]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.223527Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-6b132a37fd627c9f19df9a7eca12694aff206ba154e899060d013d15ee053f7b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+=More Information=
+
+Mel Chua:
+
+Some open-source weather monitoring hardware projects are already out there:
+
+#http://wxmonitor.sourceforge.net/
+#[[OSCirrus]] [http://oscirrus.see-do.org/]
+
+Not really an open-source project, but cool nevertheless (plus many potential resources):
+
+http://www.weathertoys.net/weathertoys/main.html
+
+See also: [[Product Hacking]]
+
+
+[[Category:Open]]
+
+[[Category:Science]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

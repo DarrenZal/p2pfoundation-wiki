@@ -1,1 +1,14 @@
 #REDIRECT [[Jean-Claude Guedon on Libre Access in the South]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.081765Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-a1e7ccd6d0af6ecd92ac09c54f4a8d2c131fd396385db9a5f2efa9adee3fcf4b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= [in French] Jean-Claude Guedon discusses how the South can leverage free access.'''
+
+URL = Podcast interview via https://soundcloud.com/hackyourphd/hyphdus-jeanclaude-guedon-open-access-pays-sud
+
+[[Category:Podcasts]]
+
+[[Category:Science]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

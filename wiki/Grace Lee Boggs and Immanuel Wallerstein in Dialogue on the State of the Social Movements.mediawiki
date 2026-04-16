@@ -1,1 +1,20 @@
 #REDIRECT [[Grace Lee Boggs and Immanuel Wallerstein in Dialogue on the State of the Social Movements and its Organizing Practices]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.026236Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-51c6348f49b1f5df56cc0d0986717a8c0c061092f3c07f733f3aca65a5b99bb5 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Dialogue recorded at the [[U.S. Social Forum]] in 2010: "A great philosophical review of organizing practice"
+
+Podcast via http://www.archive.org/details/GraceLeeBoggsImmanuelWallersteinDialogue
+
+
+[[Category:Politics]]
+
+[[Category:Governance]]
+
+[[Category:Movements]]
+
+[[Category:Podcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,28 @@
 #REDIRECT [[Hackaton contra violencia domestica]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.032023Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-7523de9e9cac4e7763969f6f6c16cb01d9b55c20763ac348e5d35d0725cc7680 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= Sprint de creación de herramientas tecnológicas para detener la violencia doméstica'''
+
+URL = http://www.vdhackathon.org/
+
+==Description==
+Enfrentemos el problema de la violencia doméstica
+creando soluciones tecnológicas para ayudar a agencias
+de apoyo a víctimas y avanzar en los esfuerzos de llevar
+a los responsables ante la justícia.
+
+==More Information==
+* Date of information: 2013
+* Contact person: Rafael Ibarra
+* Contact's person e-mail: ribarra@uca.edu.sv
+* Number of participants: 40
+* City: San Salvador
+* Location: 13.706881, -89.20181000000002
+* Topics: Software, Technology, P2P Technology
+
+[[Category:El Salvador]]
+[[Category:Spanish]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

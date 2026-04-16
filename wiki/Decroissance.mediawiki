@@ -1,1 +1,11 @@
 #REDIRECT [[Décroissance]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.904408Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-99c11fb68a66e8d0a84787b676728b1dbacb77ca97dfa4458b4cf903f3bc3968 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Théorie économique affirmant l'impossibilité de faire reposer la civilisation sur l'idée d'une croissance illimitée. Selon l'économiste Serge Latouche (http://www.p2pfoundation.net//Latouche%2C_Serge), il existe deux écoles de décroissance, l'une reposant plutôt sur l'écologie et basée sur les travaux de Nicolas Georgescu-Roegen, l'autre (représentée justement par Latouche) se situant plutôt dans la lignée d'Ivan Illich.
+
+[[Category:French]]
+[[Category:Définitions]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

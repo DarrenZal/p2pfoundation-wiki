@@ -1,1 +1,65 @@
-#REDIRECT[[User:Jorgeandr3s]]
+#REDIRECT [[User:Jorgeandr3s]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.756140Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-487ed701325f582808c78714e48f81509563af9629acd77c71bb46adeabe910f -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+==Summary==
+
+On august 2010, I founded the Ecuadorian chapter of The Zeitgeist Movement, and I would like to use this as the milestone that defines what I do. At that time I was training myself to be a physician (2013 promotion, best graduate student). Both experiences forged my interest in science, social welfare, public health, technology and politics, as defined by Aristotle.
+
+My faculty was the birthplace of the Ecuadorian Center for Evidence-Based Medicine, it gave me the opportunity to be part of research experiences (Hospital Pablo Arturo Suárez) and to visit a world-class hospital (UNM Hospital). At the same time it trained my English to translate small articles, videos, scientific articles (Grupo Farma) and even a book (Robots will steal your job, but that’s OK).
+
+The Zeitgeist Movement, on the other hand allowed me to meet different people all over the world, learn about different cultures and political structures, I learned to make myself responsible for my words, to lead and to delegate. I’ve spoken, along with many other volunteers, in national TV (ECTV, Señal Cero Grados) and radio, in universities, cultural centers, even in our national assembly (Aug, 2013).
+
+On September 2014, I joined the “Free/Libre Open Knowledge Society” project as general coordinator, a global participatory process sponsored by three government institutions to changing the productive matrix of Ecuador towards an open commons of knowledge economy.
+
+Currently I work at SENESCYT (National Secretariat for Higher Education, Science, Technology and Innovation) in the new Organic Code for the Social Knowledge and Innovation Economy of Ecuador.
+
+==Education==
+
+Universidad Tecnológica Equinoccial – Ecuador
+Medical Doctor & Surgeon
+2006 – 2013
+
+Casa de la Cultura Ecuatoriana
+Literary workshop
+2004 – 2005
+
+Centro Cultural Italiano
+Certificate of Occupational Training: Advanced Italian
+2003 – 2004
+
+Colegio San Gabriel
+Bachelor’s degree, Philosophical and Social Sciences
+1998 – 2004
+
+==Publications==
+
+===Academic Journals===
+
+Jaime Silva (coord.), Alexandra Montalvo, Ruth Martínez, Rosa Palma y Andrés Delgado, Resistencia bacteriana en infecciones hospitalarias y adquiridas y su relación con hábitos de prescripción de antibióticos, TsaFiqui, Revista de Investigación Científica, December 2012.
+
+===Books===
+
+Federico Pistono, Los robots robarán tu empleo pero está bien, cómo sobrevivir al colapso económico y ser feliz (Spanish Edition), June 5th, 2013. (TRANSLATOR)
+
+===Other===
+
+====La República (Online newspaper)====
+*Ecuador como paraíso para la privacidad (December 5th, 2013)
+*Nueva ley penal crearía oportunidad para delitos cibernéticos (November 10th, 2013)
+*¿Espionaje a los quiteños desde la embajada de Estados Unidos? (April 26th, 2014)
+====Movimiento Zeitgeist Ecuador====
+*Tenemos que hablar… (March 26th, 2014)
+====Revista UTOPÍA (magazine)====
+*Seamos realistas, hagamos lo imposible (June, 2012)
+ 
+
+==Languages==
+
+*Spanish - Native or bilingual proficiency
+*English - Professional working proficiency
+*Italian - Limited working proficiency
+*French	- Elementary proficiency
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

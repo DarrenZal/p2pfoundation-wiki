@@ -1,1 +1,37 @@
 #REDIRECT [[MediaWiki:Welcomecreation]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.485644Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-0338c109becdf7f369047fef6c01e73c4612d6fca28a87c38703c507c69876b3 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+== Welcome to the [[P2P Foundation: About | P2P Foundation Wiki]], $1! ==
+Your new account has been created.  
+
+====Please confirm your email address====
+
+Before you can edit pages on the wiki you will need to confirm your email address.  
+
+Check your email for a message from '''webmaster@p2pfoundation.net'''
+
+If you need to correct your email address or have the confirmation link resent you can do so from your [[Special:Preferences|{{SITENAME}} preferences]] under "'Email."'
+
+====Review your preferences====
+
+You can use your [[Special:Preferences|{{SITENAME}} preferences]] to configure your notification settings from the site.
+
+It is highly recommended that you review your preferences in order to adjust the default settings for email notification.
+
+By default you will be notified of changes to pages you edit, create, move, or delete.
+
+Usually this is a good thing because it is assumed you wish to keep an eye on this pages.  If it is not, though, you can always visit your preferences to adjust the settings.
+
+====Contact us====
+
+If you run into any problems, please feel free to [[P2P Foundation:Administrators | contact us]].  Also, there's an extensive collection of [[:Category:P2P Foundation Wiki How-To | how-to]] documents that might come in handy if you are new to wiki's or have other questions about how the site works.
+
+You can come back to this page any time by typing "[[Welcome]]" into the search, or type it in after the .net/ in the address bar.
+
+Welcome!
+
+The P2P Foundation Maintainers
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,27 @@
 #REDIRECT [[Juan Freire]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.977996Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-dd7adee984e034ea23ce511da1c74384d3953abeacc82b94a63aee61d2649e24 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Bio=
+
+PhD in Biology. Director of Innovation at Barrabés Next (consulting firm specialized in organizational transformation and  innovation) and founding partner of Teamlabs (cooperative focused on team and project-based learning). Previous Professor and Head of the Faculty of Sciences at the University of A Corunna  where he acted as Dean of the School of Sciences. Leader of the research group in Marine Resources and Fisheries involved in several R+D projects. Almost one hundred scientific papers in international journals and participates in conferences and working groups related to his research interests. Collaborating with businesses, public organizations and NGOs in topics related to sustainability and environmental management. Co-founder two spin-offs (Lonxanet and Fismare) born from his research work. Now, he is CEO of Fismare, an environmental consulting firm, and fellow of e-Cultura, a firm devoted to cultural management and territorial development. He has collaborated with the business angels network Alamut Business Network and with the international initiative OpenBusiness. Develops projects and consulting about innovation and strategy in networks and organizations, especially exploring the role of technology and open source models in social networks, universities, business and cities. Collaborates with the digital media ADN.es and Soitu.es..      
+
+
+=More Information=                                                                                                                                                  
+* contact via juan.freire@gmail.com,  
+
+#http://nomada.blogs.com  
+#http://juanfreire.net 
+#http://manifiestocrowd.com
+
+
+[[Category:Spain]]
+
+[[Category:Bios]]
+
+[[Category:ECC2013 Participants]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,17 @@
 #REDIRECT [[Muhammad Yunus on the Concept of the Social Business]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.184410Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-d0ae1bd43352253b40e619f3aa22067779266d38386f621c61969b45826b9b74 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+Muhammad explains the [[Social Business]] venture with Danone in Bangladesh.
+
+URL = http://www.youtube.com/watch?v=M_xlYHm_BEs
+
+
+[[Category:Business]]
+
+[[Category:Webcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

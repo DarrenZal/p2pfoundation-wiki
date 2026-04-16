@@ -1,1 +1,16 @@
 #REDIRECT [[Dumpster Diving]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.920903Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-61ad498990adff9b64a8c610e2243dd883efa7e5fd0702c52797eb6c3d47cfda -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''Dumpster diving''' is [[Peer_to_Peer_Exchanges#Typology_of_Markets|scavenging]] the [[abundance]] of human wastefulness, "one person’s trash is another one’s treasure".
+
+[[Trashwiki]] is a wiki dedicated to dumpster diving.
+
+[http://skippingwaste.trashwiki.org/ Skipping Waste] is a documentary about dumpster diving created in 2009 by Lily Barlow. It was shot in [[France]]   and the [[Netherlands]].
+
+[[Category:Resources]]
+
+[[Category:Sharing]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

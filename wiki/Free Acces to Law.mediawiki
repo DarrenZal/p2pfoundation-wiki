@@ -1,1 +1,57 @@
 #REDIRECT [[Free Access to Law]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.972293Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-b4900b9ab9502915ea6ece0e8ebd31579c333f59a119036b5dd8f964777ad368 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+=Bibliography=
+
+#Enrico Francesconi and Ginevra Peruginelli, '''The [http://blog.law.cornell.edu/voxpop/2009/04/09/the-florentine-debate-on-free-access-to-law/ Florentine Debate on Free Access to Law]''', VoxPopuLII, April 9, 2009.
+#'''A [http://www.ittig.cnr.it/LawViaTheInternet/ report on Law via the Internet]: Free Access, Quality of Information, Effectiveness of Rights''' (Florence, October 30-31, 2008). 
+
+
+=Directory=
+
+List compiled by Denise Nicholson:
+
+Free access to law:
+
+http://www.saflii.org/
+
+http://www.austlii.edu.au/
+
+http://www.asianlii.org/
+
+http://www.canlii.org/
+
+http://www.nzlii.org/
+
+http://www.juriburkina.org/
+
+http://www.law.cornell.edu/
+
+http://www.paclii.org/
+
+http://www.worldlii.org/
+
+http://www.ittig.cnr.it/
+
+http://www.hklii.org/
+
+http://droit.francophonie.org/
+
+http://www.cylaw.org/
+
+http://www.bailii.org/
+
+http://www.commonlii.org/
+
+
+[[Category:Resources]]
+
+[[Category:IP]]
+
+[[Category:Sharing]]
+
+[[Category:P2P Law]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,19 @@
 #REDIRECT [[Craig Bremner and Erik Olin-Wright on the Utopian Imagination]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.887733Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-ba41a93681ed4fd4770d4801d61acf85f092919bd61ef3ed3d2b1b9595172a48 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Podcast via http://www.abc.net.au/radionational/programs/futuretense/utopia27s-second-coming/4267534
+
+=Description=
+
+"Utopianism isn’t dead. It isn’t even resting! We may not use the term very much these days, but we’re living slap bang in an age of utopian yearning, according to Professor Craig Bremner. He maintains utopian thought underpins modern advertising and even future city planning. Then there’s politics. The University of Wisconsin’s Erik Olin Wright runs the Real Utopias Project. We’ll meet him and find out how utopian imagining is being refashioned as a tool for creating better political systems."
+(http://www.abc.net.au/radionational/programs/futuretense/utopia27s-second-coming/4267534)
+
+
+[[Category:Podcasts]]
+
+[[Category:Politics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

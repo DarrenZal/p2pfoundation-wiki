@@ -1,1 +1,24 @@
 #REDIRECT [[Dmytri Kleiner on the Telekommunist Manifesto]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.912150Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-b44e99990b9931bc22631b88f5de82a10be8c4668e1df9e72ae479925ed71f0d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+URLs:
+* Reboot Spark FM Podcast via http://reboot.fm/2010/11/12/sparkfm-6-away-freie-netze-radio-show/
+* Video via http://vimeo.com/60889533
+
+==More Information==
+* [[Dmytri Kleiner]]
+* [[Telekommunist Manifesto]]
+
+[[Category:Politics]]
+
+[[Category:Webcasts]]
+
+
+[[Category:Podcasts]]
+
+[[Category:Movements]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

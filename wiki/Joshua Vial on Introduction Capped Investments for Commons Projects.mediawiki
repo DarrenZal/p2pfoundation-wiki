@@ -1,1 +1,16 @@
 #REDIRECT [[Joshua Vial on the Introduction of Capped Investments for Commons Projects]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.087796Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-fa36291514168751e40c9e969f83a77d3b18ec97597bf7d731ba77710e7759a6 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video via https://www.youtube.com/watch?v=W2_I5xuagxE
+
+In this important talk, Joshua Vial of the Enspiral 'ethical entrepreneurial coalition' introduces the idea of 'capped investments'. This would guarantee a maximum amount of return for investors, after which the funded infrastructure would be donated to the commons, and the investors thanked for their donation to the commons.
+
+
+[[Category:Peerfunding]]
+
+[[Category:Webcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,16 @@
 #REDIRECT [[Interview with Joseph Tainter on the Collapse of Complex Societies]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.071169Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-ef90cb48a69713f53aa1d9c86ca71024dcedb2bfea536ff88162dbe0bf9a52e6 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Interview by Ken Rose for the [[What Now Podcasts]]
+
+Podcast via http://www.pantedmonkey.org/podcastgen/download.php?filename=2010-07-01_what_now_podcast_0628101110_joseph_tainter.mp3
+
+[[Category:Podcasts]]
+[[Category:Ecology]]
+[[Category:Economics]]
+[[Category:Books]]
+[[Category:Collapse]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,23 @@
 #REDIRECT [[François Grey]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.028721Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-3974e7ed64db408d1f9e1b7104438d18e24e4f7856ef1507f24b31841e77bece -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Bio=
+
+
+"I'm based in Beijing since July, where I am spending a year as a visiting professor in the Physics Department of Tsinghua University. Current projects include organizing an "Asia@home" workshop on citizen cyberscience as well as establishing a citizen cyberscience centre."
+(http://www.liftconference.com/person/fran-ois-grey)
+
+
+=More Information=
+
+Video talk at Lift08: [http://www.liftconference.com/distributed-computing-distributed-thinking  From distributed computing to distributed thinking]
+
+[[Category:Science]]
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,18 @@
 #REDIRECT [[Célya Gruson-Daniel on the Hack Your PhD Project]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.806024Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-47ea93b729dba8208c1cdf3675f06e80d7b66b7b49524a3f46b110a0cda9d5a0 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Presentation at La Mutinerie in Paris, France
+
+URL = Podcast interview via https://soundcloud.com/search?q=hack%20your%20phd
+
+
+[[Category:Podcasts]]
+
+[[Category:Science]]
+
+[[Category:Movements]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,15 @@
 #REDIRECT [[Independent Workers Firm]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.062443Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-8c2560e7728f1ebe4c1e24a8154e4dcd09147dd566ba89345eb36f4e7714ca2b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+[[Open Entreprise]] concept developed by Matthew Cooperider at http://www.bandillero.com/scholar/index.php?title=Independent_workers_firm
+
+It combines the freedom of independent workers with the benefits of belonging to an organization.
+
+
+[[Category:Business]]
+
+[[Category:Governance]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

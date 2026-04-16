@@ -1,1 +1,24 @@
 #REDIRECT [[Get From There]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.018710Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-4b405b70fd2efc1f3b3a3b7a48bbebedb44c85b06af33b3a69de3c20de78d5c5 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+= "a social network for travelers}
+
+URL = http://www.getfromthere.com
+
+=Description=
+
+[http://www.getfromthere.com GetFromThere] is a social network for travelers and global consumers. GetFromThere allows travelers to share their trip plans and enables people to request items from travelers coming to their cities. 
+Their web-based platform also allows people to create wishlists of products from abroad and interact with travelers who are willing to bring those products. People can add new product, upload its photos, report prices in a given cities and also suggest the best places to buy it.
+
+[[Category:Companies]]
+
+[[Category:Canada]]
+
+[[Category:Sharing]]
+
+[[Category:Transportation]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

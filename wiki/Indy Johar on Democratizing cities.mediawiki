@@ -1,1 +1,17 @@
 #REDIRECT [[Indy Johar on Democratizing Cities]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.063317Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-7fc7651abd5b103829c6852736b8bd039ceafb65d1f15cd94a41ee68ae1cc28e -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video via https://www.youtube.com/watch?v=Ct7lABwvyp4&feature=youtu.be
+
+Full-stack democracy is the power to create society, not just the vote
+
+[[Category:Democracy]]
+
+[[Category:Urbanism]]
+
+[[Category:Webcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

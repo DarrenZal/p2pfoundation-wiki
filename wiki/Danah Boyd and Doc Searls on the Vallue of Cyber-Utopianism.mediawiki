@@ -1,1 +1,26 @@
 #REDIRECT [[Danah Boyd and Doc Searls on the Value of Cyber-Utopianism]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.897348Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-1ea30e6ca785ba716f0aa14d1343b7723bbfa4318a79498ddbbdc8b9f11aec81 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Podcast via http://www.abc.net.au/radionational/programs/futuretense/i27m-a-cyber-utopian-and-i27m-proud-of-it21/4267632
+
+
+=Description=
+
+"Call someone a 'cyber utopian' and it’s likely to be taken as an insult, according to leading media theorist Ethan Zuckerman. But we’ll meet some self-confessed utopians (of the digital variety) who are out of the closet and proud! While they concede cyber utopianism can get a little disconnected from reality, that’s what they like about it. It’s a testing ground for future opportunities they say -- a way of encouraging us to think big and make the most of the Internet and new technologies."
+
+Guests: Danah Boyd, Doc Searls, Ethan Zuckerman, David Weinberger
+
+
+
+[[Category:Podcasts]]
+
+[[Category:Media]]
+
+[[Category:Politics]]
+
+[[Category:Movements]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

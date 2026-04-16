@@ -1,1 +1,18 @@
 #REDIRECT [[Philanthropic Web]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.262941Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-4a5009e4071ab1928c43cb587c5bef7bc50ae6b22e4564f78fc3b32a26d7cbe2 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Description=
+
+""The philanthropic web" is a phrase coined by Social Actions' Peter Deitz to describe an online environment in which open source technologies transform every website into a place to engage in philanthropic activity. In other words, no matter where you are online, you're presented with immediate and relevant opportunities to take action on issues that are important to you."
+(http://blog.socialactions.com/group/wizard/forum/topic/show?id=2062983%3ATopic%3A8412)
+
+
+[[Category:Encyclopedia]]
+
+[[Category:Relational]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

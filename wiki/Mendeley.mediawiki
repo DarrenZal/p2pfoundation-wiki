@@ -1,1 +1,14 @@
 #REDIRECT [[William Gunn on Mendeley]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.167390Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-cef571b666d88a03d9b4b56b48df43fde83e990bc9634488f02e3edf4abd19c7 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= William Gunn discusses Mendeley and sharing ideas for open access research'''
+
+URL Podcast interview via https://soundcloud.com/hackyourphd/hyphdus-william-gunn-mendeley
+
+[[Category:Podcasts]]
+
+[[Category:Science]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

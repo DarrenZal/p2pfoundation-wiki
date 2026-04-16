@@ -1,1 +1,39 @@
 #REDIRECT [[Production of Subjectivity from Transindividuality to the Commons]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.298863Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-93f7511f4ffa082dfb05adbc6c1b4c87f4889dc91d85286751d0d45390e6ee7b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''* Essay: The Production of Subjectivity: From Transindividuality to the Commons. Jason Read'''
+
+URL = http://www.lwbooks.co.uk/journals/newformations/articles/nf70read.pdf
+
+
+=Abstract= 
+
+"Collectivity is increasingly difficult to conceptualize. This is perhaps due to
+a long philosophical cold war. Which has left us with concepts of social relations that
+start with an irreducible individual, figuring society as nothing other than the sum total
+of individual actions, as in social contract theory and various forms of methodological
+individualism, on the one hand, and spectres of organic or functionalist totality, on the
+other hand. Against both terms of this division this paper examines Gilbert Simondon’s
+work on individuation to explore the transindividual production of subjectivity. The
+conditions of our subjectivity, language, knowledge, and habits, are neither individual
+nor part of any collective, but are the conditions of individual identity and collective
+belonging, remaining irreducible to each. These conditions have become increasingly
+important to the contemporary production process, becoming the source of new forms of
+wealth. They are the new commons that are increasingly becoming enclosed, privatized.
+Finally, following the work of Paolo Virno and Bernard Stiegler, I argue that these
+commons, the transindividual production of subjectivity, can become the basis of a new
+politics, a politics irreducible to individuality or totality."
+
+
+[[Category:Articles]]
+
+[[Category:Commons]]
+
+[[Category:Relational]]
+
+[[Category:P2P Technology Theory]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

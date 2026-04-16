@@ -1,1 +1,10 @@
 #REDIRECT [[History of Social Venture Blog]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.043964Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-075d90489c431cf22d856f346f05a49047633160ecb4d07ca112c7c83d85a1b9 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+[http://p2pfoundation.net/Social_Venture#Social_Ven This page] was initiated by [[Ryan Lanham]] to support discussions occurring on the p2p Research mailing list, and on [http://www.facebook.com/home.php#/group.php?gid=72636396341&ref=mf Facebook] to support the development of micro social venture projects, financed by community contributions.
+
+My interests to this topic also extend to collaborative governance and [http://p2pfoundation.net/Core_Peer-2-Peer_Collaboration_Principles P2P Collaboration Principles].
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,10 @@
 #REDIRECT [[User-Owned AI]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.466199Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-04deb831e01dd1591dcafeb85af708b025d354380b5da7bfd1b00de4df2ec239 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+"The research end goal for NEAR.AI is User-Owned AGI: general intelligence capabilities where AI for any task is better than an expert human. This will transform the way we interact with computing and enhance overall productivity in the world, enabling people to focus on creativity, innovation, and novel economic opportunities. Critically, this must serve, and must be owned by, individuals and communities rather than large companies or governments. Therefore, in order to benefit everyone, all AI and eventually AGI must be Open Source and User-Owned." --Illia Polosukhin, June 2024 (https://near.ai/)
+
+[[Category:User Owned]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

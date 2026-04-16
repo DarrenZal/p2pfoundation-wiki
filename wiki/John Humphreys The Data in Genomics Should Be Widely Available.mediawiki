@@ -1,1 +1,17 @@
 #REDIRECT [[John Humphreys on the Availability of Genomics Data]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.084906Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-1c758f6792abc43ffe1fa3916f029c2cbe0bdbe1403f0313397e0ab3ec647d31 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= John Humphreys on the Data in Genomics Should Be Widely Available'''
+
+URL = Podcast interview via https://soundcloud.com/hackyourphd/hyphdus-john-humphreys-open-genomes
+
+
+[[Category:Open Data]]
+
+[[Category:Science]]
+
+[[Category:Podcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

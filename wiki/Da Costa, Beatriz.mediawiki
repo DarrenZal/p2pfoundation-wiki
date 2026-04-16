@@ -1,1 +1,21 @@
 #REDIRECT [[Beatriz Da Costa]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.896030Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-70f4f2916df1ffe8b6948826e18e7236e6ef65c0fe698153d73d2c72ebf39c23 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+'''= practitioner of participatory art'''
+
+
+=Bio=
+
+"Beatriz da Costa is an interdisciplinary artist and researcher. She is dedicated to a participatory practice and interactions with non-academic publics represent a key component of her work. She is a former collaborator of Critical Art Ensemble and a co-founder of Preemptive Media, an arts, activism and technology group. Her work has been exhibited nationally and internationally, including the Andy Warhol Museum, the Zentrum fuer Kunst und Medien in Germany, and the Natural History Museum in London. Recent media coverage includes the New York Times, Reuters and the New Scientist. Beatriz is an Assistant Professor of Arts, Computation, Engineering at the University of California, Irvine."
+(http://www.anat.org.au/stillopen/blog/the-facilitators/)
+
+More info at http://www.beatrizdacosta.net
+
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

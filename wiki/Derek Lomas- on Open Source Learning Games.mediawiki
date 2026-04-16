@@ -1,1 +1,21 @@
 #REDIRECT [[Derek Lomas on Open Source Learning Games]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.904831Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-dd4667a8609184543c51b3449956615ed004d7ff75c9d70d9331d2e0ec669654 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video via http://poptech.org/popcasts/derek_lomas_open_source_games
+
+
+=Description=
+
+"2009 PopTech Fellow Derek Lomas is director of the Playpower Foundation, a global network of developers, designers, academics, NGOs and businesses. Playpower leverages the availability of ultra-low-cost computers to create and distribute affordable, effective, and fun learning games for under-privileged children worldwide."
+(http://poptech.org/popcasts/derek_lomas_open_source_games)
+
+[[Category:Webcasts]]
+
+[[Category:Education]]
+
+[[Category:Gaming]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

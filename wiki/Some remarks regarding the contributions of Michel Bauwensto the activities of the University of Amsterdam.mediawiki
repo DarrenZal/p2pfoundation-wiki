@@ -1,1 +1,5 @@
 #REDIRECT [[Some Remarks Regarding the Contributions of Michel Bauwens to the Activities of the University of Amsterdam]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.373174Z -->
+<!-- resolution-status: cycle_detected -->
+<!-- resolution-notes: cycle: Some Remarks Regarding the Contributions of Michel Bauwens to the Activities of the University of Amsterdam → Some Remarks Regarding the Contributions of Michel Bauwens to the Activities of the University of Amsterdam -->

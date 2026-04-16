@@ -1,1 +1,28 @@
 #REDIRECT [[Wiki-historiak]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.490799Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-6e7cc5a7420c9f933fab575f460380fcf929fa120d4a1970b08cc0b385a5543e -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= Artista eta agente kulturalek kontatutako euskal inguruko artearen historiak'''
+
+URL = http://www.wiki-historias.org
+
+==Description==
+WIKI-HISTORIAK euskal testuinguruko artearen historia edo historiei buruzko kontakizun bateratua eraiki nahi duen proiektua da, testuinguru horretan bertan parte hartzen dugun artista eta bitartekarion hitzetan kontatutakoa.
+
+==More Information==
+* [[Wiki-Histories]] (English)
+* Date of information: 2013 
+* Contact's person e-mail: wikihistorias@gmail.com
+* Start date: 2008/09/11
+* Related projects: plataforma A
+* City: Bilbo
+* Location: 43.257868970225964, -2.925635576248169
+* Topics: Art
+* Tags: feminismoa, historia, artea, euskal testuingurua
+
+
+[[Category:Basque]]
+[[Category:Spain]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

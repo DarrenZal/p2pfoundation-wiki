@@ -1,1 +1,31 @@
 #REDIRECT [[Understanding the Emergence and Global Scale of Capitalism]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.462380Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-ff4906d22c6702e50bfdd447bd85de6def8b02d60711f6375db1436ec96d79c8 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''* Article: Beaujard, Philippe, Berger, Laurent, and Norel, Philippe, “Prologue,” in: id. (eds.), Histoire globale, mondalisations et capitalisme, Paris: La Découverte, pp. 7–61.'''
+
+URL = 
+
+=Description=
+
+Friedrich Lenger:
+
+"Philippe Beaujard, Laurent Berger and Philippe Norel e.g. distinguish three groups of authors offering theoretical guidance for understanding the emergence and global scale of capitalism. Besides 
+
+1) neo-institutionalists 
+
+2) they list Marx and world-system theorists together 
+
+3) while preferring a third group “le plus original quoique le plus éclectique, (qui) prend appui sur les idées de Smith” (Beaujard, Berger, and Norel, 2009: 13; cf. also Norel, 2009)." 
+
+(https://journals.openedition.org/socio/10939?lang=en)
+
+[[Category:Civilizational Analysis]]
+[[Category:P2P History]]
+[[Category:Articles]]
+[[Category:Economics]]
+[[Category:P2P Class Theory]]
+[[Category:Global Governance]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

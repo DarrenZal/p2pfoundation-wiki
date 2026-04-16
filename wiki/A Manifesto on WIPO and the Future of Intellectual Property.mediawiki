@@ -1,1 +1,14 @@
 #REDIRECT [[Manifesto on WIPO and the Future of Intellectual Property]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.745277Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-08fc57afeea20dd6c2d82aeb8a6209f393ce936c97856f90d8e6311e15b812a0 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Good overview by James Boyle of what is at stake internationally around the debates on Intellectual Property.
+
+URL = http://www.law.duke.edu/journals/dltr/articles/2004dltr0009.html
+
+[[Category:IP]]
+
+[[Category:Articles]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

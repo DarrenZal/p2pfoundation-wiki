@@ -1,1 +1,23 @@
 #REDIRECT [[Proxecto Integral da Coruña]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.311340Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-a24c6dca120b6f11455d769d43eed2766231753c77209d86aaac84d926a1490e -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+URL = https://n-1.cc/g/coiga---a-corunha
+
+|Short description=El "Proxecto Integral da Coruña e comarca" es una iniciativa autogestionada de transición social que trabaja para articular una red cooperativa con la que construir colectivamente alternativas reales y eficaces al sistema socio-económico capitalista actual
+
+==Referencias y enlaces externos==
+* Date of information: 2013
+* Contact's person e-mail: integralcorunha@googlegroups.com
+* Number of participants: 60
+* Related projects: Mancomunidade Integral Galega (MIGA)
+* City: A Coruña
+* Location: 43.35358094715207, -8.409090042114258
+* Topics: Agrifood, Art, Ecology, Economics, Education
+
+
+[[Category:Spain]]
+[[Category:Spanish]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,18 @@
 #REDIRECT [[Certificate for Open Regenerative Hardware]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.806918Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-8b7d77e189cf486dac0b316f6ea1d0aee061e0db7313a675fb4fad1f1fb2bde2 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+See the German project, Zertifikat für Open Regenerative Hardware 
+
+URL = https://sites.google.com/site/opeearchitektur/
+
+[[Category:Manufacturing]]
+
+[[Category:Germany]]
+
+[[Category:Standards]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,5 @@
 #REDIRECT [[Don Tapscott on Four Principles for the Open World]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.916573Z -->
+<!-- resolution-status: cycle_detected -->
+<!-- resolution-notes: cycle: Don Tapscott on Four Principles for the Open World → Don Tapscott on Four Principles for the Open World -->

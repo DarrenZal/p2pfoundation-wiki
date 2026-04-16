@@ -1,1 +1,18 @@
 #REDIRECT [[Danny Hills on Freebase]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.898885Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-2471356d7dea321fffda0bc3f910e33889c12051bb435768643fa393001f2893 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+Freebase is a hugely important project, the Wikipedia for data.
+
+Open Business interviews one of the founders.
+
+
+URL = http://www.openbusiness.cc/2007/05/23/wikipedia-for-data-freebase/
+
+
+[[Category:Interviews]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,15 @@
 #REDIRECT [[Harry Halpin]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.032977Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-3444f30e90495b8c098b81747f658ac50d4a04643d15537a791e79d96f19b033 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Harry Halpin <hhalpinATibiblio.org> is a researcher at the School of Informatics at the University of Edinburgh specialising in web technologies, and is a Chair of the W3C and a participant in the IETF. He enjoys reading critical theory and new media studies before collapsing to sleep.  And he used to live in a tree. http://www.ibiblio.org/hhalpin 
+
+See his take on [[Digital Sovereignty]]
+
+
+[[Category:Bios]]
+
+[[Category:Governance]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

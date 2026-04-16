@@ -1,1 +1,19 @@
 #REDIRECT [[Immanuel Wallerstein on Going Beyond the State as Unit of Analysis]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.060074Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-af4b04661934a24f525408e91c4a9caec313e48f6f2352306f51c8e2402679de -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video via http://www.youtube.com/watch?v=h43c2uC-y4A&feature=player_embedded#!
+
+
+=Description=
+
+'Wallerstein's unit of analysis is of course the modern world-system - as one of many historical world-systems. And as a historical system which has of course temporary boundaries the main questions to ask about it are: how did it begin, how did/does it function, and how does it end; the answers to these questions imply of course a high degree of historicity, as there are no general answers for all world-systems."
+
+
+[[Category:Webcasts]]
+
+[[Category:P2P State Approaches]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

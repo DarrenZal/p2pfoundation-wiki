@@ -1,1 +1,18 @@
 #REDIRECT [[The Memo on Organizational Learning and Collaboration]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.406663Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-b2312be6e5da83c7c64fc09401efc113440c327f1ee25883365d0c0ec71c9030 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Regular podcasts on organizational learning and collaboration, at the The Memo blog.
+
+
+URL = http://thememo.typepad.com/blog/podcasts/index.html
+
+
+[[Category:Podcasts]]
+
+[[Category:Education]]
+
+[[Category:Cooperation]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

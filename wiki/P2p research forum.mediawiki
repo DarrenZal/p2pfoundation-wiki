@@ -1,1 +1,17 @@
 #REDIRECT [[P2P Research Forum]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.247492Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-4ee3f74e04a69816c4105576e0b9b2afa60d28a8e77a2d16cccc90cee0309d90 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+= a back-up of our mailing list archive
+
+
+
+<html>
+<a id="nabblelink" href="http://p2presearch.979870.n3.nabble.com/">p2presearch</a>
+<script src="http://p2presearch.979870.n3.nabble.com/embed/f2040379"></script>
+</html>
+
+See an example at http://opensourceecology.org/wiki/P2p_research_forum
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

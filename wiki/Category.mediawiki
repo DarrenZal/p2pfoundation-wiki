@@ -1,1 +1,4 @@
 #redirect [[Special:Categories]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.805525Z -->
+<!-- resolution-status: unresolvable -->

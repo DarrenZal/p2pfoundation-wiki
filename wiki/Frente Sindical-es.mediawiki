@@ -1,1 +1,24 @@
 #REDIRECT [[Frente Sindical]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.978280Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-bf106d2a0d9cbeac0a6a5b89dd6c5955d5a22984a32b49e3ab840b1c6bf050e6 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= Frente Sindical donde se aglutinan distintas iniciativas para promover los derechos laborales'''
+
+URL = http://frentesindicals.wordpress.com/
+
+==Description==
+Trabaja actualmente con trabajadores estatales y municipales y está preparándose para trabajar con trabajadoras domésticas y vendedoras ambulantes.
+
+==More Information==
+* Date of information: 2013
+* Contact person: Vilma Vásquez
+* Contact's person e-mail: elfrentesindical@yahoo.es
+* Number of participants: 200
+* City: San Salvador
+* Location: 13.706881, -89.20181000000002
+
+[[Category:El Salvador]]
+[[Category:Spanish]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

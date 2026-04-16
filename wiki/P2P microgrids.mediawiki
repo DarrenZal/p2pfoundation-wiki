@@ -1,1 +1,26 @@
 #REDIRECT [[P2P Microgrids]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.245987Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-7bb14e34fcbdfa1b83260a111472c8dd855ee8492ab0d30201b90409339cebca -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Description=
+
+Alex Pazaitis:
+
+"A P2P microgrid is a theoretical model of a Microgrid operating, being a P2P network, without a central control node and, therefore, the loss of any of its modules will not result in the collapse of the whole system. Each peer of the network is both an energy producer and consumer, with production taking place on individual level (e.g. house). Surplus power can either be stored, which is quite costly with the current technology level, or distributed amongst peers of the microgrid, avoiding energy wasting. The distribution of surplus power can be realized according to wher it might be needed, creating a common energy pool within the microgrid. 
+
+A microgrid can operate both autonomously and as part of a grid, hence a P2P microgrid can operate on another level as part of a second P2P network, one comprised of microgrids, namely a [[P2P Energy Grid]]."
+
+
+=More Information=
+
+* see: [[Microgrids]]
+
+
+[[Category:Energy]]
+
+[[Category:Encyclopedia]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

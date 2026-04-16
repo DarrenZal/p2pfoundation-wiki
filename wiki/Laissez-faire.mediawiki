@@ -1,1 +1,21 @@
 #REDIRECT [[Laissez-Faire]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.099349Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-31bdfb7051f3bf40abe20b8eb54b9fbca0570ab891505ea0528dbdc494cae702 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+=Definition=
+
+From the Wikipedia:
+
+"In economics, laissez-faire means allowing industry to be free from state intervention, especially restrictions in the form of tariffs and government monopolies.
+
+The phrase is French and literally means "let do", but it broadly implies "let it be", or "leave it alone."
+(http://en.wikipedia.org/wiki/Laissez-faire)
+
+
+=More Information=
+
+
+Related: [[Free Trade]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

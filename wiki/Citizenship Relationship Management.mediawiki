@@ -1,1 +1,18 @@
 #REDIRECT [[Citizen Relationship Management]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.817243Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-752ad98925ee6c05b3a80d016cbfba61e4ac17e27104aed527fcdfca48a54436 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''CiRM = "a strategy and set of management practices, enabled by technology with a broad citizen focus, to maintain and optimize relationships and encourage new forms of citizen participation."'''
+
+URL = http://www.citizen-relationship-management.de/
+
+Commentary and updates at http://www.iq.harvard.edu/blog/netgov/citizen_relationship_management/
+
+
+[[Category:Policy]]
+
+[[Category:Governance]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

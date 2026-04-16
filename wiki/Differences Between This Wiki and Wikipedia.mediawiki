@@ -1,1 +1,25 @@
 #REDIRECT [[Help:Differences Between This Wiki and Wikipedia]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.908905Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-a388458c850eaca12d7787409dcedebf402762d32ce6a1e5c4bc8bcf77bed396 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+This page outlines what is different, so that experienced Wikipedia editors can get used to the local conventions.
+
+===Article Title Case===
+
+* Wikipedia uses "Sentence case" for article titles: that is, only capitalising the initial word. The nice workarounds in Wikipedia mean that editors can make a wikilink using lower case and that will work.
+* This wiki uses Title Case, because that is Michel's preference. Capitalise all significant words (not, e.g. "and", "or", etc.) in the page title.
+* It probably looks neater, most of the time, if you also use Title Case for section headings, at least for 1st and 2nd level headings.
+
+===Templates and References===
+* We use very few of Wikipedia's templates<ref>https://en.wikipedia.org/wiki/Wikipedia:Templates</ref> in this wiki, to make it easier for everyone to maintain every page. Please '''don't''' introduce new ones, either from Wikipedia or yourself!
+* <nowiki><ref>...</ref></nowiki> however is very useful and may be used here. Look up the documentation<ref>https://www.mediawiki.org/wiki/Extension:Cite</ref> to check how to use this feature.
+
+In essence, put <nowiki><ref>...</ref></nowiki> around anything you want to appear as a reference, then put <nowiki><references /></nowiki> where you want the references listed. Look at the source for this page as an example.
+
+====References====
+<references />
+
+[[Category:P2P Foundation Wiki How-To]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

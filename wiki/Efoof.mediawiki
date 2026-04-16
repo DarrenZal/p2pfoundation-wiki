@@ -1,1 +1,20 @@
 #REDIRECT [[Eefoof]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.929682Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-48655ecbbe980115070494a9205bd5acb8076ccb096c7338ad4a234bf9d98d52 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''Efoof'''
+
+
+URL = http://www.eefoof.com/
+
+=Description=
+
+"eefoof.com is a user-submitted content site similar to YouTube/Google Video which allows users to submit Videos, Images, Flash and Audio while receiving a share of the site’s ad revenue. For example, if someone uploads a really popular video that accounts for a lot of traffic in a given month, the user will receive a good portion of the video ad revenue for the month. Could this be the YouTube killer?�?
+(http://www.openbusiness.cc/2006/07/03/more-open-film-business-models/)
+
+[[Category:Audiovisual]]
+
+[[Category:Resources]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

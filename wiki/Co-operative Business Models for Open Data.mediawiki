@@ -1,1 +1,21 @@
 #REDIRECT [[Cooperative Business Models for Open Data]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.822481Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-4ca802c881d5c9eaebe5a0cb155d2096e31de72bd549c471c4754fd01d7ba0c1 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+=Example=
+
+URL = http://opendatamanchester.org.uk/
+
+"Co-operative News has taken the first steps with Open Data Manchester to establish an open data community for co-operatives to share information for the benefit of the Movement. Discussions around open data will take place on the Co-operative News Global News Hub (www.thenews.coop/open), as well as a pilot project to establish how open data can be used.
+
+Co-operatives UK is ideally placed to lead the way, bringing co-operatives together, to define a co-operative open data code of practice."
+(http://coopopendata2.eventbrite.com/)
+
+[[Category:Business Models]]
+[[Category:UK]]
+[[Category:Open Data]]
+[[Category:Cooperatives]]
+[[Category:Data Commons]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

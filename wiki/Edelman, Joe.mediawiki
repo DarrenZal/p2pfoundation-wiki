@@ -1,1 +1,15 @@
 #REDIRECT [[Joe Edelman]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.928190Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-63aaf43ace91d37cee6f42594cea29e1c0df18025aaf79fcb60fdba0eff41834 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''Joe is an event and community artist.  He works with communication technology, public space, and fun.'''
+
+Joe's company [http://citizenlogistics.com Citizen Logistics] and website [http://groundcrew.us Groundcrew] are featured on the [[P2P Exchange Infrastructure Projects]] page.  He is also involved with the [[Ripple]] P2P currency system.
+
+His personal website is http://nxhx.org
+
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

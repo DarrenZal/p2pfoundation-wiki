@@ -1,1 +1,14 @@
 #REDIRECT [[Fablab]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.951316Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-83af31d1a86b874624e17ec971885b2968d9fcc28d92bdd371556b09d0783706 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+= A fablab, or fabrication laboratory, is a workshop of computer controlled machines with which one can make almost anything: furniture, electronics, even houses. 
+
+See treatment at [[Fab Labs]]
+
+
+[[Category:Manufacturing]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

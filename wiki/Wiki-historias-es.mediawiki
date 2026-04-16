@@ -1,1 +1,5 @@
 #REDIRECT [[Wiki-Historias]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.491508Z -->
+<!-- resolution-status: cycle_detected -->
+<!-- resolution-notes: cycle: Wiki-Historias → Wiki-Historias -->

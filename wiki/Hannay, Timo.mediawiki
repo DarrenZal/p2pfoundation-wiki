@@ -1,1 +1,28 @@
 #REDIRECT [[Timo Hannay]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.033462Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-4d7f33539fa08c0064beac17354a6a7c21724b50300049a525a9ce95e23eb807 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Bio=
+
+"A doctor of neurophysiology based in London, Timo Hannay manages Nature.com, Naturejobs.com, Natureevents.com, Nature Methods/ and Nature Protocols. He is coorganizer of Science Foo Camp, an annual interdisciplinary scientific “unconference” at Google headquarters. And he was a contributor to The Fourth Paradigm: Data Intensive Scientific Discovery, a collection of essays that envision the future of discovery based on data-intensive science. In the “interests” field on his Nature Network profile, Hannay lists just one: “Making the most of the Web in scientific communication.”
+(http://seedmagazine.com/content/article/science_2.0_pioneers/)
+
+
+=Interview excerpt=
+
+
+"NYAS: You have called the Web “the ultimate global collaborative medium” and science “the ultimate global collaborative pursuit.”
+Hannay: Yes, that’s one of the reasons why I decided to work on the Web in science. Tim Berners-Lee originally considered the Web a scientific communication means. But, ironically it hasn’t been scientists and the research community pushing the Web to its limits. It’s my job to try and make the Web more useful as a scientific communication medium.
+
+The volume of data is important and has profound implications, but an even more profound change will be if it’s all linked together. It’s going to be messy. We’re going to be using tags and microformats and ontologies and links and all sorts of strategies. But one way or another we’re integrating this data more and more. It’s not the volume of data, it’s the interconnectedness of it that’s critical in my mind."
+(http://seedmagazine.com/content/article/science_2.0_pioneers/)
+
+
+[[Category:Bios]]
+
+[[Category:Science]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

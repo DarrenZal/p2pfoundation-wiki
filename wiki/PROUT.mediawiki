@@ -1,1 +1,11 @@
 #REDIRECT [[Progressive Utilization Theory]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.249031Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-89370dece3008a5e37817c4224b5fa0150cb199158f1266007a8ffcf4d67c9bc -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+* see: [[Progressive Utilization Theory - Prout]]
+
+[[Category:Economics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,28 @@
 #REDIRECT [[Sandra Braman]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.788587Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-ab215545f2e066a5f2e2135fd37b5751d6dc4a100745e62dde435fcbcb582700 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Bio=
+
+Sandra Braman is Professor of Communication at the University of Wisconsin–Milwaukee. Recent work includes Change of State: Information, Policy, and Power (Cambridge, Mass.: MIT Press, 2006) and The Emergent Global Information Policy Regime (New York: Palgrave Macmillan, 2004).
+
+
+=Contact=
+
+Web: http://www.uwm.edu/~braman
+
+E–mail: braman [at] uwm [dot] edu
+
+
+[[Category:Bios]]
+
+[[Category:Governance]]
+
+[[Category:Policy]]
+
+[[Category:Research]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

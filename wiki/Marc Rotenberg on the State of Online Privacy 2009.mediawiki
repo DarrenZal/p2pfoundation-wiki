@@ -1,1 +1,17 @@
 #REDIRECT [[Marc Rotenberg on the State of Online Privacy]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.131009Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-ff15f1a0aa4651216e6dd4b35ca5643d5a1e5711a6f24039ec25c910ffcb8abd -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video interview on [[Privacy]] via http://vimeo.com/1667503
+
+
+=Description=
+
+"A 7-minute video interview with Marc Rotenberg, executive director of the Electronic Privacy Information Center, about the state of online privacy and the challenges citizens face today with regard to both the government and corporations. Conducted at the Aspen Institute in August 2008."
+
+
+[[Category:Webcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

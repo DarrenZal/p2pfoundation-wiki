@@ -1,1 +1,25 @@
 #REDIRECT [[Travis Henry on the Yourhub Citizen Media Initiative in Colorado]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.427685Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-e363a18d91943bb25fe8393c89fca3bc5748d791a49bbee2c3f120bde88fb77c -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+An AudioBerkman podcast:
+
+
+URL = [http://blogs.law.harvard.edu/audioberkman/2006/08/17/center-for-citizen-media-conversation-with-travis-henry-of-yourhubcom/]
+
+
+=Description=
+
+
+"This podcast from the Center for Citizen Media features a conversation with Travis Henry of Yourhub.com. Yourhub allows residents of the Front Range region of Colorado to sign up to post their own news items and photos.
+
+Travis also touches on efforts to syndicate the technology that powers Yourhub to other media organizations."
+[http://blogs.law.harvard.edu/audioberkman/2006/08/17/center-for-citizen-media-conversation-with-travis-henry-of-yourhubcom/]
+
+
+
+[[Category:Podcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

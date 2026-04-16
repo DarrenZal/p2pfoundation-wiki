@@ -1,1 +1,54 @@
-#Redirect [[User:J.M.Pearce]]
+#REDIRECT [[User:J.M.Pearce]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.087528Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-35021ed6773894746068e46835a95182abbdef59f85cb23dba405c0652fb4cca -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+<!--              **********     RIGHT BOX     **********     -->
+{|style="border:1px solid #D0D0FF; background-color: #D0D0FF; margin-left:.1em; margin-top:1px; -moz-border-radius:15px;" align="right" width="400px"
+!<center><big>Prof. Joshua M. Pearce</big></center>
+|-
+|<center>[[Image:Jmp.JPG|200px]]</center>
+|-
+|-
+|Hi. I am the Thompson Chair in Information Technology and Innovation at the [https://www.eng.uwo.ca/tc/ Thompson Centre for Engineering Leadership & Innovation]. I holds appointments at [https://www.ivey.uwo.ca/ Ivey Business School], the top ranked business school in Canada and the [https://www.eng.uwo.ca/electrical/ Department of Electrical & Computer Engineering] at [https://www.uwo.ca/ Western University] in Canada, a top 1% global university. There I run the [http://www.appropedia.org/FAST Free Appropriate Sustainability Technology (FAST) research group]. 
+ My research concentrates on the use of [[open source appropriate technology]] (OSAT) to find collaborative solutions to problems in sustainability and to reduce poverty. His research spans areas of engineering of solar photovoltaic technology, open hardware, and distributed recycling and additive manufacturing (DRAM) using [[RepRap]] 3-D printing, but also includes policy and economics. My papers are free at [https://westernu.academia.edu/JoshuaPearce Academia.edu].  He is the editor-in-chief of ''[http://www.journals.elsevier.com/hardwarex HardwareX]'', the first journal dedicated to open source scientific hardware and the author of the ''[https://www.appropedia.org/Open-source_Lab Open-Source Lab:How to Build Your Own Hardware and Reduce Research Costs]'', ''[https://www.appropedia.org/Create,_Share,_and_Save_Money_Using_Open-Source_Projects Create, Share, and Save Money Using Open-Source Projects]'', and ''[https://www.appropedia.org/Create,_Share,_and_Save_Money_Using_Open-Source_Projects To Catch the Sun]'', an open source book of inspiring stories of communities coming together to harness their own solar energy, and how you can do it too!
+  
+My primary hub in the wikiverse is on Appropedia. Please feel free to drop me a [http://www.appropedia.org/User_talk:J.M.Pearce line]
+|}
+
+'''The [http://www.appropedia.org/FAST Free Appropriate Sustainability Technology (FAST) research group]. ''' is interested in exploring the way solar photovoltaic technology can sustainably power our society and how open-source hardware like open source appropriate technologies (or OSAT) and RepRap 3-D printing can drive distributed recycling and additive manufacturing (DRAM) (and maybe even social change).  You can read about our open research wiki space on Appropedia is [http://appropedia.org/Category:FAST  here].
+
+I am interested in making technologies that drive sustainable development - [[open source appropriate technologies]]. Using the P2P as a force multiplier for local [[self-sufficiency]] and [[sustainability]] anywhere in the world.
+
+== P2P Focused Projects ==
+[[image:OSL.jpg|right]]
+* [[Open-Source Lab: How to Build Your Own Hardware and Reduce Research Costs]]
+* [[Peer to peer finance mechanisms to support renewable energy growth]]
+* [[Open source 3-D printing of OSAT]]
+* [[Open source appropriate technology]]
+* [[The Case for Open Source Appropriate Technology]]
+* [[Recyclebot]]
+* [[Open-source 3D-printable optics equipment]]
+* [[Open-source colorimeter]]
+* [[Building Research Equipment with Free, Open-Source Hardware]]
+* [[Open-source development of solar photovoltaic technology]]
+* [[Life-cycle economic analysis of distributed manufacturing with open-source 3-D printers]]
+* [[Distributed Manufacturing of Customizable 3-D-Printable Self-Adjustable Glasses]]
+* [[Mobile Open-Source Solar-Powered 3-D Printers for Distributed Manufacturing in Off-Grid Communities]]
+* [[Quantifying the Value of Open Source Hardware Development]]
+* [[Polymer recycling codes for distributed manufacturing with 3-D printers]]
+* [[Emergence of Home Manufacturing in the Developed World: Return on Investment for Open-Source 3-D Printers]]
+*[[3-D Printing Solar Photovoltaic Racking in Developing World]]
+*[[Viability of Distributed Manufacturing of Bicycle Components with 3-D Printing: CEN Standardized Polylactic Acid Pedal Testing]]
+*[[Return on Investment for Open Source Hardware Development]]
+*[[Multi-material additive and subtractive prosumer digital fabrication with a free and open-source convertible delta RepRap 3-D printer]]
+*[[Distributed manufacturing with 3-D printing: a case study of recreational vehicle solar photovoltaic mounting systems]]
+*[[Free and Open-source Control Software for 3-D Motion and Processing]]
+*[[Low-cost Open-Source Voltage and Current Monitor for Gas Metal Arc Weld 3-D Printing]]
+*[[Open-source, self-replicating 3-D printer factory for small-business manufacturing]]
+*[[High-Efficiency Solar-Powered 3-D Printers for Sustainable Development]]
+*[[Open-source 3-D Platform for Low-cost Scientific Instrument Ecosystem]]
+*[[Global value chains from a 3D printing perspective]]
+*[[Open Source Database and Website to Provide Free and Open Access to Inactive U.S. Patents in the Public Domain]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

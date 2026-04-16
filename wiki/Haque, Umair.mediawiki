@@ -1,1 +1,20 @@
 #REDIRECT [[Umair Haque]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.033795Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-a01a59d7b10c10d34cf52283a07a23f09ec8c0ab7f95a62a5a89c8e3cf497915 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+= very influential media and business analyst who focuses on edge economy and edge competence issues
+
+
+=Bio=
+
+"Umair Haque is Director of the Havas Media Lab, a new kind of strategic advisor that helps investors, entrepreneurs, and firms experiment with, craft, and drive radical management, business model, and strategic innovation.
+
+Prior to Havas, Umair founded Bubblegeneration."
+(http://discussionleader.hbsp.com/haque/)
+
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

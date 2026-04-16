@@ -1,1 +1,17 @@
 #REDIRECT [[Metamute Public Library]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.189674Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-90d195e55d57ba9b7156563089fcf72c92c0ae5bb7d45459aab77205ef372509 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+The Public Library is a structured repository of annotated media files, both contemporary and historical, whose content is relevant to Mute's editorial. 
+
+URL = http://publiclibrary.metamute.org:6969/
+
+
+[[Category:Webcasts]]
+
+[[Category:Podcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,22 @@
 #REDIRECT [[Link-Trapping Service]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.114234Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-6420400271b4961583afdcce6a3cf9a65343eacd6e102480faa2889d946b4db9 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= for compiling articles you want to review later.'''
+
+
+=Examples=
+
+#[http://www.instapaper.com/ Instapaper]
+#[http://readbag.com/ Readbag]
+#[http://www.laterloop.com/ Laterloop]
+
+
+[[Category:Media]]
+
+[[Category:Technology]]
+
+[[Category:Resources]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

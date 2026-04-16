@@ -1,1 +1,19 @@
 #REDIRECT [[Freenet Movement]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.977631Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-0d36eda047f51be5f8485d8a8ac5c8e98fc555585351d75b48da04f380156520 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+=More Information=
+
+#URL: http://freenetworkmovement.org/Freenet/FreeNet.html
+#Wiki: http://www.freenetworkmovement.org/commons/index.php?title=Main_Page
+#Documentary: [[Free the Network]]
+
+
+
+[[Category:P2P_Infrastructure]]
+[[Category:Autonomous Internet]]
+[[Category:Movements]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

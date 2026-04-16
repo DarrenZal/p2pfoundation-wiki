@@ -1,1 +1,24 @@
 #REDIRECT [[Anonymous Blogging with WordPress and Tor]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.758195Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-da3230c09692739311f8530da93fd8064c0e6fc6d8c475f5d4a9c56bcf828eee -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+'''* How-to Guide: Anonymous Blogging with WordPress & Tor. Global Voices, 2009'''
+
+URL = http://advocacy.globalvoicesonline.org/projects/guide/
+
+
+=Description=
+
+"An early draft of this guide was written by Ethan Zuckerman on April 13, 2005 and updated on October 1, 2006. On August 8, 2007 Global Voices Advocacy published an updated and linkable, blogging-friendly, HTML version of the guide, along with a downloadable PDF file. On March 10th, 2009, the guide has been updated once again so that all the tips are also compatible with Tor's recent update."
+
+
+[[Category:Security]]
+
+[[Category:Media]]
+
+[[Category:Technology]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

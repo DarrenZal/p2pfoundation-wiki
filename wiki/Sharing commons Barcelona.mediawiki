@@ -1,1 +1,9 @@
 #REDIRECT [[Sharing Commons Barcelona]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.358313Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-30264378e399b148dcb25cc067a4ff21c2728bd3e502324a244a53d95eb84bfe -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+See: [[Sharing Commons Spring Barcelona March 2013]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

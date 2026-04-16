@@ -1,1 +1,39 @@
 #REDIRECT [[Greek language]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.027131Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-b0bd16dec4f328c4b7ad43f318e11fb4e265a7fae60b930c4b4b8e8884bea0db -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+''For a list of pages on this wiki in Greek, please see [[:Category: Greek]]''
+__NOTOC__
+{| cellspacing="5" width="100%"
+|colspan="3" style="background: #ffffff; border: 1px solid black; padding-left:1em; padding-right:0.5em;"|
+
+
+<div style="background-color:#f9f9f9;margin:20px 10px;border:1px grey solid; width: 45%;min-height: 15em;  float:left;">
+{|style="margin-right:4em;"
+|-
+|style="padding: 2.5em"|<big>'''[https://abc.commons.gr To Aλφαβητάρι των Κοινών]'''</big><br><br><big>'''Βιβλία "Το [[Ομότιμο Μανιφέστο]]" & "Η [[Ομότιμη Προοπτική]]"'''</big><br><br><big> Εισαγωγή στην [[Ομότιμη Παραγωγή]] '''</big><br><br><big>'''Το [http://p2plab.gr/en P2P Lab]'''</big>
+|
+|
+|}
+</div>
+
+<div style="background-color:#f9f9f9;margin:20px 10px;border:1px grey solid; width: 45%;min-height: 15em;  float:left;">
+{|style="margin-right:4em;"
+|-
+|style="padding: 1em"|<big>'''[[In a nutshellGR|Tο P2P για αρχάριους/ες]]'''</big><br><br>Ένας πανεύκολος τρόπος για να ανακαλύψετε τις βασικές ιδέες πίσω από την ομότιμη θεωρία, από τον Mauro Bieg.
+|
+|[[Image:SphereOfNetworks.png|110px]]
+|}
+</div>
+
+
+
+<div style="clear:both">
+*Διάφορα δοκίμια για την ομότιμη προοπτική στα Ελληνικά [[Δοκίμια|εδώ]].
+</div>
+
+[[Category:Languages]]
+[[Category:Greek]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

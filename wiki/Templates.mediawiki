@@ -1,1 +1,15 @@
 #REDIRECT [[:Category:Templates]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.396418Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-68f3453787810c519567a529198f51d9f16ea320b1ffffbf4dadbbe2c4ad4f8d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Please be careful in editing templates as changes to a template affect all pages containing this template. You can use templates by including <nowiki>{{TEMPLATE_NAME|PARAMETER1|PARAMETER2}}</nowiki> in a page. For more help please visit the [http://meta.wikimedia.org/wiki/Help:Template MetaWiki].
+
+Sam says: In order to have a seperate one for each category, you'd just want to create a tempalte for each category, and then name it "Category_Name_News", and then call it on the page you want to see it on (like on each category page, or wherever you want)
+
+
+[[Special:Unusedtemplates|List of unused templates]]
+
+[[Category:Business Models]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

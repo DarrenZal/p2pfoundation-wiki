@@ -1,1 +1,16 @@
 #REDIRECT [[Open Hatch]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.232149Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-a55e5701ed69d8c76ce61e7090446720d47b26f81db3376b57ebbe1febc146bf -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''People and projects matching engine for open source code projects'''
+
+URL: https://openhatch.org/
+
+OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.
+
+[[Category:Software]]
+[[Category:Open]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

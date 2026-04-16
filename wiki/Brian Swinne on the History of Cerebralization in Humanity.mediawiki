@@ -1,1 +1,21 @@
 #REDIRECT [[Brian Swimme on the History of Cerebralization in Humanity]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.789125Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-44426e96069a8a60ae8b3d4ae72924a9a7800cd621d25a3d3ca41900f97cc9d2 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Video: '''A Brain of Brains: Human Cerebralization in the Paleolithic Stage'''
+
+URL = https://www.youtube.com/watch?v=n60eXsXR7AI
+
+=Description=
+
+"This episode explores cerebralization in Paleolithic stage of humanity.  Part of the [[Story of the Noosphere]] series.
+Presented by [[Human Energy]]: https://HumanEnergy.io "
+
+[[Category:Noosphere]]
+
+[[Category:Civilizational_Analysis]]
+[[Category:Intelligence]]
+[[Category:Webcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

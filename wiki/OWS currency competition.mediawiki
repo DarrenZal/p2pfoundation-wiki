@@ -1,1 +1,8 @@
 #REDIRECT [[OWS Currency Competition]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.207965Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-824477813b56e2fe422bd8b8ce54543be844d2e4a91e5175d4d401476615b993 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+This competition is now hosted by [https://99designs.com/other-design-tasks/contests/help-occupy-wall-street-design-101429/brief 99 Designs]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

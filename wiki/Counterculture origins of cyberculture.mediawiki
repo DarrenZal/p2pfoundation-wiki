@@ -1,1 +1,28 @@
 #REDIRECT [[Counterculture Origins of Cyberculture]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.886157Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-8c717355bfd797e74a1c311381ca88e6ab1b07ad27718a8c3afaa93f86bd34ba -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Vlog series by Howard Rheingold.
+
+
+URL = http://vlog.rheingold.com/index.php/site/video/counterculture-origins-of-cyberculture-part-1-john-coate-and-the-farm/
+
+
+=Description=
+
+
+==John Coate and The Farm==
+
+
+"Counterculture origins of cyberculture, Part 1: John Coate and The Farm
+
+John Coate, who was instrumental in the early success of the “Whole Earth Lectronic Link,” talks to Howard Rheingold’s class about The Farm—a 1960s commune that influenced the development of the WELL’s virtual community. The first of several parts."
+(http://vlog.rheingold.com/index.php/site/video/counterculture-origins-of-cyberculture-part-1-john-coate-and-the-farm/)
+
+See also: http://vlog.rheingold.com/index.php/site/video/john-coate-and-the-early-days-of-the-well/
+
+
+[[Category:Webcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

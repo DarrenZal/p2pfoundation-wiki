@@ -1,1 +1,25 @@
 #REDIRECT [[Economie de la contribution]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.124906Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-4a8c421f24324da07d95719eaba3fa9123d7ae8fa1d0a8f548ed39edf49bc59d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Description=
+
+Vocabulaire d'Ars Industrialis:
+
+"L’économie de la contribution se caractérise principalement par trois traits : 
+
+1) les acteurs économiques n’y sont plus séparés en producteurs d’un côté et consommateurs de l’autre ; 
+
+2) la valeur produite par les contributeurs n’y est pas intégralement monétarisable – elle constitue une externalité positive ; 
+
+3) c’est une économie des existences (productrice de savoir vivre) autant qu’une économie des subsistances."
+
+
+[[Category:French]]
+
+[[Category:Définitions]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,16 @@
 #REDIRECT [[David Isenberg]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.076093Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-76e39ecc372ea2f7ba41d1009585a5de4fb5a0e9b39a1e322632656672560392 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+David S. Isenberg spent 12 years at AT&T Bell Labs until his 1997 essay,"The Rise of the Stupid Network," was received with acclaim everywhere in the global telecommunications community with one exception -- at AT&T itself! So Isenberg left AT&T in 1998 to found isen.com, LLC (an independent telecom analysis firm based in Cos Cob, Connecticut) and to publish The SMART Letter, an open-minded commentary on the communications revolution and its enemies.
+
+
+==More Information==
+
+
+Streaming Video with [[David Isenberg on Who Will Run the Internet]]
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

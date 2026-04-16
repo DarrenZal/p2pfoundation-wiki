@@ -1,1 +1,26 @@
 #REDIRECT [[Cooperative Technologists]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.879125Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-a298ee97d1ff103c609ee8e72c623510911891e362c4db00edde2ea39c0262ea -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+URL = https://www.coops.tech/ [https://wiki.coops.tech/ wiki] [https://community.coops.tech/ community]
+
+=Description=
+
+Pat Conaty:
+
+"Last November 21 worker co-ops in IT, design, etc in the UK decided to come together to form one co-operative consortium called Co-operative Technologies. This developmentis exciting as it enables them all to work on bigger projects, share out expertise and respond well to call for help with the development of platform co-ops. Here is a link to some information. You will see the worker co-ops at the top and their 131 clients at the bottom and these include some big names. Their are 400,000 tech workers in the UK and many work through agencies who keep a margin of £300 a day to broker their labour. Co-operative Technologists business model is to broker labour as a co-operative employment agencies and pay higher day rates to workers and to attract tech workers to join them. There target is to move from 120 worker owners to 10,000 by 2020."
+(email, February 2017)
+
+[[Category:Cooperatives]]
+
+[[Category:Platform Cooperatives]]
+
+[[Category:UK]]
+
+[[Category:P2P Infrastructure]]
+
+[[Category:Technology]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

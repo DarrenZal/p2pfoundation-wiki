@@ -1,1 +1,14 @@
 #REDIRECT [[Frederick Noronha]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.202988Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-9f644baa932c9d4d730889a9ca453a8a5ed26909de63cdab2a28e6824dde5d39 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+Frederick Noronha is a Goa-based activist and knowledge disseminator, focusing on issues affecting the 'digital divide', especially in Asia, through his Bytes for All newsletter, and many other networking activities.
+
+Full profile at http://en.wikipedia.org/wiki/Frederick_Noronha
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

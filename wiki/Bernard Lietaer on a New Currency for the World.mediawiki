@@ -1,1 +1,16 @@
 #REDIRECT [[Bernard Lietaer on Currencies for Cooperation]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.777124Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-cf8d604fd189563e00b9d6fe9afe1ab307df11448843e41191897a7a0a74d280 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''Bernard Lietaer for an NHK Japan documentary on complementary currency systems and Silvio Gesell'''
+
+URL = http://www.youtube.com/watch?v=vjYDhuLWUnE
+
+
+[[Category:Money]]
+
+[[Category:Webcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,23 @@
 #REDIRECT [[Buckminster Fuller]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.007924Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-96c72898300a700280c53ea8111bc31f6ce84ea8f4670967720f965558a6de28 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Photo link:http://www.miqel.com/images_1/fuller_design_science/buckminster-fuller.jpg
+
+'''Richard Buckminster "Bucky" Fuller''' (July 12, 1895 – July 1, 1983) was an visionary, designer, architect, and inventor. His most notable contributions are the Geodesic Dome and the World Game, both employing the concept of [[Synergetics]] which he explored and developed through much of his life. His life work led towards creating a world wide resource administrative system which could provide billionaire wealth for all global citizens, or "complete success for all without disadvantaging any".
+
+"R. Buckminster Fuller was a pioneer of [[Synergic Science]] — the science of whole systems,
+he considered the relationships between the parts that make up a system. He discovered
+that it is how these parts relate with one another that will absolutely determine the success
+of the whole system."
+(http://www.synearth.net/Restricted-Confidential/OT.pdf)
+
+[[Category: Bios]]
+
+[[Category:Science]]
+
+[[Category:Synergy]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

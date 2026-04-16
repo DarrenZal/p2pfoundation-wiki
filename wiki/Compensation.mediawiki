@@ -1,1 +1,8 @@
 #REDIRECT [[Compensation in P2P Networks]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.872620Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,16 @@
 #REDIRECT [[Yanis Varoufakis on Why the Basic Income is Becoming a Necessity]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.503625Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-f2432dc77dd40763d2945f37b4ddeb3e22a9a5aecb055e72506fd71dad3c7d4d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video via https://www.youtube.com/watch?v=B1eOVU61mZE
+
+Very clear explanation of why the 20th century social contract based on labor is dying and how new trends, such as the automation of knowledge work, make a solution such as the basic income inevitable.
+
+
+[[Category:Policy]]
+
+[[Category:Webcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,108 @@
 #REDIRECT [[Help:References]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.467633Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-9c4a740050cb42da24c98d3bb12215afaa9565f29ff14fdfbce44b0337cfc68f -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+==Adding Information from 3rd Party Sources==
+
+===Fair Dealing and Fair Use===
+Before you copy material from elsewhere onto this wiki, please read the [[Fair Use]] and [[Fair Dealing]] policies.  
+
+===Formatting Quotes on the Wiki===
+When quoting someone else please:
+
+# either start and end your quote with quotation marks
+# or, if you are quoting a longer passage, use &lt;blockquote&gt; before and &lt;/blockquote&gt; after.
+# For quoting short passages, ''"using italics"'' helps readers see which words are quoted.
+# Immediately following the quote, cite your source by placing a link url, or a &lt;ref&gt;, or other citation information (in parentheses).
+
+===Using &lt;ref&gt; tags===
+
+All the notes you put inside &lt;ref&gt; tags appear together as footnotes, wherever you put the tag &lt;references /&gt;.
+Usually you will want to do this in the "More Information" section, or a section called "Notes" or similar.
+
+If you forget to include &lt;references/> in the article, the footnotes will not appear, but a red error message will be displayed at the end of the page.
+
+This page itself uses footnotes, such as the one at the end of this sentence.<ref>This footnote is used as an example in the "Using &lt;ref&gt; tags" section.</ref> If you view the source of this page by clicking the "Edit" tab, you can see how this example works.
+
+=== Example of using &lt;ref&gt; ===
+If you type
+<pre>
+According to scientists, the Sun is pretty big.<ref>E. Miller, 
+''The Sun'', (New York: Academic Press, 2005), 23-5.</ref>
+The Moon, however, is not so big.<ref>R. Smith, 
+"Size of the Moon", ''Scientific American'', 46 (April 1978): 44-6.</ref>
+</pre>
+it comes out as:
+
+According to scientists, the Sun is pretty big.<ref>E. Miller, 
+''The Sun'', (New York: Academic Press, 2005), 23-5.</ref>
+The Moon, however, is not so big.<ref>R. Smith, 
+"Size of the Moon", ''Scientific American'', 46 (April 1978): 44-6.</ref>
+
+Whatever you have typed in the &lt;ref&gt; tags is displayed where you type
+<pre>
+<references />
+</pre>
+
+You will find an example below.
+
+=== Multiple uses of the same footnote ===
+
+To give a footnote a unique identifier, use '''&lt;ref name="name">'''. You can then refer to the same footnote again by using a ref tag with the same name. The text inside the second tag doesn't matter, because the text already exists in the first reference. You can either copy the whole footnote, or you can use a terminated empty ref tag that looks like this: '''&lt;ref name="name" />'''.
+
+In the following example, the same source is cited three times.
+
+<blockquote>
+<tt>
+This is an example of multiple references to the same footnote.<font color=red>'''&lt;ref name&#61;"multiple">'''Remember that when you refer to the same footnote multiple times, the text from the first reference is used.'''&lt;/ref>'''</font>
+<br/>
+<br/>
+Such references are particularly useful when citing sources, if different statements come from
+the same source.<font color=red>'''&lt;ref name&#61;"multiple"&gt;'''Don't put anything here, as it won't show up anywhere.'''&lt;/ref&gt;'''</font>
+<br/>
+<br/>
+For multiple references, just use empty ref tags, which have a slash at the end. 
+But please be aware that if a future editor removes the first reference, 
+this will result in the loss of all references using the empty ref tags.<font color=red>'''&lt;ref name&#61;"multiple" /&gt;'''</font>
+<br/>
+<br/>
+&#61;=Notes==
+<br/>
+<font color=red>'''&lt;references /&gt;'''</font>
+</tt>
+</blockquote>
+
+The text above gives the following result in the article (see also section below):
+<blockquote>
+This is an example of multiple references to the same footnote.<ref name="multiple">Remember that when you refer to the same footnote multiple times, the text from the first reference is used.</ref>
+<br/>
+<br/>
+Such references are particularly useful when citing sources, when different statements come from 
+the same source.<ref name="multiple">Don't put anything here, as it won't show up anywhere.</ref>
+<br/>
+<br/>
+For multiple references, just use empty ref tags, which have a slash at the end. 
+But please be aware that if a future editor removes the first reference, 
+this will result in the loss of all references using the empty ref tags.<ref name="multiple" />
+</blockquote>
+
+'''Note''':<code> name=</code> identifiers require alphabetic characters; solely relying on numerals will generate an error message
+
+=== &lt;references /&gt; ===
+Placing <code>&lt;references /&gt;</code> inserts the text everything you have put inside <code>&lt;ref&gt;</code> tags, in the place you choose. 
+For example, based on all the citations above, the code:
+:<code>&lt;references /&gt;</code>
+
+will give you:
+
+<references />
+
+Notice how clicking on the up-arrows ("&uarr;") takes you to where the original &lt;ref&gt; was.
+For multiple references, clicking on each of the small numbers does the same thing.
+This is one of the reasons that using &lt;ref&gt; is so helpful to readers.
+
+[[Category:P2P Foundation Wiki How-To]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

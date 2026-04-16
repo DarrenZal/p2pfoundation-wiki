@@ -1,1 +1,21 @@
 #REDIRECT [[Chandran Nair on Turning Asia Away from Consumptionism]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.808873Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-d705eecf8c0fcc063d2987885cbb49f83dff6b48baf2b46fa9f8b32bc14da68f -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video via http://www.youtube.com/watch?v=ieWB8W5_orI
+
+
+=Description=
+
+"Author Chandran Nair says Asia must avoid following the Western consumption-led growth model and come up with its own model of development, or face disaster."
+
+
+[[Category:Webcasts]]
+
+[[Category:Asia]]
+
+[[Category:Economics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

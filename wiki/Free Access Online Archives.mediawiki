@@ -1,1 +1,13 @@
 #REDIRECT [[Free Access Scientific Archives]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.972650Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-921d30404ac63cccd8a6091512906b508e8f4d1c66806a716c5b890748a5024f -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+For Free Access Scientific Archives, see the Google Directory pages at 
+http://www.google.com/Top/Science/Publications/Archives/Free_Access_Online_Archives
+
+
+
+[[Category:Science]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,47 @@
 #REDIRECT [[Help:Creating a Biographical Entry]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.888714Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-696fe5027b58c6020e4a091c635f1496a7e10d619d11a9ad8b8adbb175a122cc -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+__NOTOC__
+==Getting Started==
+Take a look at some of the entries in the "Bios" category: [[:Category:Bios]], to get some idea of what the normal practice is on this wiki.
+* [[Joy Tang]] is an example of a simple entry.
+* [[Silke Helfrich]] is an example of an extended entry.
+
+==Points to note==
+* As a page name, please use "FirstName LastName" to fit in with all the other entries.
+* At the beginning of the page, put a "tagline" indicating the significance of this person in the context of P2P.
+* If the person has bio pages elsewhere, put in a line (or more) starting with "URL =" or "URLs =" with links to those other sites.
+* Then use the subheading "Bio" for the biographical note.
+* Continue with optional extra subheadings. 
+* Finish with the subheading "More Information", perhaps listing other pages on this wiki that have the person's name in the title, or other pages with a strong and particular connection with the person.
+* Put <pre>[[Category:Bios]]</pre> at the end of the page, with any other categories representing fields that the person is a significant contributor to.
+
+----
+
+Here's a simple template:
+
+----
+
+=Jo Bloggs=
+
+'''= writer on P2P topics; contributor to this wiki'''
+
+URL = http://example.org/people/Jo_Bloggs.html
+
+==Bio==
+
+Jo is a native of somewhere in Europe, was brought up in Asia and now lives in Africa.
+After an academic career in the field of the sociology of telecommunications, 
+Jo's attention turned to the question of how to enable P2P communities.
+
+==More Information==
+* [[Sandbox|Jo Bloggs on How to Communicate With Peers]]
+
+<pre>[[Category:Bios]]</pre>
+
+[[Category:P2P Foundation Wiki How-To]]
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

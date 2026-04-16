@@ -1,1 +1,18 @@
 #REDIRECT [[Christopher Spehr on Out-Cooperating Empire]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.814177Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-c01669a39a289a5f46d5478c3f754200f8c44ddf41a1d7008772e68e5d08ed25 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''Geert Lovink interviews the German cooperation theorists Christopher Spehr.'''
+
+
+URL = http://www.networkcultures.org/geert/out-cooperating-the-empire-exchange-with-christoph-spehr/
+
+
+Lengthy and stimulating interview covering cooperation in terms of social change.
+
+
+[[Category:Interviews]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

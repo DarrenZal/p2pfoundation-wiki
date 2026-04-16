@@ -1,1 +1,21 @@
 #REDIRECT [[Greg Whisenant]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.488545Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-7a1cb9fa9e9d202ad4ff940898b6d4cc9b09c776d90fa8b2060d653ed98d09de -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= advocate of open crime data'''
+
+=Bio=
+
+"Greg Whisenant is the founder, President and CEO of Public Engines, Inc. which makes the CrimeReports.com Web application. The application creates two way dialogue between law enforcement agencies and members of the public using Google Maps and location-based alerting services.
+
+In 2005 and 2007, Whisenant was selected as a member of the vSpring v100, a list of the top 100 technology entrepreneurs in the State of Utah. He is a graduate of Brigham Young University (BA, English Literature 1993) and the John F. Kennedy School of Government at Harvard University (Master in Public Policy, 1997). "
+(http://itc.conversationsnetwork.org/shows/detail3459.html)
+
+
+[[Category:Bios]]
+
+[[Category:Policy]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

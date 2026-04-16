@@ -1,1 +1,17 @@
 #REDIRECT [[David Nicol]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.199946Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-3395c350d628aadb977dd5c6993a5d6704e95d73774da5d077102ef819f3a8ac -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Bio=
+
+"David Nicol is the Director of the [[Gaiafield Project]] (www.gaiafield.net), which aims to support the emergence of a global network of spiritual peacemakers who will participate in regular global meditation and prayer events for world peace. In partnership with a growing consortium of peace-building organizations, the Gaiafield Project will convene a series of global meditation events, including a Wiser USA Global Meditation on the eve of the US elections in November 2008. David is currently writing his PhD dissertation at the California Institute of Integral Studies on the topic of [[Subtle Activism]]."
+
+
+[[Category:Bios]]
+
+[[Category:Spirituality]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

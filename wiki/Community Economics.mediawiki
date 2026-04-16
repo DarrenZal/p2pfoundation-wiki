@@ -1,1 +1,25 @@
 #REDIRECT [[Community Economies]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.865156Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-37ec3d337742e4358c7dc400039cc882bfc5d27f5bb6ba4a497e8fa277f8ee1b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+URL = http://www.communityeconomies.org/
+
+
+=Description=
+
+"The Community Economies project rethinks the economy through acadamic eyes. It involves a collaboration between academic and community researchers and activists in Australia, North America, and South East Asia. It desires to establishe collaborations between activists, academics and communities.
+
+Its goals are, for example, to build sustainable non-capitalist economic alternatives and to highlight the extent and contribution of hidden and alternative economies. The website provides papers (eg. 'Beyond global vs local', 'Feminising the economy') , case-studies and stories of community enterprises."
+
+
+
+[[Category:Business]]
+
+[[Category:Movements]]
+
+[[Category:Community Economics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

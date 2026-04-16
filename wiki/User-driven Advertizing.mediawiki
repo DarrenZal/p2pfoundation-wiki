@@ -1,1 +1,23 @@
 #REDIRECT [[User-Driven Advertizing]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.466996Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-3bfc92434aff2556493bff04f719d70c72aa34e6a9a0c4a87e8eb6da2630d691 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''User-driven advertising'''
+
+'''Increasingly, users are themselves distributing information about products and services that they appreciate''', see the Wired article on a famous user-made iPod ad, at http://www.wired.com/news/mac/0,2125,66001,00.html? ; 
+
+
+=More Information=
+
+# Companies are also learning to use (and abuse) these communities of 'passionate consumers', according to this report in Le Monde, at http://www.lemonde.fr/web/article/0,1-0@2-3230,36-396272,0.html
+# Users are also producting ads themselves, see [[User-created Advertizing]]
+# a platform for user-driven ads, http://news.thomasnet.com/fullstory/Web-Based-Platform-enables-user-driven-advertising-508898
+
+[[Category:Encyclopedia]]
+
+[[Category:Business]]
+
+[[Category:Collaborative Economy]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,22 @@
 #REDIRECT [[Economie des communautés mediatées]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.926104Z -->
+<!-- resolved-hops: 1 -->
+<!-- target-hash: sha256-7bb464330c7733a4b6cbcf0bf3973b4baaf7efb5551f0adea2e23fb6b5cbe1d0 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+Click on the workshop pages for a quite extraordinary collection of in-depth studies of peer governance communities.
+
+URL = http://ses.enst.fr/enstcommed/index.htm
+
+
+For example, click here [http://e.darmon.free.fr/workcommed/program.html] or here [http://ses.enst.fr/enstcommed/vote.htm] for research on '''Vote et décision communautaire'''
+
+
+[[Category:Research]]
+
+[[Category:French]]
+
+[[Category:Bibliographie]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

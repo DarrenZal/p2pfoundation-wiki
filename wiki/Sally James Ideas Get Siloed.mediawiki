@@ -1,1 +1,14 @@
 #REDIRECT [[Sally James on How Biomedical Ideas Get Siloed]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.345317Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-3728d681f533d0a3beb3fe4814efa71e6345f403d41258c2846013ab31b421da -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= Sally James discusses the fact that many good biomedical ideas and data gets put away out of sight. Why not make this open access?'''
+
+URL = Podcast interview via https://soundcloud.com/hackyourphd/hyphdus-sally-james-journalism-seattle
+
+[[Category:Podcasts]]
+
+[[Category:Science]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

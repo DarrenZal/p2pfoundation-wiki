@@ -1,1 +1,27 @@
 #REDIRECT [[Ward Cunningham]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.892153Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-6641241df7a7b807d6ee10f403e03168b39f00106ab46db0d3b1780800c6f108 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+''' Ward (Howard) Cunningham was the originator of the Wiki concept'''
+
+== Bio ==
+
+'''Howard G. Cunningham''' (born May 26, 1949) is an American computer programmer who developed the first [[Wiki]] and was a co-author of the ''Manifesto for Agile Software Development''. A pioneer in both design patterns and extreme programming, he started coding the WikiWikiWeb in 1994, and installed it on c2.com (the website of his software consultancy) on March 25, 1995, as an add-on to the Portland Pattern Repository. He co-authored (with Bo Leuf) a book about wikis, entitled ''The Wiki Way'', and invented the Framework for Integrated Tests.<br />
+— [[Wikipedia: Ward Cunningham]] as at 2021-02-11
+
+
+== More Information ==
+* [[Conversation with Ward Cunningham]]
+* [[Ward Cunningham on the Invention of the Wiki and its Impact]]
+* [[Ward Cunningham and John Gage about the Socialization of Creativity]]
+* [[Wiki Way]]
+* [[Federated Wiki]]
+* [[Smallest Federated Wiki]]
+* [[Wikipedia Revolution]]
+* [[Wiki]]
+* [[Wiki Pattern Language]]
+
+* [[Wikipedia: Ward Cunningham]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

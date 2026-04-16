@@ -1,1 +1,23 @@
 #REDIRECT [[Steven Weber on the Success of Open Source]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.382480Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-78550abb1d0a574ccfbbc30c86c3f3c213188332e09907177515f845e9441a89 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+"Steven Weber, Director of the Institute of International Studies at UC Berkeley and author of The Success of Open Source, lectures on how open and closed systems together will shape the future of property and business."
+
+
+URL = http://ia300115.us.archive.org/0/items/IFTFHowardRheingoldStanfordHumanitiesLab_1/weber.mov
+
+(Also available through http://www.cooperationcommons.com/resources)
+
+
+=More Information=
+
+#Book: The [[Success of Open Source]]
+
+
+[[Category:Webcasts]]
+
+[[Category:Books]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

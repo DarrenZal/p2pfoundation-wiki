@@ -1,1 +1,27 @@
 #REDIRECT [[Yochai Benkler on What Comes After the Era of Hobbesian Selfishness]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.504814Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-dfd2876a3878e46cfeed6ca9e591ac7eb7287386a005eabbdb660728aa14528b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video via http://www.youtube.com/watch?v=jMxz7rzwee8
+
+==Description==
+
+Yochai Benkler 94 delivers a dynamic lecture on the future of social production to mark the occasion of his appointment as the Jack N. and Lillian R. Berkman Professor for Entrepreneurial Legal Studies.
+
+From the Harvard Law School Spotlight:
+
+"Collaborative systems, built upon freedom and altruism, benefit from increased individual agency of motivated participants. As such, the newer systems are far more efficient and more capable of adapting to sudden changes. However, the task from the theoretical standpoint, said Benkler, 'is to develop a general framework for analyzing human systems of all forms, enabling us to design systems that are both more effective and more resonant with being human.'"
+
+==More Information==
+[[Yochai Benkler]]
+
+
+[[Category:Webcasts]]
+
+[[Category:Relational]]
+
+[[Category:Cooperation]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

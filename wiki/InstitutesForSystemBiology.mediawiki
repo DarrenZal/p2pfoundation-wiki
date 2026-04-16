@@ -1,1 +1,31 @@
 #REDIRECT [[Institutes For System Biology]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.066717Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-e075bb31df4928cdf3045b832abf03cf1e9d9c91f9aaef0ec539454bab12e265 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+= ISB was established as an untraditional institution, where scientific collaboration could take place across disciplines
+
+URL = https://www.systemsbiology.org/
+
+=Description=
+
+ISB pioneered systems biology, which harnesses and integrates the respective insights of biologists, geneticists, computer scientists, chemists, engineers, mathematicians, immunologists and others to answer some of society's most challenging questions related to health and the environment. Since 2000, ISB has grown to more than 230 staffers, which includes 10 faculty members and laboratory groups.
+
+=More Information=
+
+* https://www.facebook.com/ISB.USA?fref=ts
+
+* Related projects=To study the smallest parts of cells to decipher how they function within their networks and in relation to other biological networks. ISB scientists are the deep-sea divers who make sense of the mysteries of how genes, proteins and other molecules control living organisms. This research aids or enables other scientists in their work toward developing cures, treatments and preventive measures for cancers, diseases and environmental ills. The complexity of our work makes it difficult to explain, but what we do, ultimately, is pave the way for major scientific and medical achievements, making progress toward our vision for wellness.
+
+=Location=
+|City=Seattle
+|Country=United States
+|Location=0, 0
+
+[[Category:Science]]
+
+[[Category:Movements]]
+
+[[Category:Open Science]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

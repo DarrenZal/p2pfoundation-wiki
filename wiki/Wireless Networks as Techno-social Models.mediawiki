@@ -1,1 +1,20 @@
 #REDIRECT [[Wireless Networks as Techno-Social Models]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.497206Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-e556a501011ea7f3dccde959c9e83ea065949edf4266e9f125ece4a5755298a7 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Essay: On free wavelengths: wireless networks as techno-social models. By Armin Medosch
+
+URL = http://theoriebild.ung.at/view/Main/FreeWavelength
+
+Translated from German by Nicholas Grindell. This text was originally written and published in German in 2005 for the Open Source Yearbook http://www.opensourcejahrbuch.de/download/jb2006/ and translated for the publication Ambient Information Systems, forthcoming.
+
+
+[[Category:Articles]]
+
+[[Category:Technology]]
+
+[[Category:Standards]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

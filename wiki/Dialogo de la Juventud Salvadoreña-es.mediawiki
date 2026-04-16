@@ -1,1 +1,25 @@
 #REDIRECT [[Dialogo de la Juventud Salvadoreña]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.906930Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-9beb0510e3abce682b93dea13929944dd9df3760748da96a8815d8d1084a91ab -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= Evento de diálogo juvenil'''
+
+URL = http://www.aldesai.org.sv
+
+==Description==
+Es un evento en el cual se discuten 5 temas de interes nacional, con jovenes de diferentes sectores y lugares del pais. Luego con todos los datos se realiza una Declaratoria que se envian a diferentes instituciones y entidades para que tengan en cuenta la opinion de los jovenes de El Salvador.
+
+==More Information==
+* Date of information: 2013
+* Discussions/Quotes=http://www.expresate.com.sv/periodico/index.php?option=com_content&view=article&id=5789%3Aaldesai-presente-en-primer-dialogo-de-la-juventud-
+* Contact person: ADESAI ONG
+* Contact's person e-mail: comunicaciones@aldesai.org.sv
+* Number of participants: 300
+* City: Santa Tecla
+* Location: 13.6833333, -89.28333329999998
+
+[[Category:El Salvador]]
+[[Category:Spanish]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,22 @@
 #REDIRECT [[W3C Social Web Incubator Group]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.367240Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-bf46e45a38c4f651260fb9e7210e951f630c9d9f8663659f9d73297efa2bc550 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+= The Social Web Incubator Group (SWXG) was founded as an outcome of the [http://www.w3.org/2008/09/msnws/|W3C Workshop on the Future of the Social Networking] '''to uncover and document existing technologies, software, and standards''' (both proposed and adopted) needed to enable a universal and distributed Social Web. The group also sought to identify gaps, conflicts, and other areas for future standardization and research to increase adoption of the Social Web. [http://www.w3.org/2005/Incubator/socialweb/wiki/FinalReport]
+
+See: [[Final Report of the W3C Social Web Incubator Group‎]]
+
+
+=More Information=
+
+* [[Social Web]]
+
+
+[[Category:Standards]]
+
+[[Category:Technology]]
+
+[[Category:Movements]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

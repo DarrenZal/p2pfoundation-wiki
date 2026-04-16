@@ -1,1 +1,17 @@
 #REDIRECT [[Autonomy-Respecting Help]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.767074Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-679bd95dc1cda7777c4971f446652bf7edd02ea84b55005c9229c10d9725becc -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+See the Book: '''David Ellerman. [[Helping People Help Themselves]]. University of Michigan Press, 2006.'''
+
+
+[[Category:Relational]]
+
+[[Category:P2P Solidarity]]
+
+[[Category:Encyclopedia]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

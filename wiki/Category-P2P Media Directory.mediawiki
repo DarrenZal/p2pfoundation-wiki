@@ -1,1 +1,8 @@
-#REDIRECT[[:Category:P2P Multimedia Directory]]
+#REDIRECT [[:Category:P2P Multimedia Directory]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.803345Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-daf5e7a81d0b10adb15b00d2ba5a030bc61d04ff621c4d26c7ba4cb8742f40ac -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+[[Category:P2P Foundation Knowledge Commons]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

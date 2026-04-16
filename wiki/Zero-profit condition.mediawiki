@@ -1,1 +1,21 @@
 #REDIRECT [[Zero-Profit Condition]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.509260Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-6265f2cd4eaa8f529116969f62c9be9ec6b5c41d854b8c94a72d369e9b45ec67 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Description=
+
+Patrick Anderson:
+
+Thesis: [[Profit]] approachs zero as [[Competition]] approaches perfection.
+
+
+=More Information=
+
+* http://en.wikipedia.org/wiki/Zero-profit_condition 
+
+[[Category:Economics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

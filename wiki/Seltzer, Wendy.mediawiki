@@ -1,1 +1,26 @@
 #REDIRECT [[Wendy Seltzer]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.355735Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-18e4c87bf25aba39dea747ba698b33caea18774e00b01cc6d64a3e8ba96397dc -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+= [[Open Law]] advocate
+
+
+=Bio=
+
+"Wendy Seltzer founded and leads the Chilling Effects clearinghouse, a project to study and combat the ungrounded legal threats that chill activity on the Internet. She also helped start and now leads the Open Law project, an experiment bringing the methods of open source and Free Software development to legal argument in the public interest.
+
+Ms. Seltzer is currently visiting assistant professor at Brooklyn Law School, where she will be teaching Internet Law and Privacy. She was previously a staff attorney with the Electronic Frontier Foundation, focused on intellectual property and free speech issues. She is also a fellow at the Berkman Center for Internet and Society at Harvard Law School." (http://kruufm.com/node/753) 
+
+
+=More Information=
+
+Listen to [[Wendy Seltzer on Open Law]]
+
+
+[[Category:Bios]]
+
+[[Category:Policy]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

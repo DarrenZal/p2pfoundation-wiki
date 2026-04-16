@@ -1,1 +1,21 @@
 #REDIRECT [[Immanuel Wallerstein on the End of Capitalism]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.060296Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-7c69fb891450271003cb361d969d09a2a1421b1027598991efe2833a0f103688 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video via http://www.youtube.com/watch?v=nLvszWBf6BQ
+
+
+=Description=
+
+"The sociologist and philosopher Immanuel Wallerstein talks about the end of capitalism, which he says has been happening over the past forty-odd years. "
+
+
+[[Category:Webcasts]]
+
+[[Category:Post-Capitalism]]
+
+[[Category:Economics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

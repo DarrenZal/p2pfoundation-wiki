@@ -1,1 +1,8 @@
 #REDIRECT [[Resisting Erosion]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.329098Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-6067cce06bb41154657bf098afb65ac1ed494eaca6ff05d047b1f15a62a0d675 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+(from [[Vocabulary of Commons]])
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

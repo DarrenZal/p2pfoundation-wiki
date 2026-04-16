@@ -1,1 +1,13 @@
 #REDIRECT [[Trashwiki]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.427194Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-397686ac1d07e248fd3c5d8602e1af9f76b497e3ea20c8dcc771eaa45af4b372 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= Trash Wiki - a [[Dumpster Diving]] world wide guide of creating value from trash!''' 
+
+URL = http://trashwiki.org/
+
+[[Category:Resources]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

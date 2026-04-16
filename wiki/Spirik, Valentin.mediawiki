@@ -1,1 +1,13 @@
 #REDIRECT [[Valentin Spirik]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.376145Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-c93d2deba071e91eb9b2b2ea73c8846b0d1255b6b105b0b2d43dd9ab6343cd0f -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Valentin Spirik maintains and updates our Wiki pages [http://www.p2pfoundation.net/Category:Audiovisual P2P Audiovisual Concepts], which help people in their autonomous production of media.
+
+URL = http://indiworks.wordpress.com/.
+
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

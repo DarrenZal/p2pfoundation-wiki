@@ -1,1 +1,24 @@
 #REDIRECT [[James Surowiecki]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.388915Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-72e62a5fb1375e82b1500bb210d616362e73526293d10eceb88f406b25995265 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+=Bio=
+
+
+"James Surowiecki is the foremost authority on how to harness the collective wisdom of your organization for competitive advantage. 
+
+He has written a well-received book on the theory and practice of The Wisdom of Crowds—Why The Many Are Smarter Than The Few And How Collective Wisdom Shapes Business, Economies, Societies And Nations. 
+
+In The [[Wisdom of Crowds]], Jim describes systematic ways to organize and aggregate the intelligence available in your organization in order to arrive at superior decisions—often better than those that individuals would make, even if they are ‘experts’. 
+
+The book and Jim’s presentations based on the book are full of insights into how groups operate that are invaluable to business leaders. He also offers practical methods, tailored to his audience, for leveraging people and technology to learn what you need to know and make decisions that really serve the organization’s goals.
+Jim writes a twice-monthly financial column for The New Yorker that is typically pegged to current events and incorporates the kind of insights from economics, sociology, and business history that make The Wisdom of Crowds so valuable. 
+
+He has written for a broad range of other publications on a wide variety of topics. His work has appeared in The New York Times Magazine, Wired, and The Wall Street Journal and other major publications. He wrote “The Bottom Line column for New York magazine, and was a contributing editor at Fortune."
+(http://www.leighbureau.com/speaker.asp?id=285)
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

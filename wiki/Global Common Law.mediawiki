@@ -1,1 +1,16 @@
 #REDIRECT [[Global Commons Law]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.021232Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-444f2f2ce1b65923460051189da51c35420caa506fca0dd704365eff1a69678e -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+* Article: Sousa Santos, Boaventura. 1995. ‘The Global Commons: Jus Humanitatis’, in Toward a New Common Sense: Law, Science and Politics in the Paradigmatic Transition. London and New York: Routledge. Pp. 365-73.
+
+
+[[Category:Commons]]
+
+[[Category:Global Commons]]
+
+[[Category:P2P Law]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

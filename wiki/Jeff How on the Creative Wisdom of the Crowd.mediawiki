@@ -1,1 +1,25 @@
 #REDIRECT [[Jeff Howe on the Creative Wisdom of the Crowd]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.082203Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-c341a84e661f15657f2729025268a0ca7b2af0f5664902039d5c88179bd6071a -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+The Rise of [[Crowdsourcing]]: Creative [[Wisdom of the Crowds]]
+
+Video via http://www.omnisio.com/vlab/the-rise-of-crowdsourcing-creative-wisdom-of-the-crowd
+
+=Description=
+
+
+"Wikipedia does it. So does Yelp, Amazon and Digg. Millions of customers have eagerly helped to build up reviews, ratings and other content for the most... (more)
+
+Wikipedia does it. So does Yelp, Amazon and Digg. Millions of customers have eagerly helped to build up reviews, ratings and other content for the most popular sites on the web. CEOs, founders and VCs talk up the growing number of opportunities in crowdsourcing and answer questions such as: How can you get your customers to work for you? What rewards do they need? How do you deal with the issue of accuracy and reliability of the information? What are the trials and tribulations of crowdsourcing? Who's making money and what are the business models?"
+(http://www.omnisio.com/vlab/the-rise-of-crowdsourcing-creative-wisdom-of-the-crowd)
+
+
+[[Category:Webcasts]]
+
+[[Category:Intelligence]]
+
+[[Category:Business]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

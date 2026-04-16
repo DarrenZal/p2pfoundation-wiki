@@ -1,1 +1,31 @@
 #REDIRECT [[OSCOMAK]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.206361Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-5ea0e566735da52115818acb7b31e9a25ff0ca98c8fa645f52db76c452ad9fa4 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+URL = http://oscomak.net/
+
+
+=Description=
+
+"OSCOMAK supports playful learning communities of individuals and groups
+chaordically building free and open source knowledge, tools, and simulations
+which lay the groundwork for humanity's sustainable development on Spaceship Earth and
+eventual joyful, compassionate, and diverse expansion into space
+(including Mars, the Moon, the Asteroids, or elsewhere in the Universe).
+
+The OSCOMAK project will foster a community in which many interested individuals will contribute to the creation of a distributed global repository of manufacturing knowledge about past, present and future processes, materials, and products. OSCOMAK stands for "OSCOMAK Semantic Community On Manufactured Artifacts and Know-how".
+
+The OSCOMAK project is supporting the [[OpenVirgle]] Project for Space Habitats via Semantic MediaWiki pages"
+(http://oscomak.net/)
+
+
+=More Information=
+
+Their semantic mediawiki is at http://www.oscomak.net/wiki/Main_Page
+
+
+[[Category:Design]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

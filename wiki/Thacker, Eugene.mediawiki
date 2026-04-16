@@ -1,1 +1,16 @@
 #REDIRECT [[Eugene Thacker]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.398437Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-1c7a9e6b008b7a9ed55421f351aba1774d146ddb0dc37937d07d6842a52d0923 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Bibliography at http://www.lcc.gatech.edu/~ethacker/cv.html
+
+Eugene Thacker is the author of '''The [[Exploit]]''' (co-authored with Alex Galloway, University of Minnesota Press, 2007), a condensed work of political philosophy which aims to develop a theory of networks. 
+
+
+[[Category:Politics]]
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

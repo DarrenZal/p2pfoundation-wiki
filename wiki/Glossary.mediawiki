@@ -1,1 +1,57 @@
 #REDIRECT [[Glossary of the Autonomous Internet project.]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.024030Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-93e310938d006b270d1a4c8b7c91df74c0dc8e4bac16355a950a5ab26a9dab0b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Glossary related to the [http://p2pfoundation.net/Category:Autonomous_Internet Autonomous Internet] project.
+
+
+
+{| border="1" style="text-align:center;"
+|AT&T
+|American Telephone & Telegraph
+|-
+|BTS    
+|Broadband Transport Service
+|-
+|F/OSS    
+|Free/Open Source Software
+|-
+|M4IS2
+|Multinational, Multiagency, Multidisciplinary, Multidomain Information-Sharing and Sense-Making
+|-
+|MDSC    
+|Multinational Decision-Support Centre
+|-
+|NCDD    
+|National Coalition for Dialog & Deliberation
+|-
+|OSA    
+|Open Source Agency
+|-
+|OSI    
+|Open Source Institute
+|-
+|OSINT    
+|Open Source Intelligence
+|-
+|OSN    
+|Open Source Network
+|-
+|OST    
+|Open Source Technology
+|-
+|P2P    
+|Peer to Peer
+|-
+|RDF    
+|Resource Description Framework
+|-
+|XML    
+|Extensible Markup Language
+|}
+
+[[Category:Autonomous Internet]]
+[[Category:P2P_Infrastructure]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

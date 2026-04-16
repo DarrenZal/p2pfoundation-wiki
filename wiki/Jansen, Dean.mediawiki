@@ -1,1 +1,24 @@
 #REDIRECT [[Dean Jansen]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.081354Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-9a20a73e907004f68f1410a9d0b636f2d3d415750a10f0c6628ba67a9f757d1a -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= advocate of Democratic Internet TV and co-developer of [[Miro]]'''
+
+=Bio=
+
+"Dean Jansen is part of the Special Projects team at the Participatory Culture Foundation. The PCF is the non-profit organization which creates the Democracy Internet TV Platform, soon to be named Miro.
+
+DemocracyPlayer aims to change the way mass-media works, by giving control of Internet TV back to the public. You can control how you download, re-mix, and distribute different video channels. In essence DemocracyPlayer lowers the bar for anyone to create their own online TV channel." (http://kruufm.com/33-open-views-dean-jansen-participatory-culture-foundation) 
+
+=More Information=
+
+Listen to [[Dean Jansen on Democratic Internet TV]]
+
+
+[[Category:Bios]]
+
+[[Category:Media]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

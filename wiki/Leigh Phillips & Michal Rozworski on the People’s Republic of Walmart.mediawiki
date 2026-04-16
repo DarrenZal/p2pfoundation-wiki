@@ -1,1 +1,25 @@
 #REDIRECT [[Leigh Phillips and Michal Rozworski on the People’s Republic of Walmart]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.106123Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-6774c5bb83b7db4b1129623cc3f64a066c5c74bde9bfea14be7f6fc72069512f -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Podcast via https://srslywrong.com/podcast/ep-178-the-peoples-republic-of-wal-mart-w-leigh-phillips-michal-rozworski/
+
+
+=Description=
+
+"Walmart is the world’s largest corporation, a mantle it has achieved by (internally) eschewing market-based allocation, and developing itself into a sophisticated and well-functioning globally-planned economy.
+
+This week, guests Leigh and Michal join the Wrong Boys to talk about their new book, and how analyzing the biggest, multinational, consumer-facing corporations puts to rest the myth that economic planning doesn’t work."
+
+
+=More information=
+
+* the book! [https://www.amazon.com/Peoples-Republic-Walmart-Corporations-Foundation-ebook/dp/B075HY7DWZ]; see: [[People's Republic of Walmart]]. [https://wiki.p2pfoundation.net/People%27s_Republic_of_Walmart]
+
+[[Category:Podcasts]]
+[[Category:Mutual Coordination]]
+[[Category:P2P Market Approaches]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

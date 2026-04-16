@@ -1,1 +1,18 @@
 #REDIRECT [[Pekka Himanen]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.042226Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-8c550e29c492004b141c40a6b7351101b49af7ad98a8aaf4c43b3976b6321a5a -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''Pekka Himanen''' is a [[Finland|Finnish]] philosopher and researcher on the information society, most well-known for his landmark book The [[Hacker Ethic]], which updates Max Weber's classic on the Calvinist work ethic. In his book he shows how network society is both exacerbating the Calvinist work ethic to the point where it becomes immoral and unsustainable, while also creating as a counter-reaction the new hacker ethic, which is  based on a peer to peer ethic. The hacker ethic in this broad sense of cooperative working should not be confused with the more specific sense of the ethic of computer hackers.
+
+Website at [http://www.pekkahimanen.org/]; [mailto:pekka.himanen@hiit.fi email him] 
+
+The Wikipedia entry on The Hacker Ethic at [http://en.wikipedia.org/wiki/Hacker_ethic]
+A random review at [http://www.nytimes.com/books/first/h/himanen-hacker.html]
+
+==More Information==
+* [https://en.wikipedia.org/wiki/Pekka_Himanen Wikipedia entry]
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

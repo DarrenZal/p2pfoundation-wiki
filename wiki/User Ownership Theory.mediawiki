@@ -1,1 +1,14 @@
 #REDIRECT [[:Category:User Owned]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.465903Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-128d5f906baaa8ad2d013cf4e7996e4ad11361b2968f8329f4b82864ead6450c -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+User Owned organizations contrast with [[Worker Owned]] in that the '''Consumers''' are in control.
+
+==[[User Ownership]]==
+This is a mode of production and ownership designed to generalize the concepts of the [[GNU General Public License]] into the realm of [[Physical Production]].
+
+
+[[Category:Business]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

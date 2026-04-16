@@ -1,1 +1,17 @@
 #REDIRECT [[Quand Google défie l'Europe]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.314737Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-f89e948e5d2d0eb7dfbd414699c362293e94a0ea9312a2397ccdc3347491f9a0 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+Jean-Noel Jeanneney. Quand Google défie l'Europe. Mille et Une Nuits, 2006
+
+
+
+
+[[Category:French]]
+[[Category:Bibliographie]]
+[[Category:French-Books]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

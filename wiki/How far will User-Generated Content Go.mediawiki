@@ -1,1 +1,31 @@
 #REDIRECT [[How Far Will User-Generated Content Go]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.049912Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-3647b31c19a11d2340468ed09e8bf50e423f9f9e5ef9ab3cec72d1d643c92b26 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Panel presentation at the Stanford Summit 2006
+
+
+URL = http://stanfordsummit.goingon.com/permalink/post/2034
+
+
+=Participants=
+
+Moderator: Kara Swisher, staff reporter, Wall Street Journal
+
+- David Goldberg, Head of Yahoo! Music
+
+- Michael Robertson, CEO, MP3Tunes
+
+- Chad Hurley, CEO, YouTube
+
+- Michael Arrieta, Senior VP, Sony Pictures
+
+[[Category:Webcasts]]
+
+[[Category:Media]]
+
+[[Category:Collaborative Economy]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

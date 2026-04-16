@@ -1,1 +1,14 @@
 #REDIRECT [[Category:Government Owned]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.380068Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-96c8529f38bc548000a9450b949814bfb1e250bf108eba58aa3591f336a67913 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+STUB
+
+http://en.wikipedia.org/wiki/Government_owned
+
+''State ownership, also called public ownership, government ownership or state property, are property interests that are vested in the state, rather than an individual  or communities.''
+
+''State ownership may refer to state ownership or control of any asset, industry, or enterprise at any level, national, regional or local (municipal); or to common (full-community) non-state ownership. The process of bringing an asset into public ownership is called nationalization or municipalization.''
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,19 @@
 #REDIRECT [[Susan Crawford]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.888532Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-1b3258b2b61849eaad3f67b9677c5901d29b4c523a9e4164c092c4384e8e7e97 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= internet governance expert'''
+
+
+=Bio=
+
+"Susan Crawford is currently a Visiting Professor of Law at Yale Law School, teaching internet law and communications law. She is a member of the board of directors of ICANN and is the founder of OneWebDay, a global Earth Day for the internet that takes place each Sept. 22. She is the author of the Susan Crawford blog."
+(http://publius.cc/2008/05/20/susan-crawford-icanns-constitutional-moment/)
+
+[[Category:Bios]]
+
+[[Category:Governance]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

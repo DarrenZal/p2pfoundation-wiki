@@ -1,1 +1,23 @@
 #REDIRECT [[Business Model]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.793333Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-838edebb4b5363ad8967e7ac3c91182b22427d3a728e0d92dcb79c61dc2430e8 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Definition=
+
+From http://en.wikipedia.org/wiki/Business_model
+
+''A business model describes the rationale  of how an organization creates, delivers, and captures value[1]  - economic, social, or other forms of value. The process of business model design is part of business strategy.''
+
+
+=More Information=
+
+See also: [[Comparison of Business Models]]
+
+
+
+[[Category:Business_Models]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

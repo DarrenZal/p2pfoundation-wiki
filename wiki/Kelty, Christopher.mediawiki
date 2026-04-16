@@ -1,1 +1,28 @@
 #REDIRECT [[Christopher Kelty]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.091247Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-0f874235011e7f666eddf653671959362b032313af379b91f9130aef8df04469 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+= researcher on [[Free Software]] issues, author of [[Two Bits]]
+
+
+=Bio=
+
+"I am a cultural anthropologist/historian trained in science studies and currently working at UCLA in the department of Information studies and the Center for Society and Genetics. My book Two Bits (http://twobits.net/) is about Free Software.  Much of the theoretical work revolves around the concept of the "recursive public," which was my attempt to think about the distinctiveness of Free Software amongst all the other things taking place on and through the Internet.  The book is both intended to clarify what Free Software is and how it works, and to be used as a kind of "diagonostic" tool for looking at other phenomena claiming to be open, free, social, peer to peer, or otherwise interneterrific."
+(IDC mailing list, June 2009)
+
+
+=More Information=
+
+Listen or watch:
+
+#[[Christopher Kelty on Free Software as Culture]] 
+#[[Christopher Kelty on the Culture of Free Software]] 
+
+
+[[Category:Bios]]
+
+[[Category:Research]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

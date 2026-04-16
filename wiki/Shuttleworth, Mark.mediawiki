@@ -1,1 +1,20 @@
 #REDIRECT [[Mark Shuttleworth]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.360723Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-4e23a46994a57581647bcfdfd609d204adeea4e7afb0aca38e1c3a6e1253be25 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= founder of Ubuntu'''
+
+
+=Bio=
+
+"He’s the founder of Canonical, which created Ubuntu Linux. The short version of Shuttleworth’s story is simple: he made a small fortune selling Thawte (which made digital certificates) to VeriSign. He then went through the Russian astronaut training programme and went to space. He came back, and founded Canonical in order to create Ubuntu Linux, which is arguably the most popular and innovative GNU/Linux distribution aimed at end users."
+(http://www.freesoftwaremagazine.com/columns/free_software_heroes_stallman_google_list_inspiring_individuals_who_made_everything_)
+
+
+[[Category:Bios]]
+
+[[Category:Technology]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

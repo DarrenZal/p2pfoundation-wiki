@@ -1,1 +1,26 @@
 #REDIRECT [[Greg Martin]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.155918Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-cc2ed4008e856d02e51ce631877844c082478c59a7598e5dfbd79a64ef0c5d03 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+'''Greg Martin is a a young independent researcher into alternative currencies and their applicaton to online communities.'''
+
+
+=Bio=
+
+"My name is Greg Martin (1979) and I live in Newfoundland, Canada. I have a
+general interest in P2P and open source concepts where they apply to
+education, spirituality, politics, but especially economics. I am interested
+in projects to develop alternative currencies and implement them through
+online communities. My goal is to gather and share information about these
+projects, to network with the people involved and help them network with
+each other."
+
+
+[[Category:Bios]]
+
+[[Category:Research]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

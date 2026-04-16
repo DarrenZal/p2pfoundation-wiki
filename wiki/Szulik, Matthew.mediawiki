@@ -1,1 +1,18 @@
 #REDIRECT [[Matthew Szulik]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.391147Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-c0d486a360911d04cc5ba6ff803cd99a1b447cc1e5383e1522806f6ad3e58c5f -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Bio=
+
+"Matthew Szulik was Red Hat’s CEO after Young, and made the company even stronger. More importantly, Szulik had an historical (and unconfirmed) dinner with Steve Ballmer, Microsoft’s CEO, who tried his best to convince him to enter a compromising patent agreement with Microsoft. Szulik said “no”, although the agreement would have probably been very lucrative for Red Hat. Signing it would have crippled the free software world."
+(http://www.freesoftwaremagazine.com/columns/free_software_heroes_stallman_google_list_inspiring_individuals_who_made_everything_)
+
+
+[[Category:Bios]]
+
+[[Category:Technology]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,27 @@
 #REDIRECT [[Marvin Brown and Smàri McCarthy on Democracy and the Commons]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.157286Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-673334fd7684433cfd93bf17e84b4219e0779d13b014445557dea4d3c1657c63 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video via http://www.youtube.com/watch?v=b-dwEF3dbIA&list=PLiO9RvnsUfkatF08AS-5t1PJSU35khJ3S&index=4
+
+=Description=
+
+"An interview produced by Alain Ambrosi, at the Economics and the Commons Conference  which took place in Berlin from 22 to 24 May 2013. 
+
+Interview conducted by Michel Bauwens with Marvin Brown and Smàri Mc Carthy."
+
+
+=More Information=
+
+This video and the original footage are made available to you by Remix the Commons (http://remixthecommons.org) to document and illustrate the ideas and practices surrounding the commons.
+
+
+[[Category:Democracy]]
+
+[[Category:Commons]]
+
+[[Category:Webcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

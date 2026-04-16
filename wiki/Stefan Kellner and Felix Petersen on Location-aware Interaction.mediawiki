@@ -1,1 +1,15 @@
 #REDIRECT [[Stefan Kellner and Felix Petersen on Location-Aware Interaction]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.381014Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-92274fc81a3cbd9cfce88775423844684852a7a9ea41d62c1bdc6efdf17197e2 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+URL = http://www.dld-conference.com/2006/01/interview_with_felix_petersen.html
+
+
+"Stefan Kellner and Felix Petersen are founders of plazes: a grassroot approach to location-aware interaction, using the local network you are connected to as location reference. Plazes allows you to share your location with the people you know and to discover people and plazes around you. It's the navigation system for your social life and it's absolutely free."
+
+[[Category:Podcasts]]
+
+[[Category:Geography]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

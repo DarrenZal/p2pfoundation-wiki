@@ -1,1 +1,21 @@
 #REDIRECT [[Prashant Iyengar]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.077286Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-05de1936ccd3fa062ca35db64ace4192e7903925012d43f5cbbbefcef5469722 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= Indian open IP activist and [[Commons]] researcher'''
+
+
+=Bio=
+
+"Prashant Iyengar, Bangalore, India, is a Technology/IP lawyer, academic and a new media activist based in India. He runs a free database of Indian Supreme Court cases (OpenJudis), and is currently a researcher with the Alternative Law Forum, Bangalore. He has also previously (2006-07) been an International Policy Fellow with the Open Society Institute."
+(http://gemeingut.wikidot.com/future-of-the-commons)
+
+
+[[Category:Bios]]
+
+[[Category:Commons]]
+
+[[Category:IP]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

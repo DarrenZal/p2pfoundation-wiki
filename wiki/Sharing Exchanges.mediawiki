@@ -1,1 +1,30 @@
 #REDIRECT [[Interviews with Pioneers of Sharing Exchanges]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.357898Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-92adae089b95890df7c69a4da979e9c1d6cd96fcf808cd313a82203ce2d5b24c -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Directory of short interviews with sharing pioneers via http://www.collaborativeconsumption.com//the-movement/cc-pioneers-and-protagonists_archive.php
+
+
+=Examples=
+
+Hans Schoenburg, co-founder of GiftFlow
+
+Meriel Lenfestey, Co-founder of Ecomodo
+
+Steve Sammartino, Founder of rentoid.com
+
+Micki Krimmel, Founder of NeighborGoods
+
+Shelby Clark, Founder of RelayRides
+
+James Reinhart, Founder of thredUp
+
+
+[[Category:Sharing]]
+
+[[Category:Interviews]]
+
+[[Category:Collaborative Economy]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

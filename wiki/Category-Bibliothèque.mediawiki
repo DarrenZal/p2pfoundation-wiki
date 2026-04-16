@@ -1,1 +1,10 @@
 #REDIRECT [[:Category:Bibliographie]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.800700Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-53188b0b79307ed56b58f0e933b32822fd22a3e343397388e1b6d513978eba3b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''Voir aussi la page [[Bibliographie Francophone]]'''
+
+[[Category:French]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

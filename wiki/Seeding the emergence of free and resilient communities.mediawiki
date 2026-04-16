@@ -1,1 +1,21 @@
 #REDIRECT [[Seeding the Emergence of Free and Resilient Communities]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.352146Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-756453cc6c3fb6b9c26152515dc641646d71e0415ed635a9c6bd3a9fb04682b4 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Discussion=
+
+"Here are some ideas I'd love to explore in a ContactCon discussion on this topic --
+
+*[http://MiiU.org/wiki/Charity Charity] - challenge offers to spread local reforms/land grant endowments
+*[http://www.slideshare.net/openworld/social-networks-and-free-communities Social networks as catalysts] for creation of free and resilient communities 
+*[http://is.gd/openworldgame Open World Game] - a virtual game for online groups to map out [http://is.gd/Crowdmoves Crowdmoves] and establish new intentional communities
+*[http://miiu.org/wiki/Soft_Power Soft Power] - how a P2P network of free communities might spread 
+
+Background on these ideas at [http://MiiU.org/wiki/openworld under Openworld profile] (see "favorite sites"...) -- look forward to meeting you and discussing at ContactCon!" -- [[Openworld]]
+
+[[Category:Conferences]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

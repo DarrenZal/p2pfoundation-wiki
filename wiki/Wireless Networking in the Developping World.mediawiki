@@ -1,1 +1,26 @@
 #REDIRECT [[Wireless Networking in the Developing World]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.496040Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-edc251f75c150ec2f62088f5b6e4b2da80e459b9bcca8e322de790e699f5689d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''Book: Wireless Networking in the Developing World. 2006'''
+
+URL = http://wndw.net/
+
+
+=Description=
+
+"The massive popularity of wireless networking has caused equipment costs to continually plummet, while equipment capabilities continue to increase. By applying this technology in areas that are badly in need of critical communications infrastructure, more people can be brought online than ever before, in less time, for very little cost. We hope to not only convince you that this is possible, but also show how we have made such networks work, and to give you the information and tools you need to start a network project in your local community."
+
+
+=More Information=
+
+The sister book to "Wireless Networking in the Developing World," called "[[How To Accelerate Your Internet]]", is also available under a Creative Commons license at http://bwmo.net.
+
+
+
+[[Category:Technology]]
+
+[[Category:Books]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

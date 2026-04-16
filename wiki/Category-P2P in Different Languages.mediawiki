@@ -1,1 +1,8 @@
-#REDIRECT[[:Category:Languages]]
+#REDIRECT [[:Category:Languages]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.803994Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-e711b5feebded90556eb07e9e9aec9601175dc0163c914d77aa36f45fb449b3d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+[[Category:Top Category]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

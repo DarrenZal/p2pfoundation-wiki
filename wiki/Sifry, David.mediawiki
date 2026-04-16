@@ -1,1 +1,16 @@
 #REDIRECT [[David Sifry]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.361655Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-469dcee783992a97a0e0bf5f7a526aecda3c462f9298a86bf3d6f9957c42a5cd -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+= founder of [[Technorati]]
+
+Listen to [[David Sifry on Technorati]]
+
+Picture at http://flickr.com/photos/joi/525717308/
+
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

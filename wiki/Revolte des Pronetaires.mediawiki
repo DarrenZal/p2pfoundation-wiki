@@ -1,1 +1,29 @@
 #REDIRECT [[La révolte des pronétaires]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.333012Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-dc1a8519e013671fddee265a548943ad4e070dd1cb954107f9c6f506ec774288 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''La Révolte des Pronétaires. Joel de Rosnay et Carlo Revelli. Fayard, 2005'''
+
+
+Voir : http://www.pronetaire.com/
+
+
+=Description=
+
+
+Joël de Rosnay . J'ai créé le terme de "pronétaire" à partir de ceux qui sont pour et sur le Net. Et par référence aux prolétaires. Le modèle industriel traditionnel a conféré le pouvoir aux puissants par la centralisation des moyens de production et de distribution. Ils ont ensuite cherché à transposer ce modèle à la société de l'information. Or, la création collaborative et la distribution d'informations de personne à personne confèrent de nouveaux pouvoirs aux utilisateurs, jadis relégués au rang de simples "consommateurs". Ce nouveau pouvoir civil, cette démocratie de la communication et de la participation, s'appuie sur ce que j'appelle les "médias des masses".
+(http://www.pronetaire.com/2006/06/la_rvolte_des_p.html)
+
+
+=More Information=
+
+[http://nextmodernitylibrary.blogspirit.com/archive/2006/01/18/la-revolte-du-pronetariat.html Interview des auteurs]
+
+
+
+[[Category:French]]
+[[Category:Bibliographie]]
+[[Category:French-Books]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

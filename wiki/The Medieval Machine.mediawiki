@@ -1,1 +1,11 @@
 #REDIRECT [[Medieval Machine]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.406472Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-9c90eed9f50c6e8e36ab926a61eca828e06cfc96f33c28f901fa0c5cf77f3d1f -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+See the book: The Medieval Machine: The [[Industrial Revolution of the Middle Ages]] by [[Jean Gimpel]]
+
+[[Category:Books]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

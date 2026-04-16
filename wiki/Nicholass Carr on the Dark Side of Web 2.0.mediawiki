@@ -1,1 +1,17 @@
 #REDIRECT [[Nicholas Carr on the Dark Side of Web 2.0]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.199362Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-074849be2e6dda4ee43851b30dcd2c3fd3570463daa8ceb8e616475f47e381d6 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+URL = http://conversationhub.com/2007/05/15/nicholas-carr-interview/
+
+=Description=
+
+"With his popular blog, Rough Type, and his best-seller, Does IT Matter?, Nicholas Carr has established himself as perhaps the leading skeptic of “peer production”, social media, and other business extensions of the web 2.0 wave. Yet he’s far from a Luddite. In fact, when I first met him, as the editor of my Harvard Business Review article on syndication as a model for e-business, he was technology optimist. He still is. He just has a strong, well-thought-out perspective on where technology actually adds value for business… and where we’ve been misled by hype and the narrow experiences of small communities.
+
+In our conversation, Nick explains his views on the dark side of web 2.0, and on the future of information technology."
+
+[[Category:Podcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

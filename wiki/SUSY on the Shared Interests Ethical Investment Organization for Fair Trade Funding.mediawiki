@@ -1,1 +1,23 @@
 #REDIRECT [[SUSY on the Shared Interest Ethical Investment Organization for Fair Trade Funding]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.343401Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-cf50cedcfcd394d2833b3d7c581284d2dcff00e130e4e90e1d502e43f168363b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video via https://www.youtube.com/watch?v=LkJHyPZtCuc
+
+=Description=
+
+"This video by Cooperative College shows Shared Interest, a social enterprise based in Newcastle that makes loans to fair trade producers around the world through individual investors. These are members who have a say in the way Shared Interest is run and what businesses to fund. Their involvement empowers investors who feel are more than just donors, because they know what their money is used for and can stand for a position in the board and committees."
+
+=More Information=
+
+The European project SUSY is presenting examples of Good Practices in Social and Solidarity Economy around the world. Find out more: solidarityeconomy.eu
+
+[[Category:Peerfunding]]
+
+[[Category:EthicalEconomy]]
+
+[[Category:UK]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

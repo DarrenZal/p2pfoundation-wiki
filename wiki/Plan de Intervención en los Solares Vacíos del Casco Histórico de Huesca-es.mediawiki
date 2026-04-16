@@ -1,1 +1,29 @@
 #REDIRECT [[Plan de Intervención en los Solares Vacíos del Casco Histórico de Huesca]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.267668Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-1154dd8c682d3bf12b7d0aa0de416080face4e39f45368a12e680b1786bf08bd -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''Re-Gen'''
+
+URL = http://regenhu.wordpress.com/
+
+==Description==
+El proyecto consiste en la Intervención en los solares vacíos del Casco Histórico de Huesca. El objetivo es revitalizar la zona a partir de intervenciones puntuales de carácter temporal, mediante un proceso basado en la participación ciudadana y la mínima inversión.
+
+==More Information==
+* Date of information: 2013
+* Contact e-mail: regen.hu@gmail.com
+* Number of participants: &gt;100
+* Start date: 2012/05/31
+* City: Huesca
+* Location: 42.137341, -0.4106209999999919
+* Tags: Intervenciones Urbanas, Participación Ciudadana
+
+[[Category:Urbanism]]
+
+[[Category:Spain]]
+[[Category:Spanish]]
+
+[[Category:Participation]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

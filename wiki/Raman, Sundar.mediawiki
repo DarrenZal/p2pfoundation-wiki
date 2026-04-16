@@ -1,1 +1,35 @@
 #REDIRECT [[Sundar Raman]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.319878Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-75ca126dae970bec417d1eb4e3246c04768409e2a1e85ea6f4a2831fb34843a0 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+Sundar Raman is the producer and interviewer of the recommended series of podcasted interviews from KRUU-FM radio, called [http://kruufm.com/station/archives/4 Open Views].
+
+
+
+=Bio=
+
+See also the profile at http://kruufm.com/user/4
+
+Sundar Raman about his motivations in starting the program:
+
+"After completing a degree in engineering, I spent the next ten years
+working at multiple corporate technology gigs; the last position being
+a Wireless System Architect at UTStarcom. After exposure to the
+amazing world of open source projects I decided to quit the lack
+luster corporate culture and head off to see what other possibilities
+the world might hold - starting in Myanmar and the north-east border
+states in India.
+
+When the opportunity to host a radio show for a new community radio
+station (KRUU) came along, I just HAD to make it about Free Culture.
+Hence  Open Views was born. Now what began as a way to promote the
+ideas of Free and Open Source Stuff has become nothing short of an
+amazing educational experience for me every week."
+
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

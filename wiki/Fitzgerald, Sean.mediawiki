@@ -1,1 +1,13 @@
 #REDIRECT [[Sean Fitzgerald]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.961924Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-74ee3aa86e82e53e9985913be43c9f895e1f02ef527724aba90cea8a2c6af061 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Sean Fitzgerald is an expert on open distributed learning.
+
+His material is avaiable through his Wiki, at http://seanfitz.wikispaces.com/
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,8 @@
 #REDIRECT [[Resource-Based Economics]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.329617Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-c15cdd8c46de1fe36b71e2e7846e03ec6310f88829ff809e13b1bcefd0b996c4 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+See: [[Resource-based Economy]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

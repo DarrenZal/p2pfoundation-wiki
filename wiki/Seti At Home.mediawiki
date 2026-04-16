@@ -1,1 +1,17 @@
 #REDIRECT [[SETI At Home]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.357115Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-80fb0d4fc659def1265d0d3ca3da5b8a2520e8d13c11a76a689d251f118717f4 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+SETI@home
+
+URL = http://setiathome.ssl.berkeley.edu/
+
+=Description=
+
+"SETI@home is a scientific experiment that uses Internet-connected computers in the Search for Extraterrestrial Intelligence (SETI). You can participate by running a free program that downloads and analyzes radio telescope data."
+
+
+[[Category:Science]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

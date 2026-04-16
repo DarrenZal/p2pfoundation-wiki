@@ -1,1 +1,24 @@
 #REDIRECT [[La Casa de las Ideas]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.097676Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-c99a19ea58c4b23f1e8a0af65f785a784ceead2bb96ac97047d79ac0e382c09c -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= Lugar donde se venden productos elaborados por distintas organizaciones de mujeres autónomas'''
+
+==Description==
+
+Tienda donde se venden productos elaborados por distintas organizaciones de mujeres autónomas distribuidas a lo largo de casi todos los departamentos del país. Venden champús, jabones, mieles, mermelada, sandalias, colgantes, aretes, ropa teñida con añil y mucho más.
+
+==More Information==
+* Date of information: 2013
+* Number of participants: 300
+* City: San Salvador
+* Location: 13.706881, -89.20181000000002
+* Topics: Art, Economics, Peerproduction
+
+
+[[Category:El Salvador]]
+[[Category:Spanish]]
+[[Category:Peerproduction]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

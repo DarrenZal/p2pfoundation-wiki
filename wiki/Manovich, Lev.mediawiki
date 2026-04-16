@@ -1,1 +1,16 @@
 #REDIRECT [[Lev Manovich]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.129747Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-e4454240be895d6240c19d58f4e3f4e695228f0088685b358b67509029317fa6 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''Lev Manovich''' 
+
+URL = <www.manovich.net> 
+
+
+is the author of '''The Language of New Media''' (The MIT Press, 2001) which is hailed as "the most suggestive and broad ranging media history since Marshall McLuhan." He is Professor of Visual Arts, University of California, San Diego <visarts.ucsd.edu> and a Director of The Lab for Cultural Analysis at at California Institute for Telecommunications and Information Technology <www.calit2.net>.
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

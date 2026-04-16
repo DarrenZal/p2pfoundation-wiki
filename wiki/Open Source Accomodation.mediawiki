@@ -1,1 +1,23 @@
 #REDIRECT [[Open Source Accommodation]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.219501Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-88249804023f2193baee03d8c95d764eee6381e506e80a077aa8814e545b182e -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+See: http://www.bewelcome.org/
+
+=Discussion=
+
+[[Sam Muirhead]]:
+
+"What to do about open source accommodation? We stayed with kind and generous locals via free hospitality exchange: [[Be Welcome]] is the open source option, non-profit, democratic and transparent– Couchsurfing is none of these, but it has the biggest user share."
+(http://www.shareable.net/blog/how-public-is-your-transport)
+
+
+[[Category:Open]]
+
+[[Category:Transportation]]
+
+[[Category:Sharing]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,17 @@
 #REDIRECT [[Michael Hart]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.034852Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-c88f8f48b1baa0c1577d170a6f3abe2d817c8d128163000d06906c4834fd79c2 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+Michael Hart, the founder of Project Gutenberg.  
+
+Project Gutenberg is a volunteer effort to digitise, archive, and distribute cultural works, primarily the full texts of public domain books. Founded in 1971, it is the oldest digital library in the world, and currently offers 17,000 freely downloadable e-texts.
+
+Interview about the history and evolution of the project, here at
+http://poynder.blogspot.com/2006/03/interview-with-michael-hart.html
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

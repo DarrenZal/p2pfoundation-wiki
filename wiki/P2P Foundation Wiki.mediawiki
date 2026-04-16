@@ -1,1 +1,9 @@
 #REDIRECT [[:Category:P2P Foundation Wiki]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.240618Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-8b82758712353d32f59f8018828249bd84ae3b95961d5c854914e1092b3b715d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+[[Category:Working with the P2P Foundation]]
+[[Category:P2P Foundation Publishing]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

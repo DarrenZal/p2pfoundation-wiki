@@ -1,1 +1,16 @@
 #REDIRECT [[Alertux]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.753677Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-9173b634892274f4928e49acd4d4359abd5a93d86825ffd03f4dd59565dbbfba -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+= Alertux es un sistema de autoprotección ciudadana de El Salvador que le permite a los ciudadanos alertarse entre sí en tiempo real.
+
+URL = http://www.alertux.com/
+
+Alertux utiliza Twitter para recibir denuncias de sus ciudadanos en tiempo real, y las mapea utilizando tecnología de geolocalización, generando reportes sobre crímenes y eventos sociales. 
+
+[[Category:El Salvador]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,21 @@
 #REDIRECT [[Debal Deb on Beyond Developmentality towards the Zero Growth Economy]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.903202Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-16c9659731acac917ac740e34c9e91df11eeb795be6740804311c306796220f2 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+''' - In his book Beyond Developmentality, Dr. Deb critiques mainstream economic priorities; calls into question many assumptions about the natural world; describes how traditional indigenous societies have interacted with nature; and calls for a zero-growth economy.'''
+
+Podcast via http://atg.kpfa.org/program/327/id/280339/wed-7-14-10-ecological-economics
+
+
+[[Category:Podcasts]]
+
+[[Category:Business]]
+
+[[Category:Ecology]]
+
+[[Category:Post-Growth]]
+
+[[Category:Economics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

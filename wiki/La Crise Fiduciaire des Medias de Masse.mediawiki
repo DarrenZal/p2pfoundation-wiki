@@ -1,1 +1,16 @@
 #REDIRECT [[La crise fiduciaire des médias de masse]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.098015Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-0c7d8e725e0c867885595575d8ac46df42a0566056951695783cb25097c48c8b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Jean-Louis Weissberg. « La crise fiduciaire des medias de masse. Je crois parce que j’experimente. »  Multitudes 21, http://www.multitudes.net/La-crise-fiduciaire-des-medias-de/
+
+I particularly recommend the above essay, an extended meditation on the crisis of trust affecting institutional media, and the epistemological characteristics of the new situation.
+
+It's part of a special issue of the French journal Multitudes on the topic of subjectivation in the postmedia age
+
+[[Category:French]]
+
+[[Category:Bibliographie]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,15 @@
 #REDIRECT [[Steven Roberts on Open Science Action]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.382226Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-f7db8fdf2ddadf3f76d4055dcbd176177a213539cc0b92b4c6b885de8af517ed -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= Steven Roberts An Open Scientist in Action'''
+
+URL = Podcast interview via https://soundcloud.com/hackyourphd/hyphdus-steven-roberts-opennotebook
+
+
+[[Category:Podcasts]]
+
+[[Category:Science]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

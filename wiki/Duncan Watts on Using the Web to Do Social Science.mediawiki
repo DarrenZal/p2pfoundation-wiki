@@ -1,1 +1,21 @@
 #REDIRECT [[Duncan Watts on Using the Web To Do Social Science]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.921077Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-fa2d0b01d48aa20e40d26be97b8d02920231ae4ca96050c4aaf0cf4d52d7afea -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+'''= Duncan Watts discusses how the Internet is beginning to lift a long-time constraint of social science research on emergent collective behaviour: the difficulty of measuring interactions between people, at scale, over time, while also observing behaviour.'''
+
+Video via http://webcast.oii.ox.ac.uk/?view=Webcast&ID=20091023_301 [http://www.winworkshop.net/ramlnks/win15.ram]
+
+
+[[Category:Webcasts]]
+
+[[Category:Science]]
+
+[[Category:Research]]
+
+[[Category:Relational]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

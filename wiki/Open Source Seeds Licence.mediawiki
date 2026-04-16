@@ -1,1 +1,21 @@
 #REDIRECT [[Open Source Seeds License]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.222428Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-cc0c082a9fc2c3427bafdccda22dfc86d3647f876b2a137bdbe6c875deefcb4d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=More Information=
+
+* in French: http://scinfolex.wordpress.com/2013/05/03/open-source-seeds-licence-une-licence-pour-liberer-les-semences/ ; http://ecoconso.be/Vive-les-semences-libres
+
+* no longer available online ?, see  www.open-seeds.org 
+
+
+[[Category:Agrifood]]
+
+[[Category:Open]]
+
+[[Category:Licensing]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

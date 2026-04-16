@@ -1,1 +1,28 @@
 #REDIRECT [[P2P Foundation Legal and Advisory Boards]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.239213Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-b2bb3f1fbbe955916a7f465fcc907ccf04c10efa12791cceaf9b62e06a6ab143 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+= Legal Board =
+
+As of September 2017, the P2P Foundation's legal board is composed of.
+
+* [[Evi Swinnen]]: Chairwoman
+* [[James Burke]]: Secretary
+* [[Salvino Salvaggio]]: Board member
+* [[Natalie Pang]]: Board member
+
+= Advisory Board =
+
+The '''P2P Foundation Advisory Board''' is a non-legally binding, informal assembly. Potential board members are approached by the Foundation to ascertain their availability and commitment. Their role is designed to be non-intensive and punctual, including 3 yearly online meetings, advice on decision making, conflict resolution, critical analysis, and feedback on the P2PF's strategy and actions. The current members of our Advisory Board are:
+
+* [[Janelle Orsi]]
+* [[Hilary Wainwright]]
+* [[Primavera De Filippi]]
+* [[David Bollier]]
+* [[Alnoor Ladha]]
+* [[Douglas Rushkoff]]
+
+[[category: About the P2P Foundation]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

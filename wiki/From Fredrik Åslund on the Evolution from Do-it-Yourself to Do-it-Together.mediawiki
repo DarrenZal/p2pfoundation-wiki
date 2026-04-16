@@ -1,1 +1,18 @@
 #REDIRECT [[Fredrik Åslund on the Evolution from Do-it-Yourself to Do-it-Together]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.996086Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-4a9f4a27ed132c201bf63d0489a2ec3e64d0c94dd483f07d45d461e1d740c635 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video presentation via http://www.kkh.se/video/Aslund.html
+
+Stockholm April 2013, Commoning the City conference.
+
+
+[[Category:Relational]]
+
+[[Category:Urbanism]]
+
+[[Category:Webcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

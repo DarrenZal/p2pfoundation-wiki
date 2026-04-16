@@ -1,1 +1,17 @@
 #REDIRECT [[Bas Reus]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.330881Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-4b229a310bd8a0a2c9e51048f354f23ef22f73b2fa9e46e926ef05120280e17e -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Currently contributing to [[:Category:Dutch | Dutch-Language]] pages.
+Since March 2007 we started the [http://blognl.p2pfoundation.net/ Dutch P2P Foundation blog].
+
+
+LinkedIn: [http://www.linkedin.com/in/basreus Bas Reus]
+
+Research: [[Customization of the Internet Economy - Dissertation]]
+
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

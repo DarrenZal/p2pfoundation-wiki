@@ -1,1 +1,39 @@
 #REDIRECT [[Doc Searls]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.351359Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-ffdcfaeddb63b3edd1518b29e5cfd495fa8d305afad67e34158442b20eda2639 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Bio=
+
+From the Wikipedia:
+
+Doc Searls is a widely-read weblog and columnist for Linux Journal. He is often credited for originating the quote "Markets are conversations". This quote refers to ideas in the Cluetrain Manifesto which describe how the Internet has forever changed how corporations to their customers.
+
+* Co-author of The cluetrain manifesto
+* Senior Editor for Linux Journal
+* Created [http://projectvrm.org ProjectVRM] (Vendor Relationship Management) in 2006
+
+
+=More Information=
+
+* more extensive bio: http://www.searls.com/dochome.html
+
+* See also the World of Ends, What the Internet Is and How to Stop Mistaking It for Something Else, at http://www.worldofends.com/
+
+* http://doc.weblogs.com/ Doc Searls's blog
+
+* http://www.searls.com/dochome.html Doc Searls's Bio
+
+* http://www.linuxjournal.com/ Linux Journal
+
+[[Category:Bios]]
+
+[[Category:Business]]
+
+[[Category:Standards]]
+
+[[Category:Technology]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

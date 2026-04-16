@@ -1,1 +1,24 @@
 #REDIRECT [[Coopération - Nouvelles Approches]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.878367Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-35c0cc7518ccd7ba546c1539c1e5dae0f56416fbfe8bb1a4251e591ff9120bc9 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+La coopération, nouvelles approches. Jean-Michel Cornu
+
+
+[http://www.cornu.eu.org/news/resume-du-livre-la-cooperation-nouvelles-approches Résumé]
+
+
+[http://www.cornu.eu.org/texts/cooperation Présentation]
+
+
+Ce livre présente quelques réflexions sur la coopération.
+
+
+[[Category:French]]
+[[Category:Bibliographie]]
+[[Category:French-Books]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

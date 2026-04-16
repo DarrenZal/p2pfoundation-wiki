@@ -1,1 +1,11 @@
 #REDIRECT [[Time-Based Scrip]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.419696Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-e0481dcc8b6d5e06545c487ca6f4437184842ff3f495ca04a267ae36e26a37e6 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+See [[Stamp_Scrip]]
+
+[[Category:Money]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

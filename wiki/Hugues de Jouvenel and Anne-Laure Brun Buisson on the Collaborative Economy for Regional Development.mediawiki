@@ -1,1 +1,30 @@
 #REDIRECT [[Hugues de Jouvenel and Rachel Botsman on the Collaborative Economy for Regional Development]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.053576Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-b01af2d8824282d7cfd7b4d35c1f64646e3b3b787118073e84a796072ef896d5 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video via http://www.youtube.com/watch?v=cMkwYOEUz88
+
+
+=Description=
+
+Panel with Hugues de Jouvenel (Futuribles), Rachel Botsman and Michel Bauwens on the polticics and policy of the collaborative economy. In French for the Bordeaux Forum de l'Economie Collaborative.
+
+
+=More Information=
+
+#www.bordeaux-economie-collaborative.org
+#www.facebook.com/BXecocollab
+#www.twitter.com/BXecocollab 
+
+
+[[Category:Webcasts]]
+
+[[Category:Collaborative Economy]]
+
+[[Category:French]]
+
+[[Category:Bibliographie]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

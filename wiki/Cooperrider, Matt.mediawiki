@@ -1,1 +1,14 @@
 #REDIRECT [[Matt Cooperrider]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.880655Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-7d35722ce569acd545760bd5d8a760b6223b6a2cea502bed7b95c6f1871dc649 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+=Bio=
+
+Matt has been experimenting with open projects and open organizing modes since 2007, mostly near his home base in New York City.  Lately, most of his work has been focused on the [[Open Government]] movement, but his core interest is in collaboration generally and how that can be supported by new tools and processes that are made possible by new technologies.  An up-to-date bio is available on [http://mattcoop.com mattcoop.com].
+
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

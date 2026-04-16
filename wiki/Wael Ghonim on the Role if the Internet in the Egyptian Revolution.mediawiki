@@ -1,1 +1,19 @@
 #REDIRECT [[Wael Ghonim on the Role of the Internet in the Egyptian Revolution]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.481223Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-1b62c6269ef72df8aa089ab3100c5717569c308cb302513112dfdf20f81215ee -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= without the internet, this revolution would NOT have happened, says Ghonim. Long interview by CBS.'''
+
+ 
+Video via http://www.cbsnews.com/video/watch/?id=7346812n
+
+
+[[Category:Webcasts]]
+
+[[Category:Politics]]
+
+[[Category:Egypt]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

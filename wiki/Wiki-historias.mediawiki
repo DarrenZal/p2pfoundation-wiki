@@ -1,1 +1,27 @@
 #REDIRECT [[Wiki-Historias]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.491864Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-576eb6e22b8fd0ab09cde17de7f249febe40f1cf669d8c4257709a53b3283fc5 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''=Historias del arte en el ámbito vasco contadas por artistas y mediadoras'''
+
+URL = http://www.wiki-historias.org
+
+==Description==
+Proyecto de construcción colectiva de historias del arte en el ámbito vasco de boca de las propias artistas y agentes culturales que formamos parte de él.
+
+==More Information==
+* Contact's person e-mail=wikihistorias@gmail.com
+* Start date=2008/09/11
+* City=Bilbao
+* Location=43.257884597350035, -2.9256463050842285
+* Topics=Art
+* Types=Movements
+* Formats=Articles, Interviews, Webcasts
+* Categories/Tags=feminismo, historia, arte, contexto vasco
+
+[[Category:Spanish]]
+[[Category:Spain]]
+[[Category:Art]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

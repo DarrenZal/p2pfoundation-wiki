@@ -1,1 +1,28 @@
 #REDIRECT [[James Pike on Equity Partnerships for Non Debt–Based Financing]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.080126Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-b0eeda6edbdc421b4bfe6f50da839c92628917e6c1cb83bc28d9909cd3e03572 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= James Pike - Equity Partnership; exploring non debt–based ﬁnancing for building development in the downturn.'''
+
+Video via http://vimeo.com/5699670
+
+
+=Description=
+
+
+Recorded on day two of The New Emergency Conference: Managing Risk and Building Resilience in a Resource Constrained World. Held on 10-12 June 2009, All Hallows College, Drumcondra, Dublin 9, Ireland, newemergency.org
+
+This conference was organised by Feasta, the Foundation for the Economics of Sustainability, feasta.org
+
+
+[[Category:Webcasts]]
+
+[[Category:Money]]
+
+[[Category:Peerfunding]]
+
+[[Category:Policy]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

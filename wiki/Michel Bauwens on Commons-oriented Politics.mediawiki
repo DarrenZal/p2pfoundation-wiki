@@ -1,1 +1,15 @@
 #REDIRECT [[Michel Bauwens on Commons-Oriented Politics]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.171838Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-6d08e0988a1c268c04026d12b57767cb9dc911e1f0682a6e718c6b562a9d0301 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+Part of the panel on [[Incorporating the Commons in the New Socialist Agendas]]
+
+URL = http://www.re-public.gr/en/podcasts/?p=17
+
+
+[[Category:Podcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

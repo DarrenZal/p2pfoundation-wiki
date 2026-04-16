@@ -1,1 +1,14 @@
 #REDIRECT [[European CLT Partnership SHICC]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.945719Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-bc188be559b96cfce5d71e6aa8f611d3e73acf8b99e4ba70235b6e910baae5a9 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+see: the  [[Sustainable Housing for Cohesive Communities]], sets itself the goal of building a powerful CLT sector in Europe.
+
+[[Category:Housing]]
+[[Category:Europe]]
+[[Category:Commons Policy]]
+[[Category:Urban Commons]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

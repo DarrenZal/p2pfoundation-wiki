@@ -1,1 +1,21 @@
 #REDIRECT [[Heike Löschmann]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.037619Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-0e22a51aa4ec16cc82c973d0f5fc28048a7bdc5239e02672d5a7b4bd52ea71c2 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+=Bios=
+
+"“Heike Löschmann, a social anthropologist, lived and worked for 14 years in South East Asia. Her access to the politics of the commons is the result of this field experience, where she was exposed to the misgivings of international development and unfair trade policies and the resulting struggles of people for self-reliance and subsistence, community based resource management, fair trade and gender justice. In her current position as head of department for International Politics of the Heinrich Böll Foundation, she is the lead person for the Foundation´s programmatic work on the Commons.”
+ 
+
+
+[[Category:Bios]]
+
+[[Category:Germany]]
+
+[[Category:ECC2013 Participants]]
+
+[[Category:Commons]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

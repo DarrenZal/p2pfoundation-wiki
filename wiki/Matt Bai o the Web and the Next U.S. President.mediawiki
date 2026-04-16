@@ -1,1 +1,29 @@
 #REDIRECT [[Matt Bai on the Web and the Next U.S. President]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.161598Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-bbf02509b43c1b70c17ced70827d717f347afc365c6d0530ac2a532e9867b7cd -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+Video via http://fora.tv/2008/06/23/Matt_Bai_The_Web_and_the_Next_US_President
+
+
+=Description=
+
+"The Sydney Institute, Sydney, Australia, Jun 23rd, 2008:
+
+New York Times magazine journalist Matt Bai was in Australia recently, on a break from covering the US presidential race.
+
+In an address to the Sydney Institute, he talks about the profound impact of the internet on American politics.
+
+Matt Bai has written extensively about American politics, and his recent book, Billionaires, Bloggers and the Battle to Remake Democratic Politics is a look at the state of contemporary Democratic party politics in the U.S.
+
+In this talk, he offers some insights into the Democratic primaries race, and argues that the November election will offer a pretty good choice for voters."
+(http://fora.tv/2008/06/23/Matt_Bai_The_Web_and_the_Next_US_President)
+
+
+[[Category:Webcasts]]
+
+[[Category:Politics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

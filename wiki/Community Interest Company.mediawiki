@@ -1,1 +1,22 @@
 #REDIRECT [[Community Interest Companies]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.869043Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-c4133f64cc756a58f8f93b289f7db6b83c6cf38d3e0a7fd5e493ac60a89e702b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= UK legal form for nonprofit activities'''
+
+URL = http://www.cicregulator.gov.uk/
+
+==Description==
+
+"Community Interest Companies (CICS) are limited companies, with special additional features, created for the use of people who want to conduct a business or other activity for community benefit, and not purely for private advantage. This is achieved by a "community interest test" and "asset lock", which ensure that the CIC is established for community purposes and the assets and profits are dedicated to these purposes. Registration of a company as a CIC has to be approved by the Regulator who also has a continuing monitoring and enforcement role."
+<br />(http://www.cicregulator.gov.uk/)
+
+==More Information==
+
+* intro video via https://www.youtube.com/watch?v=8n-orUfrots
+
+[[Category:Governance]]
+[[Category:Open Company Formats]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

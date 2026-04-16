@@ -1,1 +1,5 @@
 #REDIRECT [[Commons-Based Peer Production]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.794298Z -->
+<!-- resolution-status: cycle_detected -->
+<!-- resolution-notes: cycle: Commons-Based Peer Production → Commons-Based Peer Production -->

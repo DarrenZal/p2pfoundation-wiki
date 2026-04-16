@@ -1,1 +1,20 @@
 #REDIRECT [[Andrew Turner]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.451865Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-1d69b8102395a1d25e7b99d10e19e76246104672bd0d156171392552be26ac2f -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Bio=
+
+" I'm a neogeographer involved in helping build the geospatial web. My startup is Mapufacture, where we're building a system that makes it easy for people to build and share collaborative maps and customize their slice of the GeoWeb. 
+
+I also develop a number of other open-source tools such as GeoPress, Mapstraction, and I also wrote the book "[[Introduction to Neogeography]]" for O'Reilly."
+(http://highearthorbit.com/)
+
+
+[[Category:Geography]]
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

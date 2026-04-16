@@ -1,1 +1,5 @@
 #REDIRECT [[NRP-CAS]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.191184Z -->
+<!-- resolution-status: cycle_detected -->
+<!-- resolution-notes: cycle: NRP-CAS → Network Resource Planning → Network Resource Planning -->

@@ -1,1 +1,22 @@
 #REDIRECT [[Internet and the Democratization of the Public Sphere]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.069554Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-355005a4217296032e0330e1858305459542cde1ef946efec201fec8d13d08d8 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''Democratization and the Networked Public Sphere with Danah Boyd, Ethan Zuckerman and Trebor Scholz'''.
+
+URL = http://fora.tv/2007/04/13/Democratization_and_the_Public_Sphere
+
+=Description=
+
+"Over the past ten years the public spheres have been dramatically expanded by participatory Web-based technologies. As part of its series on The Public Domain, the Vera List Center for Art and Politics at The New School presents a panel discussion to investigate the democratizing potential of the Internet.
+
+The speakers examine the political participation of citizens who contribute news reports to weblogs and wikis, knowledge repositories such as the free online encyclopedia Wikipedia or the open source software archive Freshmeat, Web-based platforms for artistic expression, and mobile wireless devices that allow for political participation such as the organization of protests."
+(http://fora.tv/2007/04/13/Democratization_and_the_Public_Sphere)
+
+
+[[Category:Webcasts]]
+
+[[Category:Politics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

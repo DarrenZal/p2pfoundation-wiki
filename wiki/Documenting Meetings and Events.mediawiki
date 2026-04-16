@@ -1,1 +1,38 @@
 #REDIRECT [[Documenting OWS Meetings and Events]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.915282Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-3fc31481d4303213530630d6c7a41ec1eab536684a2fec48ad6af14aaaf5fe7d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+OWS MEETING MINUTES TEMPLATE- **Please file paper copy at info desk** (Electronic copies can be posted to NYCGA.net or emailed to owsminutes@gmail.com)
+
+*Basic Info
+**Working Group Name:	
+**Meeting Date/Time:	
+**Location:	
+**Meeting Number:	
+**Attendees (optional):	
+
+*Overview
+**Announcements:	
+**Report Backs:(Use [MTG #].[ITEM #])	
+**Agenda Items
+**Action Items
+
+*Agenda	Items
+**AGENDA ITEM: [MTG #].[ITEM #]	
+**DISCUSSION
+**PROPOSAL
+**CLARIFYING QUESTIONS: 	
+**CONSENSUS TEST:(Outcome Options- A:Achieved; B:Enough to address concerns; C:Tabled)
+***If B, then address CONCERN(S): 
+***MODIFIED PROPOSAL: 
+***CONSENSUS TEST:(Outcome Options- A:Achieved; B: Blocked; C:Tabled)
+****If B, then address BLOCK(S): 	
+****MODIFIED PROPOSAL: 
+****CONSENSUS TEST:	 (Outcome Options- A:Achieved; B:Tabled)
+**ACTION ITEM(S)
+
+
+[[Category: OccupyWallStreet]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

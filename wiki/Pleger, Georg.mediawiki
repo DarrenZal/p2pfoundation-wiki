@@ -1,1 +1,19 @@
 #REDIRECT [[Georg Pleger]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.268646Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-8219f8114b9b36f7c3cb758354b57d0dacd6e79c485b3225480c2cd1bb284538 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Georg Pleger (born 1967) is public project lead of [http://creativecommons.at Creative Commons Austria] and coordinator of [http://www.stunde.at Tiroler Stunde], a [[Complementary Currency Initiatives|Complementary Currency Initiative]] encouraging the production of [[Commons]].
+
+Member of the free software cooperative [[OS_Alliance|osAlliance]].
+
+My theoretical interests: 
+* complementary currency theory and P2P-theory 
+* understanding P2P and complementary currencies in an integral framework
+
+
+[[Category:Bios]]
+
+[[Category:Money]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

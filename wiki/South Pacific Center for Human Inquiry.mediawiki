@@ -1,1 +1,15 @@
 #REDIRECT [[South Pacific Centre for Human Inquiry]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.374110Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-fd019f0f085afb3012d6851b2ea6aad629732a0a0cc6deb38d9d1ad35062c500 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+URL = http://www.human-inquiry.com/homebase.htm
+
+This New Zealand-based centre is one of the pioneering institutions for inquiry into the emergence and development for models of relational and non-authoritarian spirituality.
+
+John Heron is the author of the book [[Sacred Science]], developed a 'Cooperative Inquiry' model of human and spiritual research, and the site is rich with texts and resources on the topic.
+
+[[Category:Movements]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,24 @@
-#redirect [[Mobile Phones and Development]]
+#REDIRECT [[Mobile Phones and Development]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.178627Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-90d2f71d0aa0490b8656b30b823eb449f06d378aa473bf940d1e84bba456084a -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''IFAD Productions that highlight the role of mobile phones and internet for development.'''
+
+
+URL = http://www.ifad.org/media/video/index.htm
+
+
+=Video 1: Look Who’s Talking=
+
+"In many parts of the developing world, mobile phones are no longer a luxury. They are an essential business tool. This short IFAD video looks at the ways in which poor farmers in Babati District in Northern Tanzania are using mobile phones to improve their income."
+
+
+=Video 2: The First Mile= 	
+
+"Good communication is vital to small farmers who need better access to markets and to reliable information about prices, product quality and market conditions. Can new information and communication technologies, such as mobile phones and the Internet, help? This IFAD video looks at the First Mile – an innovative two-year pilot project underway in Tanzania."
+
+
+[[Category:Webcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

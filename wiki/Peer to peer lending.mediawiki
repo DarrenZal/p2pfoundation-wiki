@@ -1,1 +1,5 @@
 #REDIRECT [[P2P Lending]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.257150Z -->
+<!-- resolution-status: cycle_detected -->
+<!-- resolution-notes: cycle: P2P Lending → P2P Lending -->

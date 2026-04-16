@@ -1,1 +1,42 @@
 #REDIRECT [[Maurizio Lazzarato]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.103904Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-fd69f6efad1a28bfb7fa0dbaadf9405b28d4ffbe529ca031ecf1cb79ef76a293 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+URL = [http://www.thetransitioner.org/ic]
+
+'''Maurizio Lazzarato''' is a philosopher, expert on Gabriel Tarde, co-founder of the magazine [[Multitudes]], who has been specializing in the analysis of cognitive capitalism, and its discontents, hence his work on the P2P-concept of Multitudes, the coordination format in political and economic resistance, etc.. His work is historically situated in the Italian movement of 'autonomous Marxism'.
+
+
+----
+To merge:
+
+Short French-language profile with links to his books at [1] 
+Some of his writings are located here: 
+Struggle, Event, Media: http://info.interactivist.net/article.pl?sid=04/03/08/1253213&mode=nested&tid=22 
+
+European Cultural Tradition and the New Forms of Production and Circulation of Knowledge: http://www.moneynations.ch/topics/euroland/text/lazzarato.htm 
+
+Multitude and Working class: Maurizio Lazzarato interviews Paolo Virno http://www.generation-online.org/t/multitudeworkingclass.htm 
+
+General Intellect: Towards an Inquiry into Immaterial Labour http://www.emery.archive.mcmail.com/public_html/immaterial/lazzarat.html 
+From Biopower to Biopolitics (pdf file) http://www.goldsmiths.ac.uk/csisp/papers/lazzarato_biopolitics.pdf 
+
+Maurizio Lazzarato: Dialogism and Poliphony http://www.goldsmiths.ac.uk/csisp/papers/lazzarato_dialogism.pdf 
+
+----
+
+
+Short French-language profile with links to his books at [http://multitudes.samizdat.net/auteur.php3?id_auteur=6] 
+
+Some of his writings are located here:
+* [http://info.interactivist.net/article.pl?sid=04/03/08/1253213&mode=nested&tid=22 Struggle, Event, Media]
+* [http://www.moneynations.ch/topics/euroland/text/lazzarato.htm European Cultural Tradition and the New Forms of Production and Circulation of Knowledge]
+* [http://www.generation-online.org/t/multitudeworkingclass.htm Multitude and Working class: Maurizio Lazzarato interviews Paolo Virno]
+* [http://www.emery.archive.mcmail.com/public_html/immaterial/lazzarat.html General Intellect: Towards an Inquiry into Immaterial Labour]
+* [http://www.goldsmiths.ac.uk/csisp/papers/lazzarato_biopolitics.pdf From Biopower to Biopolitics (pdf file)]
+* [http://www.goldsmiths.ac.uk/csisp/papers/lazzarato_dialogism.pdf Maurizio Lazzarato: Dialogism and Poliphony]
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

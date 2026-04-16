@@ -1,1 +1,27 @@
 #REDIRECT [[Thomas Greco on the Credit Commons]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.417150Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-56fbcb930937a67066587febe43a5ca8bb83efd20367effc1f7185b31bfa0460 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+=Interview=
+
+New Dimensions interview and conversation with [[Thomas Greco]] on the topic of the [[Credit Commons]], via http://www.newdimensions.org/cafe/C0108/thomas-h-greco-jr-towards-a-credit-commons/
+
+MP3 download via http://www.newdimensions.org/data/podcast/cafe/C0108-Thomas_Greco.mp3
+
+
+=Video=
+
+Presentation, 'Reclaiming the [[Credit Commons]]', via https://www.youtube.com/watch?v=k8EyOxAw75I
+
+"A presentation by Thomas H. Greco, Jr. introducing the concept of the "credit commons" at the International Commons Conference: Constructing a Commons Based Policy Platform Economy, sponsored by the Heinrich Böll Foundation, Berlin, Germany, November 1, 2010."
+
+[[Category:Money]]
+[[Category:Commons]]
+[[Category:Interviews]]
+[[Category:Podcasts]]
+[[Category:Webcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

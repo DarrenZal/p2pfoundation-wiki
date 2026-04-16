@@ -1,1 +1,20 @@
 #REDIRECT [[Julian Kücklich]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.096413Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-65d85ddfa8f5a425385121ec4f1283fcbaaea5b302f2c60247615da5329ef767 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+=Bio=
+
+"Julian Kücklich teaches Game Design at Mediadesignhochschule Berlin. He has been doing research on the politics, aesthetics and semiotics of digital games since 2000."
+
+More information on his research can be found at http://playability.de.
+
+
+[[Category:Bios]]
+
+[[Category:Research]]
+
+[[Category:Gaming]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

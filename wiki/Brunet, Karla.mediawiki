@@ -1,1 +1,17 @@
 #REDIRECT [[Karla Brunet]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.790926Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-8718ced7a432f14299896d4a5f51a9a748a97579c3e3dea7bfce4ae2d2f24e56 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Karla Brunet is a young Brazilian researcher covering Brazilian tactical media.
+
+She can be reached at karla@karlabrunet.com and her sites are at
+http://www.karlabrunet.com. 
+
+She has a page in Spanish about
+brazilian tactical media in http://karlabrunet.com/mediatactica/
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,26 @@
 #REDIRECT [[Consumers Cooperative]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.875828Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-0f9ab992f2640532540510b4f4a1100e54d2d49fa60bfee30d1cffd1052082ff -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+=Description=
+
+ 
+From the Wikipedia:
+
+"A consumers' cooperative is a cooperative  business owned by its customers for their mutual benefit. It is a form of free enterprise that is oriented toward service rather than pecuniary profit. Consumers' cooperatives often take the form of retail outlets owned and operated by their consumers.  The customers or consumers of the goods and/or services the cooperative provides are often also the individuals who have provided the capital required to launch or purchase that enterprise.
+
+In some countries, consumers' cooperatives are known as cooperative retail societies or retail co-ops, though they should not be confused with retailers' cooperatives, whose members are retailers rather than consumers."
+(http://en.wikipedia.org/wiki/Consumers%27_cooperative)
+
+
+=More Information=
+
+#Consumer Cooperatives entry at http://jasecon.wik.is/Consumption%2f%2fUse/Consumer_Cooperatives
+
+
+[[Category:Cooperatives]]
+
+[[Category:Business]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

@@ -1,1 +1,15 @@
 #REDIRECT [[Eugene Kolker on Data-Driven and Reproducible Life Sciences Research]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.944526Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-73ceff32bef87fa6b26718e95de58ff98a09b96ac7f740c844ef3e21a27476e8 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+'''= Eugene Kolker on life sciences need to be more data-driven, actionable, and reproducible.'''
+
+URL = Podcast interview via https://soundcloud.com/hackyourphd/hyphdus-eugene-kolker-data-delsa
+
+
+[[Category:Podcasts]]
+
+[[Category:Science]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

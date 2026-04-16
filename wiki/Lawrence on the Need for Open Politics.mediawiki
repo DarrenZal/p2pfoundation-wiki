@@ -1,1 +1,16 @@
 #REDIRECT [[Lawrence Lessig on the Need for Open Politics]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.103379Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-bc770d80497c411a67b367b8d503fbd720432c1f34aaa41306b701cac4f21aa5 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+URL = http://lessig.org/blog/2007/10/corruption_lecture_alpha_versi.html
+
+Lawrence Lessig is embarking on a 10 year drive to fight the corruption 'of' politics. This is the alpha presentation, introducing the topic.
+
+
+[[Category:Politics]]
+
+[[Category:Podcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

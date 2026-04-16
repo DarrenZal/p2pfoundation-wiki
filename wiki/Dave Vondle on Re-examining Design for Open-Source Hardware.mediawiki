@@ -1,1 +1,18 @@
 #REDIRECT [[Dave Vondle on Re-Examining Design for Open-Source Hardware]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.899606Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-5ab8bc53f79a9bfc85933aea012ca2bb2736eac3beb94325c1ca82103b839238 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= Audio files from the Open Hardware Summit at the New York Hall of Science – Sep 23 2010.''' 
+
+Podcast via http://punkcast.com/1795/1795-13/1795-13_ohs_dave_vondle.mp3
+
+
+[[Category:Podcasts]]
+
+[[Category:Design]]
+
+[[Category:Manufacturing]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

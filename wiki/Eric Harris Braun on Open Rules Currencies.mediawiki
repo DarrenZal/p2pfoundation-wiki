@@ -1,1 +1,20 @@
 #REDIRECT [[Eric Harris-Braun on Open Rules Currencies]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.938635Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-e300b4966c67c44e04537109e4268a6da8345ebfe6a761fbd77190a7934db93d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Video at http://vimeo.com/4894192
+
+=More Information=
+
+#[[Open Rules Currencies]]
+#Concept, text, and software under development at http://blog.newcurrencyfrontiers.com/
+#More at [[Open Currency]]:[[Open Transport Currencies]] ; [[Open Identity Currencies]]
+#Videos: [[Arthur Brock on Open Data Currencies]] ; [[Eric Harris-Braun on Open Transport Currencies]]
+
+[[Category:Money]]
+
+[[Category:Webcasts]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

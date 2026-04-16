@@ -1,1 +1,17 @@
 #REDIRECT [[Ann Lam and Elan Ohayon on Achieving Autonomous Sustainable Research in Neuroscience]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.766782Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-93fb6d06d6a6d868d7574691f27172d0655b81bc52d8611e77c35ef442448435 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+= Ann Lam and Elan L. Ohayon of the Green Neuroscience Lab in San Diego discuss neuroscience and an autonomous, sustainable model.
+
+URL = Podcast interview via https://soundcloud.com/hackyourphd/hyphdus-green-neuroscience-lab-research-autonomy
+
+
+[[Category:Science]]
+
+[[Category:Podcasts]]
+
+[[Category:Open Science]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

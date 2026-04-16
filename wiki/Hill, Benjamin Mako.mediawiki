@@ -1,1 +1,32 @@
 #REDIRECT [[Benjamin Mako Hill]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.041852Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-ee0f4e126a72e8991102844ec8ae7016b123e07e3d1dac002f3a64a9de348df9 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''Benjamin Mako Hill is an technology and intellectual property researcher and activist.'''
+
+
+URL =  http://mako.cc/
+
+
+=Bio=
+
+
+Benjamin Mako Hill is an technology and intellectual property
+researcher, activist, and consultant. He is currently working full
+time on research into asynchronous collaboration technologies as a
+graduate researcher at the MIT Media Laboratory in the Electronic
+Publishing Group. He has been an leader, developer, and contributor
+to the Free and Open Source Software (FOSS) community for more than
+a decade as part of the Debian and Ubuntu projects.
+
+
+Benjamin Mako Hill can be contacted at mako@atdot.cc
+
+
+[[Category:Bios]]
+
+[[Category:IP]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

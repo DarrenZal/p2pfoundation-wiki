@@ -1,1 +1,26 @@
 #REDIRECT [[ECC2013/Support Team]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.924092Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-f8cdaed04a5c2fa6e6e4c2f5e9e699efb6ce590a636fe717885d2d1352a5fa68 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+=Support Team=
+
+Alphabetic list:
+
+# [[Daniel Constein]], Master Student, De-growth Economy and Commons, Germany, d.constein at googlemail.com
+# [[Hannes Euler]], student, economy, Germany, lebensweise at gmail.com
+# [[Birte Friebel, Commonopolis]], Commons Summer School, Germany, birte.friebel at web.de
+# [[Mayo Fuster Morell]],  Spain/USA, Mayo.Fuster at EUI.eu
+# [[Brigitte Kratzwald]], social scientist, independent commons activist and author, Austria, [mailto:brigitte.kratzwald@commons.at Mail]
+# [[Giulia Massobrio]], Italy, gmassobrio at gmail.com
+# [[Stefan Meretz]], Commons Theory, blogger, Germany, stefan at meretz.de
+# [[Denis Neumüller]], Psychologist, Summerschool on the Commons, Germany, denis_neumueller at yahoo.de
+# [[Petros At FreeLab]], [[User:FreeLab_Org_PL|FreeLab PL]], https://freelab.org.pl/, [mailto:petros@freelab.org.pl email]
+# [[Sarah Scholz]], Commons Summer School, Germany, Sarah.Scholz at chilp.de
+# [[Frédéric Sultan]], Remix the Commons/ Vecam – also member of organizing team, France, fredericsultan at gmail.com
+# [[Stefan Tuschen]], Germany, stefan at komenz.de
+
+[[Category:Conferences]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

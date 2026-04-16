@@ -1,1 +1,19 @@
 #REDIRECT [[Emilia-Romagna Model]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.933122Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-bd09bf8a5310f69cdb2c43368b40a53df4e921f416412c3050667a790858cc66 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+* See: [[Emilia-Romagna]]
+
+=More Information=
+
+* http://wiki.commonstransition.org/wiki/Emilia-Romagna
+
+[[Category:Italy]]
+
+[[Category:Policy]]
+
+[[Category:Cooperatives]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

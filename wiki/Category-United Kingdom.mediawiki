@@ -1,1 +1,11 @@
-#REDIRECT [[:Category:UK]].
+#REDIRECT [[:Category:UK]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.805191Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-8ecf8d62ea3ab28e2a0247e3e265d4b87c548c94adb311b23b5bf03aa86f8a7b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+For general information see [[United Kingdom]].
+
+[[Category:Europe]]
+[[Category:Country]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

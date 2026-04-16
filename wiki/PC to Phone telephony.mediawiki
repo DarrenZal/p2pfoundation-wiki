@@ -1,1 +1,16 @@
 #REDIRECT [[PC to Phone Telephony]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.248459Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-03439ca2b5ab670af06cbc8f13273ac0d51a906141915b7ba12430e11632b4ca -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+PC to Phone services such as SkypeOut are reviewed by the New York Times, at http://www.nytimes.com/2005/09/01/technology/circuits/01basics.html?; Among the competing services it mentions are : www.gizmoproject.com, www.voicestick.com.
+
+See also: [[P2P Telephony]]
+
+[[Category:Encyclopedia]]
+
+[[Category:Business]]
+
+[[Category:P2P Infrastructure]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

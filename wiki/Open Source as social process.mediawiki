@@ -1,1 +1,21 @@
 #REDIRECT [[Open Source as Social Process]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.223850Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-98eecc5ad1485cc80c3dc54bb0f02c63b9099dc6410d4ec96907c3a6852662bb -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''The peer-reviewed journal First Monday dedicated a special issue to 'open source as a social process'''', at http://www.firstmonday.org/issues/issue9_11/index.html
+
+See in particular: Item1, http://www.firstmonday.org/issues/issue9_11/lehmann/index.html " This paper takes a closer look at FLOSS developers and their projects to find out how they work, what holds them together and how they interact."; Item 2, on accountability in Open Source projects, at http://www.firstmonday.org/issues/issue9_11/david/index.html 
+
+[[Category:Research]]
+
+[[Category:Relational]]
+
+[[Category:Articles]]
+
+[[Category:Open]]
+
+[[Category:Peerproduction]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

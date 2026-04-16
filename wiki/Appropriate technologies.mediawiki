@@ -1,1 +1,5 @@
 #REDIRECT [[Appropriate Technology]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.761476Z -->
+<!-- resolution-status: cycle_detected -->
+<!-- resolution-notes: cycle: Appropriate Technology → Appropriate Technology -->

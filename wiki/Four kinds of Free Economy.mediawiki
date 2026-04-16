@@ -1,1 +1,14 @@
 #REDIRECT [[Four Kinds of Free Economy]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.969255Z -->
+<!-- resolved-hops: api -->
+<!-- target-hash: sha256-12a54b9b7660b85f818ee8e2c8207aa94389c4df2f4d101ff091f0bba8fc4688 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+Graphic from Chris Anderson at http://www.longtail.com/the_long_tail/WindowsLiveWriter/four%20frees_thumb.jpg
+
+Commentary at http://www.longtail.com/the_long_tail/2008/09/revised-the-fou.html
+
+
+[[Category:Graphics]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

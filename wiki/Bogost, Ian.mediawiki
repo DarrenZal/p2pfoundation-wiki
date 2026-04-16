@@ -1,1 +1,23 @@
 #REDIRECT [[Ian Bogost]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.785830Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-d4f69dc57b449e57e5d91184e421543afca8e8e6375b62a2a38b8aa577a35f1d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= focuses on video games for advocacy'''
+
+
+=Bio=
+
+"Dr. Ian Bogost, Assistant Professor of Literature, Communication and Culture at Georgia Institute of Technology, creates political games for educational and campaign use. He is the author of Unit Operations: An Approach to Videogame Criticism (Cambridge, Mass.: MIT Press, 2006) and the forthcoming Persuasive Games: Expressive Power of Videogames (MIT Press)."
+
+Web: http://www.lcc.gatech.edu/~bogost, http://www.watercoolergames.org, http://www.persuasivegames.com
+
+E–mail: ian [dot] bogost [at] lcc [dot] gatech [dot] edu
+
+
+[[Category:Gaming]]
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

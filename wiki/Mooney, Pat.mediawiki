@@ -1,1 +1,22 @@
 #REDIRECT [[Pat Mooney]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.182364Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-2d466428719a0fe63570dfef7952306a7f9707d1d37feb5c0948875c89e50a5d -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= Canadian activist and researcher around the [[Seed Commons]]'''
+
+URL = http://en.wikipedia.org/wiki/Pat_Roy_Mooney
+
+=Bio=
+
+Pat Mooney, a Canadian, is the co-founder and executive director of ETC group -- an international civil society organization headquartered in Canada with offices in Ethiopia, Mexico, Philippines and USA. Pat Mooney has almost half a century of experience working in international civil society, first addressing aid and development issues and then focusing on food, agriculture and commodity trade. He received The Right Livelihood Award (the "Alternative Nobel Prize") in the Swedish Parliament in 1985 and the Pearson Peace Prize from Canada's Governor General in 1998. He has also received the American "Giraffe Award" given to people "who stick their necks out." The author or co-author of several books on the politics of biotechnology and biodiversity, Pat Mooney is widely regarded as an authority on issues of global governance, corporate concentration, and intellectual property monopoly. Since 1977, ETC group has focused on the role of new technologies on the lives and livelihoods of marginalized peoples around the world.
+
+
+[[Category:Commons]]
+
+[[Category:Science]]
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

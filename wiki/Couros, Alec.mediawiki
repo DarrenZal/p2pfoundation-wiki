@@ -1,1 +1,21 @@
 #REDIRECT [[Alec Couros]]
+
+<!-- resolved-at: 2026-04-16T03:53:27.886509Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-641ac77a923dcf6e429a5ea8709276ebae7a772874f8a9e95a1962674e7e9f4b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= Canadian p2p learning practicioner'''
+
+
+=Bio=
+
+"I am heavily involved in a general framework of study that includes three major strands.
+First, my undergraduate teaching is related to the appropriate use of technology in the classroom, and thus, I look to technology as an effective teaching and learning tool. Second, as a general focus, I am very much interested in studying the effects of technology on education, culture and society. With this second strand, I take a broad critical media studies approach and have spent much time looking at issues of web awareness, online safety, digital plagiarism, the use of emerging communication tools (e.g., MSN, chat) and issues related to the ownership of knowledge. Finally, I am a strong believer in the power of democratic media, social networks and openness in education. I believe that digital tools and content should be shared and available freely to all, so I am a strong believer in open source software, open content and open publishing."
+(http://educationaltechnology.ca/couros/bio/short_bio)
+
+
+[[Category:Education]]
+
+[[Category:Bios]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

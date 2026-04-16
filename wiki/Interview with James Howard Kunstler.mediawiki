@@ -1,1 +1,20 @@
 #REDIRECT [[Interview with James Howard Kunstler on the Long Emergency]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.070882Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-3cd62cb43de66729fb38b7434332ab0fdac0b058af733a0d40b4ca71e722273c -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+Interview by Ken Rose for the [[What Now Podcasts]]
+
+Podcast via 
+
+* http://www.pantedmonkey.org/mp3/2010/-What%20Now-%20Podcast%2001-25-10%20James%20Howard%20Kunstler.mp3
+
+* http://www.pantedmonkey.org/podcastgen/download.php?filename=2010-12-22_1200_what_now_james_howard_kunstler.mp3
+
+[[Category:Podcasts]]
+
+[[Category:Energy]]
+
+[[Category:Books]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

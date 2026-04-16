@@ -1,1 +1,19 @@
 #REDIRECT [[Patrick McNamara]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.163568Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-d833a9faa6c89d9dba5c27ac75d38a48d496bd126f0e3cf191c9e8a9ce82c897 -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+'''= President of the [[Open Hardware Foundation]]'''
+
+=Bio=
+
+"Patrick McNamara, President of the [[Open Hardware Foundation]], is a Senior IT System Architect for Texas Instruments specializing in configuration management tools and systems. Prior to joining TI, Patrick held positions as senior CM Admin at Nortel and Sabre, as well as software development positions at Sabre and Raytheon Systems. Patrick graduated with a BS in Computer Systems Engineering from the University of Arkansas in 1997. Patrick has a formal background in system level software and hardware development and has had a strong interest in programming and digital logic design as hobbies since childhood. As a member of the Open Graphics Project, Patrick has provided input on the legacy VGA controller design as well as significant contributions to the video controller block."
+(http://www.osbr.ca/archive.php?issue=10&section=Ar#A4)
+
+
+[[Category:Bios]]
+
+[[Category:Design]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->

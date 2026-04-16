@@ -1,1 +1,22 @@
 #REDIRECT [[Ourmedia Learning Center]]
+
+<!-- resolved-at: 2026-04-16T03:53:28.234268Z -->
+<!-- resolved-hops: 0 -->
+<!-- target-hash: sha256-dd7a57dae60d795bb9d0db0abb24efde1c4f53ac0462357c0e984de66b98327b -->
+<!-- BEGIN INLINED TARGET CONTENT [plan082-8f3a] -->
+
+
+A collection of how-to's for user-created citizens' media.
+
+
+URL = http://www.ourmedia.org/learning-center/
+
+
+[[Category:Technology]]
+
+[[Category:Media]]
+
+[[Category:Resources]]
+
+[[Category:Audiovisual]]
+<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->
