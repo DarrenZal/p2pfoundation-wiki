@@ -3,13 +3,16 @@ Tests for resolve_redirects.py — pure Python, no DB, uses tmpdir fixtures.
 
 Covers: redirect parsing, chain resolution, case-insensitive fallback,
 ambiguous matches, cycle detection, depth exceeded, idempotency,
-encoding errors, section/label stripping, manifest generation, apply, verify.
+encoding errors, section/label stripping, manifest generation, apply, verify,
+--fetch-missing API fallback.
 """
 
 import json
 import os
 import hashlib
+import time
 from pathlib import Path
+from unittest.mock import patch, MagicMock
 
 import pytest
 
@@ -26,6 +29,7 @@ from resolve_redirects import (
     verify_apply,
     build_normalized_content,
     build_status_content,
+    fetch_wiki_content,
     REDIRECT_RE,
     RESOLVED_AT_RE,
     INLINE_BEGIN,
@@ -411,3 +415,155 @@ class TestEncodingError:
         counters = apply_manifest(wiki_dir, manifest_path, branch=None,
                                   force_gates=True)
         assert counters['skipped_status'] == 1
+
+
+# ---------------------------------------------------------------------------
+# --fetch-missing API fallback
+# ---------------------------------------------------------------------------
+
+def _mock_api_response(content: str) -> bytes:
+    """Build a mock MediaWiki API JSON response with the given wikitext."""
+    return json.dumps({
+        'query': {
+            'pages': {
+                '12345': {
+                    'pageid': 12345,
+                    'title': 'Target',
+                    'revisions': [{
+                        'slots': {
+                            'main': {
+                                'contentmodel': 'wikitext',
+                                'contentformat': 'text/x-wiki',
+                                '*': content,
+                            }
+                        }
+                    }]
+                }
+            }
+        }
+    }).encode('utf-8')
+
+
+def _mock_api_missing() -> bytes:
+    """Build a mock MediaWiki API JSON response for a missing page."""
+    return json.dumps({
+        'query': {
+            'pages': {
+                '-1': {
+                    'ns': 0,
+                    'title': 'Missing Page',
+                    'missing': '',
+                }
+            }
+        }
+    }).encode('utf-8')
+
+
+class TestFetchMissing:
+    def test_api_success_resolves_self_reference(self, tmp_path):
+        """Self-referencing redirect + mock API returning wikitext → resolved_via_api."""
+        wiki_dir = make_wiki(tmp_path, {
+            # On a case-insensitive FS, "Target.mediawiki" and a redirect
+            # pointing to "Target" are the same file (self-reference).
+            # Simulate by making the only file be the redirect stub itself.
+            "Target.mediawiki": "#REDIRECT [[Target]]\n",
+        })
+        manifest_path = tmp_path / "manifest.json"
+
+        canonical_content = "This is the canonical page content from the wiki."
+        mock_resp = MagicMock()
+        mock_resp.read.return_value = _mock_api_response(canonical_content)
+        mock_resp.__enter__ = lambda s: s
+        mock_resp.__exit__ = MagicMock(return_value=False)
+
+        with patch('resolve_redirects.urllib.request.urlopen', return_value=mock_resp):
+            manifest = generate_manifest(wiki_dir, manifest_path,
+                                         fetch_missing=True)
+
+        assert manifest['stats']['resolved_via_api'] == 1
+        assert manifest['stats']['unresolvable'] == 0
+        record = manifest['records'][0]
+        assert record['status'] == 'resolved_via_api'
+        assert record['api_content'] == canonical_content
+
+    def test_api_missing_stays_unresolvable(self, tmp_path):
+        """Mock API returns missing-page → status stays unresolvable."""
+        wiki_dir = make_wiki(tmp_path, {
+            "Broken.mediawiki": "#REDIRECT [[Nonexistent Page]]\n",
+        })
+        manifest_path = tmp_path / "manifest.json"
+
+        mock_resp = MagicMock()
+        mock_resp.read.return_value = _mock_api_missing()
+        mock_resp.__enter__ = lambda s: s
+        mock_resp.__exit__ = MagicMock(return_value=False)
+
+        with patch('resolve_redirects.urllib.request.urlopen', return_value=mock_resp):
+            manifest = generate_manifest(wiki_dir, manifest_path,
+                                         fetch_missing=True)
+
+        assert manifest['stats']['unresolvable'] == 1
+        assert manifest['stats'].get('resolved_via_api', 0) == 0
+
+    def test_api_error_marks_api_error(self, tmp_path):
+        """Mock API raises network timeout → status is api_error."""
+        wiki_dir = make_wiki(tmp_path, {
+            "Broken.mediawiki": "#REDIRECT [[Timeout Page]]\n",
+        })
+        manifest_path = tmp_path / "manifest.json"
+
+        import urllib.error
+        with patch('resolve_redirects.urllib.request.urlopen',
+                   side_effect=urllib.error.URLError('timeout')):
+            manifest = generate_manifest(wiki_dir, manifest_path,
+                                         fetch_missing=True)
+
+        assert manifest['stats']['api_error'] == 1
+        assert manifest['stats']['unresolvable'] == 0
+        record = manifest['records'][0]
+        assert record['status'] == 'api_error'
+        assert 'timeout' in record['notes'].lower()
+
+    def test_rate_limiting_enforced(self, tmp_path):
+        """N API calls take >= N-1 seconds (1 req/sec throttle)."""
+        # Create 3 unresolvable redirects
+        wiki_dir = make_wiki(tmp_path, {
+            "A.mediawiki": "#REDIRECT [[Missing A]]\n",
+            "B.mediawiki": "#REDIRECT [[Missing B]]\n",
+            "C.mediawiki": "#REDIRECT [[Missing C]]\n",
+        })
+        manifest_path = tmp_path / "manifest.json"
+
+        call_count = 0
+        def mock_urlopen(req, timeout=None):
+            nonlocal call_count
+            call_count += 1
+            resp = MagicMock()
+            resp.read.return_value = _mock_api_missing()
+            resp.__enter__ = lambda s: s
+            resp.__exit__ = MagicMock(return_value=False)
+            return resp
+
+        start = time.monotonic()
+        with patch('resolve_redirects.urllib.request.urlopen', side_effect=mock_urlopen):
+            generate_manifest(wiki_dir, manifest_path, fetch_missing=True)
+        elapsed = time.monotonic() - start
+
+        assert call_count == 3
+        # 3 calls → at least 2 seconds of sleep (N-1)
+        assert elapsed >= 2.0, f"Expected >= 2.0s, got {elapsed:.2f}s"
+
+    def test_fetch_missing_off_by_default(self, tmp_path):
+        """Without --fetch-missing, self-references stay unresolvable, no API calls."""
+        wiki_dir = make_wiki(tmp_path, {
+            "Target.mediawiki": "#REDIRECT [[Target]]\n",
+        })
+        manifest_path = tmp_path / "manifest.json"
+
+        with patch('resolve_redirects.urllib.request.urlopen') as mock_urlopen:
+            manifest = generate_manifest(wiki_dir, manifest_path,
+                                         fetch_missing=False)
+
+        mock_urlopen.assert_not_called()
+        assert manifest['stats']['unresolvable'] == 1
+        assert manifest['stats'].get('resolved_via_api', 0) == 0

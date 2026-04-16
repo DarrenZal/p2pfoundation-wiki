@@ -29,6 +29,10 @@ import os
 import re
 import subprocess
 import sys
+import time
+import urllib.error
+import urllib.parse
+import urllib.request
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -44,6 +48,12 @@ INLINE_END = '<!-- END INLINED TARGET CONTENT [plan082-8f3a] -->'
 
 # Max redirect chain depth
 MAX_HOPS = 5
+
+# Wiki API defaults
+DEFAULT_API_URL = 'https://wiki.p2pfoundation.net/api.php'
+USER_AGENT = 'Mozilla/5.0 (compatible; resolve_redirects/1.0; +p2pfoundation-wiki-archive; contact: zaldarren@gmail.com)'
+API_TIMEOUT = 10  # seconds per request
+API_RATE_LIMIT = 1.0  # seconds between requests
 
 
 def parse_redirect(content: str) -> Optional[str]:
@@ -236,6 +246,51 @@ def resolve_chain(wiki_dir: Path, start_target: str,
         current_title = next_title
 
 
+def fetch_wiki_content(title: str, api_url: str = DEFAULT_API_URL) -> Dict[str, Any]:
+    """Fetch canonical wikitext for a page title from the MediaWiki API.
+
+    The API follows redirect chains server-side (redirects=1).
+
+    Returns a dict with:
+        status: 'found' | 'missing' | 'error'
+        content: wikitext string (only when status == 'found')
+        error: error message (only when status == 'error')
+    """
+    params = urllib.parse.urlencode({
+        'action': 'query',
+        'titles': title,
+        'prop': 'revisions',
+        'rvprop': 'content',
+        'rvslots': 'main',
+        'format': 'json',
+        'redirects': '1',
+    })
+    url = f"{api_url}?{params}"
+    req = urllib.request.Request(url, headers={'User-Agent': USER_AGENT})
+
+    try:
+        with urllib.request.urlopen(req, timeout=API_TIMEOUT) as resp:
+            data = json.loads(resp.read().decode('utf-8'))
+    except (urllib.error.URLError, urllib.error.HTTPError, OSError, ValueError) as e:
+        return {'status': 'error', 'error': str(e)}
+
+    pages = data.get('query', {}).get('pages', {})
+    for page_id, page in pages.items():
+        if 'missing' in page or int(page_id) < 0:
+            return {'status': 'missing'}
+        revisions = page.get('revisions', [])
+        if not revisions:
+            return {'status': 'missing'}
+        slots = revisions[0].get('slots', {})
+        main_slot = slots.get('main', {})
+        content = main_slot.get('*')
+        if content is None:
+            return {'status': 'missing'}
+        return {'status': 'found', 'content': content}
+
+    return {'status': 'missing'}
+
+
 def compute_fs_snapshot_hash(wiki_dir: Path) -> str:
     """Compute deterministic hash of redirect-source files (un-normalized only)."""
     entries = []
@@ -256,14 +311,18 @@ def compute_fs_snapshot_hash(wiki_dir: Path) -> str:
     return hashlib.sha256(payload.encode('utf-8')).hexdigest()
 
 
-def generate_manifest(wiki_dir: Path, manifest_path: Path) -> Dict[str, Any]:
+def generate_manifest(wiki_dir: Path, manifest_path: Path,
+                      fetch_missing: bool = False,
+                      api_url: str = DEFAULT_API_URL) -> Dict[str, Any]:
     """Generate a redirect manifest by scanning all .mediawiki files."""
     records = []
     stats = {
         'resolved': 0, 'unresolvable': 0, 'ambiguous': 0,
         'cycle_detected': 0, 'depth_exceeded': 0,
         'encoding_error': 0, 'target_encoding_error': 0,
+        'resolved_via_api': 0, 'api_error': 0,
     }
+    last_api_call: float = 0.0
 
     for f in sorted(wiki_dir.glob("*.mediawiki")):
         # Read file
@@ -294,9 +353,31 @@ def generate_manifest(wiki_dir: Path, manifest_path: Path) -> Dict[str, Any]:
         # Resolve chain (pass source_path for self-reference detection)
         result = resolve_chain(wiki_dir, target, source_path=f)
         status = result['status']
-        stats[status] += 1
 
         body_bytes = 0
+        api_content = None
+
+        # --fetch-missing: try the wiki API for unresolvable redirects
+        if fetch_missing and status == 'unresolvable' and result.get('target_title'):
+            # Rate limit: wait at least API_RATE_LIMIT since last call
+            now = time.monotonic()
+            elapsed = now - last_api_call
+            if last_api_call > 0 and elapsed < API_RATE_LIMIT:
+                time.sleep(API_RATE_LIMIT - elapsed)
+
+            api_result = fetch_wiki_content(result['target_title'], api_url=api_url)
+            last_api_call = time.monotonic()
+
+            if api_result['status'] == 'found':
+                status = 'resolved_via_api'
+                api_content = api_result['content']
+                body_bytes = len(api_content.encode('utf-8'))
+            elif api_result['status'] == 'error':
+                status = 'api_error'
+            # else: 'missing' → stays unresolvable
+
+        stats[status] += 1
+
         if status == 'resolved' and result['target_path']:
             body_bytes = result['target_path'].stat().st_size
 
@@ -310,6 +391,10 @@ def generate_manifest(wiki_dir: Path, manifest_path: Path) -> Dict[str, Any]:
             'notes': '',
         }
 
+        # Store API-fetched content in the manifest so --apply can use it
+        if api_content is not None:
+            record['api_content'] = api_content
+
         if result['section']:
             record['notes'] = f"section fragment: #{result['section']}"
 
@@ -318,6 +403,9 @@ def generate_manifest(wiki_dir: Path, manifest_path: Path) -> Dict[str, Any]:
 
         if status == 'cycle_detected':
             record['notes'] = f"cycle: {' → '.join(result['chain'])}"
+
+        if status == 'api_error':
+            record['notes'] = f"API error: {api_result.get('error', 'unknown')}"
 
         records.append(record)
 
@@ -343,10 +431,13 @@ def build_normalized_content(
     original_target: str,
     target_body: str,
     target_hash: str,
-    hops: int,
+    hops,
     section: Optional[str],
 ) -> str:
-    """Build the normalized redirect file content."""
+    """Build the normalized redirect file content.
+
+    hops can be an int (local resolution) or the string 'api' (resolved via API).
+    """
     now = datetime.datetime.utcnow().isoformat() + 'Z'
     lines = [
         f'#REDIRECT [[{original_target}]]',
@@ -459,31 +550,40 @@ def apply_manifest(wiki_dir: Path, manifest_path: Path, branch: Optional[str],
 
         # Check if already normalized — idempotency via target-hash
         if RESOLVED_AT_RE.search(content):
-            if status == 'resolved' and record.get('resolved_target'):
-                # Check target hash
-                target_path = find_target_file(wiki_dir, record['resolved_target'])[0]
-                if target_path:
+            if status in ('resolved', 'resolved_via_api') and record.get('resolved_target'):
+                # For resolved_via_api, check hash against stored api_content
+                if status == 'resolved_via_api':
+                    api_body = record.get('api_content', '')
+                    current_target_hash = hashlib.sha256(
+                        api_body.encode('utf-8')
+                    ).hexdigest()
+                else:
+                    target_path = find_target_file(wiki_dir, record['resolved_target'])[0]
+                    if not target_path:
+                        counters['skipped_hash'] += 1
+                        continue
                     current_target_hash = hashlib.sha256(
                         target_path.read_bytes()
                     ).hexdigest()
-                    # Extract existing target-hash
-                    hash_match = re.search(
-                        r'<!--\s*target-hash:\s*sha256-([0-9a-f]+)\s*-->',
-                        content
-                    )
-                    if hash_match and hash_match.group(1) == current_target_hash:
-                        counters['skipped_hash'] += 1
-                        continue
-                    # Target changed — rewrite the inlined block
-                    target_body = target_path.read_text(encoding='utf-8')
-                    _, section_frag, _ = split_target(record['original_target'])
-                    new_content = build_normalized_content(
-                        record['original_target'], target_body,
-                        current_target_hash, record['hops'], section_frag,
-                    )
-                else:
+                # Extract existing target-hash
+                hash_match = re.search(
+                    r'<!--\s*target-hash:\s*sha256-([0-9a-f]+)\s*-->',
+                    content
+                )
+                if hash_match and hash_match.group(1) == current_target_hash:
                     counters['skipped_hash'] += 1
                     continue
+                # Target changed — rewrite
+                if status == 'resolved_via_api':
+                    target_body = api_body
+                else:
+                    target_body = target_path.read_text(encoding='utf-8')
+                _, section_frag, _ = split_target(record['original_target'])
+                hops = 'api' if status == 'resolved_via_api' else record['hops']
+                new_content = build_normalized_content(
+                    record['original_target'], target_body,
+                    current_target_hash, hops, section_frag,
+                )
             else:
                 counters['skipped_status'] += 1
                 continue
@@ -503,8 +603,20 @@ def apply_manifest(wiki_dir: Path, manifest_path: Path, branch: Optional[str],
                 record['original_target'], target_body,
                 target_hash, record['hops'], section_frag,
             )
+        elif status == 'resolved_via_api':
+            api_body = record.get('api_content', '')
+            if not api_body:
+                counters['errors'] += 1
+                continue
+            target_hash = hashlib.sha256(api_body.encode('utf-8')).hexdigest()
+            _, section_frag, _ = split_target(record['original_target'])
+            new_content = build_normalized_content(
+                record['original_target'], api_body,
+                target_hash, 'api', section_frag,
+            )
         else:
-            # Non-resolved statuses: write status marker
+            # Non-resolved statuses (unresolvable, ambiguous, cycle, depth,
+            # api_error): write status marker
             first_line = content.splitlines()[0] if content.splitlines() else ''
             new_content = build_status_content(
                 first_line, record['original_target'],
@@ -533,7 +645,8 @@ def verify_apply(wiki_dir: Path, manifest_path: Path) -> Dict[str, int]:
     counters = {'verified': 0, 'mismatch': 0, 'skipped': 0, 'errors': 0}
 
     for record in manifest['records']:
-        if record['status'] != 'resolved':
+        status = record['status']
+        if status not in ('resolved', 'resolved_via_api'):
             counters['skipped'] += 1
             continue
 
@@ -570,17 +683,25 @@ def verify_apply(wiki_dir: Path, manifest_path: Path) -> Dict[str, int]:
         if inlined.endswith('\n'):
             inlined = inlined[:-1]
 
-        # Verify against actual target file
-        target_path = find_target_file(wiki_dir, record['resolved_target'])[0]
-        if not target_path:
-            counters['errors'] += 1
-            continue
-
-        actual_hash = hashlib.sha256(target_path.read_bytes()).hexdigest()
-        if actual_hash == embedded_hash:
-            counters['verified'] += 1
+        if status == 'resolved_via_api':
+            # For API-resolved, verify the embedded hash matches the
+            # inlined content itself (no local target file to compare)
+            inlined_hash = hashlib.sha256(inlined.encode('utf-8')).hexdigest()
+            if inlined_hash == embedded_hash:
+                counters['verified'] += 1
+            else:
+                counters['mismatch'] += 1
         else:
-            counters['mismatch'] += 1
+            # Verify against actual target file
+            target_path = find_target_file(wiki_dir, record['resolved_target'])[0]
+            if not target_path:
+                counters['errors'] += 1
+                continue
+            actual_hash = hashlib.sha256(target_path.read_bytes()).hexdigest()
+            if actual_hash == embedded_hash:
+                counters['verified'] += 1
+            else:
+                counters['mismatch'] += 1
 
     return counters
 
@@ -605,6 +726,10 @@ def build_parser() -> argparse.ArgumentParser:
 
     parser.add_argument('--branch', type=str, default=None,
                         help="Expected branch name (for --apply gate)")
+    parser.add_argument('--fetch-missing', action='store_true',
+                        help="Fetch unresolvable redirects from the wiki API")
+    parser.add_argument('--api-url', type=str, default=DEFAULT_API_URL,
+                        help=f"MediaWiki API URL (default: {DEFAULT_API_URL})")
     parser.add_argument('--force-reresolve', action='store_true',
                         help="Force re-resolution of already-normalized files")
     parser.add_argument('--i-have-checked-the-gates', action='store_true',
@@ -626,15 +751,30 @@ def main():
         if not args.manifest:
             print("ERROR: --manifest is required with --dry-run", file=sys.stderr)
             sys.exit(1)
-        manifest = generate_manifest(wiki_dir, args.manifest)
+        manifest = generate_manifest(wiki_dir, args.manifest,
+                                      fetch_missing=args.fetch_missing,
+                                      api_url=args.api_url)
         stats = manifest['stats']
         total = manifest['total_redirects']
         print(f"Manifest generated: {args.manifest}")
         print(f"Total redirects: {total}")
         for k, v in stats.items():
+            if v == 0:
+                continue
             pct = f" ({v/total*100:.1f}%)" if total > 0 else ""
             print(f"  {k}: {v}{pct}")
+        resolved_total = stats.get('resolved', 0) + stats.get('resolved_via_api', 0)
+        if total > 0:
+            print(f"Total resolved: {resolved_total}/{total} ({resolved_total/total*100:.1f}%)")
         print(f"Filesystem snapshot hash: {manifest['filesystem_snapshot_hash']}")
+        if args.fetch_missing:
+            api_resolved = stats.get('resolved_via_api', 0)
+            api_errors = stats.get('api_error', 0)
+            still_unresolvable = stats.get('unresolvable', 0)
+            print(f"\nFetch-missing results: "
+                  f"{api_resolved} resolved_via_api, "
+                  f"{still_unresolvable} still unresolvable, "
+                  f"{api_errors} api_error")
 
     elif args.apply:
         if not args.manifest:
